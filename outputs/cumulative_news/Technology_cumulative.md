@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-14 07:03
+**最后更新时间**: 2026-06-14 10:52
+
+---
+
+## 🆕 最新更新 (2026-06-14 10:52)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [MiniMax站在十字路口：解禁、涨价与全球巨头的三重绞杀](https://www.tmtpost.com/8027254.html)
+**发布时间**: 2026-06-14 17:15
+
+#### [对话华大尹烨：AI时代，如何思考生命？](https://www.tmtpost.com/8027247.html)
+**发布时间**: 2026-06-14 17:08
+
+#### [大疆和影石，正在终结GoPro时代](https://www.tmtpost.com/8027217.html)
+**发布时间**: 2026-06-14 16:38
+
+#### [看完晚点和蓝标潘飞的对话，我的几点感想](https://www.tmtpost.com/8027228.html)
+**发布时间**: 2026-06-14 16:38
+
+#### [马斯克的二当家，没有她，SpaceX可能已经死了](https://www.tmtpost.com/8027204.html)
+**发布时间**: 2026-06-14 16:31
+
+#### [华人AI工程师也搭上了SpaceX的财富火箭](https://www.tmtpost.com/8027191.html)
+**发布时间**: 2026-06-14 16:01
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [把 3 个免费模型接入到 Claude Code ，Token 随便用。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534527&idx=1&sn=63980e0d2e1a81599c85b53e681629b6)
+**发布时间**: 2026-06-14 11:38
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [把 AI 装进口袋，然后把它忘掉：
+YoooClaw C·ONE 智能硬件一个月使用体验](https://sspai.com/post/110914)
+**发布时间**: 2026-06-12 14:42
 
 ---
 

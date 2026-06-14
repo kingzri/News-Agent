@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-14 07:03
+**最后更新时间**: 2026-06-14 10:52
+
+---
+
+## 🆕 最新更新 (2026-06-14 10:52)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The coach who bonded with Putin and took Curaçao to the World Cup](https://www.ft.com/content/d56df5f0-0310-4e31-b5bb-f53d335b191c)
+**发布时间**: 2026-06-14 10:00
+
+#### [How Israel’s ‘trampoline’ economy has adapted to war](https://www.ft.com/content/3cce2be6-0fe4-47db-acce-1df6e7c83dfd)
+**发布时间**: 2026-06-14 08:09
+
+#### [Germany seeks Deutsche Börse exemption from EU supervision](https://www.ft.com/content/103ba798-b257-4797-a4fb-a2e5ab009b2d)
+**发布时间**: 2026-06-14 04:00
 
 ---
 

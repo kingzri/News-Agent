@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "299a70eab6740437f963070879a98b3d47fa259a96d464813056022be1cf4989": {
-        "title": "复制失败与脏碎片：Linux 页面缓存漏洞影响所有主流发行版",
-        "link": "https://www.infoq.cn/article/1HucCJrazwgF7QNT232r?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 15 May 2026 09:37:00 GMT",
-        "first_seen": "2026-05-15T10:28:22.597239"
-      },
-      "27b7066b07d7601a791fd6092b35fc61aac8275fdf710d88e59a078835497f3b": {
-        "title": "当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？",
-        "link": "https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 15 May 2026 17:15:00 GMT",
-        "first_seen": "2026-05-15T10:28:22.597246"
-      },
-      "86b0a45333761277a386fa52a55acc1a453fb2eeab25488f4240aaeff66257c3": {
-        "title": "“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
-        "link": "https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 15 May 2026 17:42:00 GMT",
-        "first_seen": "2026-05-15T10:28:22.597248"
-      },
-      "c64fc34ad84ef24871541401f59465c66f990cdafe3fc0ddb123cefff565a01c": {
-        "title": "Anthropic 推出 Claude Platform on AWS",
-        "link": "https://www.infoq.cn/article/mjFmXfhf29SA5UFhr2QV?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 15 May 2026 18:12:00 GMT",
-        "first_seen": "2026-05-15T10:28:22.597250"
-      },
-      "90b4447b7068d74881fee31ca29905f86fd3ef23b5a4fa2a886cda8eb229737f": {
-        "title": "Agent将计算推向端侧，NAS不再仅是存储丨ToB产业观察",
-        "link": "https://www.tmtpost.com/7989557.html",
-        "published_date": "Fri, 15 May 2026 16:38:00 GMT",
-        "first_seen": "2026-05-15T10:28:22.597252"
-      },
       "f3ccc8c1636b878a22f46ed4a30cc2782df9d6474faa48998b26dbdb2ebf84f7": {
         "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
         "link": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
@@ -3187,39 +3157,51 @@
         "link": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 14 Jun 2026 10:00:00 GMT",
         "first_seen": "2026-06-14T07:03:03.320844"
+      },
+      "b1ab84498bfc88aced469bc20d431e6c3366f4c82230f2bff4cd1263b2294043": {
+        "title": "MiniMax站在十字路口：解禁、涨价与全球巨头的三重绞杀",
+        "link": "https://www.tmtpost.com/8027254.html",
+        "published_date": "Sun, 14 Jun 2026 17:15:00 GMT",
+        "first_seen": "2026-06-14T10:52:34.124884"
+      },
+      "aee30c2dbd9f609a530481c47f91dfbbdcdbbc6dbcae7a6253cdd5bdd7e9fcfb": {
+        "title": "对话华大尹烨：AI时代，如何思考生命？",
+        "link": "https://www.tmtpost.com/8027247.html",
+        "published_date": "Sun, 14 Jun 2026 17:08:00 GMT",
+        "first_seen": "2026-06-14T10:52:34.124899"
+      },
+      "33f3b2bd1385241a187810d9e713fa5cd06261b57d31bf1708f73495653ecc33": {
+        "title": "大疆和影石，正在终结GoPro时代",
+        "link": "https://www.tmtpost.com/8027217.html",
+        "published_date": "Sun, 14 Jun 2026 16:38:00 GMT",
+        "first_seen": "2026-06-14T10:52:34.124902"
+      },
+      "eedf86684a053a11284153fd788b7598bc3859a291363cfd12fb3d3368fd1272": {
+        "title": "看完晚点和蓝标潘飞的对话，我的几点感想",
+        "link": "https://www.tmtpost.com/8027228.html",
+        "published_date": "Sun, 14 Jun 2026 16:38:00 GMT",
+        "first_seen": "2026-06-14T10:52:34.124905"
+      },
+      "b52fee006083f23d314c8a3c968368c9a27d6fb563298e21072befcf31f3ed64": {
+        "title": "马斯克的二当家，没有她，SpaceX可能已经死了",
+        "link": "https://www.tmtpost.com/8027204.html",
+        "published_date": "Sun, 14 Jun 2026 16:31:00 GMT",
+        "first_seen": "2026-06-14T10:52:34.124907"
+      },
+      "477ae1fddcf099ffde2815db36f7c5f6433b134b24b1a64320933fd6ba810e7b": {
+        "title": "华人AI工程师也搭上了SpaceX的财富火箭",
+        "link": "https://www.tmtpost.com/8027191.html",
+        "published_date": "Sun, 14 Jun 2026 16:01:00 GMT",
+        "first_seen": "2026-06-14T10:52:34.124908"
+      },
+      "5ffecb10c8bc75ec1dd6eba6a4704dca41d3bab6b843e7b888484b03567576de": {
+        "title": "把 3 个免费模型接入到 Claude Code ，Token 随便用。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534527&idx=1&sn=63980e0d2e1a81599c85b53e681629b6",
+        "published_date": "Sun, 14 Jun 2026 11:38:00 GMT",
+        "first_seen": "2026-06-14T10:52:34.124910"
       }
     },
     "Finance": {
-      "22609bae866ed8be0e195ef4ca246ee1458e446a17f1f2faf23d4cb3d29ae8cd": {
-        "title": "Schroders looks to exit China mutual funds business after just three years",
-        "link": "https://www.ft.com/content/af307ee3-1b50-436e-a2a2-70a197ab5c4d",
-        "published_date": "Fri, 15 May 2026 09:26:00 GMT",
-        "first_seen": "2026-05-15T10:27:47.061423"
-      },
-      "73c7a1dae1e24457008b1a33996dfbc9d51adfd928c66d009ed006489bb8890b": {
-        "title": "SpaceX IPO set to lock in Musk’s control with Mars-linked pay deal",
-        "link": "https://www.ft.com/content/00382ab9-3dfe-468c-8966-853cd787dd43",
-        "published_date": "Fri, 15 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-15T10:27:47.061433"
-      },
-      "31908b85244a5f52c2a519f2b54696f93d0699db43afc83c3029217f2b09b10c": {
-        "title": "McKinsey set to cut partner cash in post-AI pay revamp",
-        "link": "https://www.ft.com/content/07a10974-bdfd-4f31-9aff-9e284c8f8de8",
-        "published_date": "Fri, 15 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-15T10:27:47.061436"
-      },
-      "187007c0d78392bc39e2d282da9c292ec349e8c00c44fc7b65191c798abfbff0": {
-        "title": "Why Warsh wants the Fed to keep quiet",
-        "link": "https://www.ft.com/content/216c5568-9900-4b69-b4ad-479d860ec225",
-        "published_date": "Fri, 15 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-15T10:27:47.061438"
-      },
-      "0ebd86613cd1197540533106251476ea0901802df25f0defd275a05c8abbf95f": {
-        "title": "Trump’s big trip was supposed to sell 500 Boeing planes. China is only buying 200 of them.",
-        "link": "https://www.marketwatch.com/story/boeings-stock-drops-as-trumps-order-deal-with-china-disappoints-baff30fa?mod=mw_rss_topstories",
-        "published_date": "Fri, 15 May 2026 02:08:00 GMT",
-        "first_seen": "2026-05-15T10:27:47.061441"
-      },
       "e4e3202fba1f592c94343a37741bce29e720e67d49ed318e0f0bf09b7b6440e4": {
         "title": "US federal prosecutors scrutinise BlackRock private credit fund",
         "link": "https://www.ft.com/content/59ab31ca-e5d3-4d22-b943-02c139db6822",
@@ -5949,39 +5931,21 @@
         "link": "https://www.ft.com/content/76de5ca6-9ae8-49ae-a0cb-64d09040f327",
         "published_date": "Sun, 14 Jun 2026 02:24:00 GMT",
         "first_seen": "2026-06-14T07:03:03.399215"
+      },
+      "e8ed264461f16dde0506b963808a235250d8e1a8635236cac89355cb77ea0597": {
+        "title": "The coach who bonded with Putin and took Curaçao to the World Cup",
+        "link": "https://www.ft.com/content/d56df5f0-0310-4e31-b5bb-f53d335b191c",
+        "published_date": "Sun, 14 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-14T10:52:34.213191"
+      },
+      "9d0eafcba7554b54c47f9abf8eaf0685d980b4221d79d4eaaa31e28f0b7f4119": {
+        "title": "How Israel’s ‘trampoline’ economy has adapted to war",
+        "link": "https://www.ft.com/content/3cce2be6-0fe4-47db-acce-1df6e7c83dfd",
+        "published_date": "Sun, 14 Jun 2026 08:09:00 GMT",
+        "first_seen": "2026-06-14T10:52:34.213201"
       }
     },
     "Ai": {
-      "9068d737a558263ec78f2c6e31ab93e2b6f48eac0aaac5e125eafaddedfb225b": {
-        "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
-        "link": "https://www.qbitai.com/2026/05/418027.html",
-        "published_date": "Fri, 15 May 2026 07:36:00 GMT",
-        "first_seen": "2026-05-15T10:27:58.535381"
-      },
-      "6f73e3193e781cf167da25412aeff32acf63c345ca9b8a76c9ee332f463aa86d": {
-        "title": "蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强",
-        "link": "https://www.qbitai.com/2026/05/417961.html",
-        "published_date": "Fri, 15 May 2026 07:14:00 GMT",
-        "first_seen": "2026-05-15T10:27:58.535387"
-      },
-      "fac5c8106d54d0819f01f9c53b4e547407b0fd06e91436062bb58e6726137836": {
-        "title": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能",
-        "link": "https://www.qbitai.com/2026/05/417935.html",
-        "published_date": "Fri, 15 May 2026 02:21:00 GMT",
-        "first_seen": "2026-05-15T10:27:58.535389"
-      },
-      "4cfff1002206e7dc4c048e75830e4b46ef28bbf3bde6e6ee7ed88f50242ce4e2": {
-        "title": "智能无处不在：OpenClaw预示的AI未来",
-        "link": "https://www.qbitai.com/2026/05/417958.html",
-        "published_date": "Fri, 15 May 2026 06:36:00 GMT",
-        "first_seen": "2026-05-15T10:27:58.535391"
-      },
-      "75852bea7ee5c92ea49cdc20ca4c50b39b684763b4d7776857ce05c5a390e050": {
-        "title": "手机的智能体AI，正在因为天玑全面跃升",
-        "link": "https://www.qbitai.com/2026/05/417968.html",
-        "published_date": "Fri, 15 May 2026 07:36:00 GMT",
-        "first_seen": "2026-05-15T10:27:58.535393"
-      },
       "ed68e0d54cc55f13edc4062eea80816218abf91b838e01699123f3e10df30763": {
         "title": "2026-05-15日刊",
         "link": "https://hex2077.dev/docs/2026-05/2026-05-15/",
@@ -8230,8 +8194,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-14T07:03:03.320846",
-    "Finance": "2026-06-14T07:03:03.399219",
+    "Technology": "2026-06-14T10:52:34.124913",
+    "Finance": "2026-06-14T10:52:34.213204",
     "Ai": "2026-06-14T00:10:52.186244"
   }
 }
