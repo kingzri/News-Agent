@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-18 09:17
+**最后更新时间**: 2026-06-19 09:31
+
+---
+
+## 🆕 最新更新 (2026-06-19 09:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Burnham storms to by-election victory in challenge to Starmer](https://www.ft.com/content/095b3f3d-8c66-46fa-bb2a-1b8186f3f054)
+**发布时间**: 2026-06-19 09:21
+
+#### [Iran postponed US talks due to Israeli strikes on Lebanon, diplomats say](https://www.ft.com/content/9cd814af-6144-4646-ad1c-a6292391e613)
+**发布时间**: 2026-06-19 08:59
+
+#### [Burnham’s win should worry Farage](https://www.ft.com/content/e3f04bcf-809d-462f-9d77-180d97964b02)
+**发布时间**: 2026-06-19 05:13
+
+#### [Are insurers becoming dangerously addicted to private credit ratings?](https://www.ft.com/content/bfcb04a7-8e13-480a-aa59-a13dee53c698)
+**发布时间**: 2026-06-19 04:00
+
+#### [‘Hawkish shift’ in US rates upends global currency bets](https://www.ft.com/content/9d0f7f40-0a65-4188-9752-a69baab12176)
+**发布时间**: 2026-06-19 04:00
+
+#### [Xi wants China to boost demand. Why isn’t it working?](https://www.ft.com/content/7db72916-3f9f-42c6-bd28-b5c7f51ed573)
+**发布时间**: 2026-06-19 03:12
+
+#### [Starmer says he would stand in a Labour leadership race](https://www.ft.com/content/44e1e71d-dcd2-4935-a14b-b14ed3b24bf8)
+**发布时间**: 2026-06-19 02:26
+
+#### [EU delays trade confrontation with China](https://www.ft.com/content/e220372c-b20e-418e-9f02-29a5aa269702)
+**发布时间**: 2026-06-19 01:35
+
+#### [Vance lashes out at Israeli government over Iran deal criticism](https://www.ft.com/content/cbb2047a-91dd-4777-9051-e9c709f4388b)
+**发布时间**: 2026-06-19 01:33
+
+#### [SpaceX plots $20bn bond deal after record IPO](https://www.ft.com/content/8b73b4ce-3855-4b89-9110-3d892567f28a)
+**发布时间**: 2026-06-18 22:01
+
+#### [SpaceX warns EU satellite plan risks undermining connectivity in Ukraine](https://www.ft.com/content/0b012610-8132-4549-afd9-14bacd9db8cb)
+**发布时间**: 2026-06-18 22:00
+
+#### [The world may not like Trump’s Gaza plan — but there is no alternative](https://www.ft.com/content/2472e584-758b-4a3f-83d1-9fba042a9312)
+**发布时间**: 2026-06-18 17:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?](https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-19 04:01
+
+#### [Is Tesla succeeding in AI? Watch this for a clue.](https://www.marketwatch.com/story/is-tesla-succeeding-in-ai-watch-this-for-a-clue-c72bc49e?mod=mw_rss_topstories)
+**发布时间**: 2026-06-19 02:27
+
+#### [This AI company wants to replace MRIs with a 60-second dip in the spa. Can that really work?](https://www.marketwatch.com/story/this-ai-company-wants-to-replace-mris-with-a-60-second-dip-in-the-spa-can-that-really-work-3bce6681?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 23:22
+
+#### [I’m 55 and retiring in 6 years. Should I be switching to Roth 401(k) contributions now?](https://www.marketwatch.com/story/im-55-and-retiring-in-6-years-should-i-be-switching-to-roth-401-k-now-71d6c468?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 23:11
+
+#### [Trump’s Iran agreement is a massive buy signal for stocks](https://www.marketwatch.com/story/trumps-iran-agreement-changes-the-game-for-investors-these-are-the-two-sectors-to-buy-right-now-0705bc62?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 23:09
+
+#### [SpaceX is vastly more expensive than any stock in the S&P 500, fueled by ‘FOMO’ mentality](https://www.marketwatch.com/story/spacex-is-vastly-more-expensive-than-any-stock-in-the-s-p-500-fueled-by-fomo-mentality-eb61cd69?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 22:03
+
+#### [Intel’s stock jumps 11% — even as analysts say new Apple chip deal might start small](https://www.marketwatch.com/story/intel-shares-rally-as-trump-says-company-will-build-chips-for-apple-in-the-u-s-c72d8c88?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 22:00
+
+#### [Two big reasons Accenture’s stock is sliding in the wake of earnings](https://www.marketwatch.com/story/two-big-reasons-accentures-stock-is-sliding-in-the-wake-of-earnings-9353b184?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 21:58
+
+#### [Micron’s stock is on the rise. Even Apple isn’t safe from ballooning memory-chip costs.](https://www.marketwatch.com/story/microns-stock-is-on-the-rise-even-apple-isnt-safe-from-ballooning-memory-chip-costs-ddd04d74?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 21:56
+
+#### [SpaceX options volume explodes as trading kicks off. Here is a low-risk strategy to play the massive surge.](https://www.marketwatch.com/story/spacex-options-volume-explodes-as-trading-kicks-off-here-is-a-low-risk-strategy-to-play-the-massive-surge-425f9b51?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 21:36
 
 ---
 

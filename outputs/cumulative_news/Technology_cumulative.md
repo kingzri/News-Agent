@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-18 09:17
+**最后更新时间**: 2026-06-19 09:31
+
+---
+
+## 🆕 最新更新 (2026-06-19 09:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [子公司 IPO 黄了，母公司反而更好上市？长江存储这步棋看懂的人不多](https://www.tmtpost.com/8033754.html)
+**发布时间**: 2026-06-19 17:25
+
+#### [AI成绩单背后，藏着一位华人“出题人”](https://www.tmtpost.com/8034299.html)
+**发布时间**: 2026-06-19 17:12
+
+#### [美国AI狂飙，亚洲抢先吃饱](https://www.tmtpost.com/8034217.html)
+**发布时间**: 2026-06-19 17:11
+
+#### [AI 让独立游戏更容易做出来，也更容易死在 Steam 里](https://www.tmtpost.com/8034209.html)
+**发布时间**: 2026-06-19 17:11
+
+#### [中式养生水，正在复制无糖茶的品类奇迹？](https://www.tmtpost.com/8034192.html)
+**发布时间**: 2026-06-19 17:11
+
+#### [国轩高科、欣旺达与中创新航成为鸿蒙新供应商，宁德时代一家独大的格局已发生变化](https://www.tmtpost.com/8034156.html)
+**发布时间**: 2026-06-19 17:11
+
+#### [Token成本算盘打响，Seedance开始驶向“五环外”](https://www.tmtpost.com/8034155.html)
+**发布时间**: 2026-06-19 17:08
+
+#### [是80%的工位面向海景，马岩松在腾讯“企鹅岛”上留了一片海](https://www.tmtpost.com/8021678.html)
+**发布时间**: 2026-06-19 17:06
+
+#### [精品仙侠在漫剧爆发，当技术成熟创作者表达再度被激发](https://www.tmtpost.com/8034087.html)
+**发布时间**: 2026-06-19 17:06
+
+#### [李想年薪跳水后“重赏”三大高管，但解锁需万亿市值](https://www.tmtpost.com/8033741.html)
+**发布时间**: 2026-06-19 17:06
+
+#### [35岁被AI“顶替”，他用26万的判决书扯下企业的遮羞布](https://www.tmtpost.com/8033497.html)
+**发布时间**: 2026-06-19 17:06
+
+#### [壁仞到底“几斤几两”？](https://www.tmtpost.com/8033720.html)
+**发布时间**: 2026-06-19 17:04
+
+#### [小红书递表，世界杯是临门一脚吗？](https://www.tmtpost.com/8033641.html)
+**发布时间**: 2026-06-19 17:04
+
+#### [现偶困在了“伪骨科”里](https://www.tmtpost.com/8033967.html)
+**发布时间**: 2026-06-19 17:01
+
+#### [中国品牌豪赌世界杯：钱没少花，算盘变了](https://www.tmtpost.com/8033805.html)
+**发布时间**: 2026-06-19 17:00
+
+#### [别被不靠谱服务商忽悠，GEO优化没有捷径](https://www.tmtpost.com/8034154.html)
+**发布时间**: 2026-06-19 17:00
+
+#### [硅谷最抢手的新岗位出现了](https://www.tmtpost.com/8033869.html)
+**发布时间**: 2026-06-19 16:57
+
+#### [综N代的夏天：有节目“备受争议”，有节目“破茧重生”](https://www.tmtpost.com/8034000.html)
+**发布时间**: 2026-06-19 16:56
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海](https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-19 10:00
+
+#### [Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3](https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-19 10:00
+
+#### [创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛](https://www.infoq.cn/article/GYBZkeGxGry11oCu0c1A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 19:27
+
+#### [当 Token 成为商品，AI 基础设施会怎么变化？](https://www.infoq.cn/article/VXD37NcfxyXjXFLk2hyd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 19:17
+
+#### [Gemini 联合负责人出走 OpenAI：Google 为什么总让 AI 天才感到挫败？](https://www.infoq.cn/article/3hkmF10X9ec1ujwwIjFW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 18:15
+
+#### [Anthropic 发布 Claude Fable 5 三天遭临时下架](https://www.infoq.cn/article/UXghld6fuzYxJNuU6L47?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 18:14
+
+#### [个体10倍提效，组织却不足20%？AI产业正迎来Agent落地大考](https://www.infoq.cn/article/Xbol4ryW7wkczQsumUY9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:58
+
+#### [自主智能体遇阻：数据库成最大挑战](https://www.infoq.cn/article/BtWV3huF3ZydPc501mAO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:54
+
+#### [JetBrains 开源 Mellum2，尝试 Claude Code 无法涉足的领域](https://www.infoq.cn/article/QQVa7HhtdoDzLFB7ewVQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:48
+
+#### [砍掉90%冗余词元，省下70万美元：Netflix开源工具狙击AI账单黑洞](https://www.infoq.cn/article/SdkcGqZQ2coEqM04xsQG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:42
+
+#### [谷歌给 Android 开发者选模型：GPT-5.5 暂时领先](https://www.infoq.cn/article/76b4Q6i80w8MFHpuFFWA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:33
+
+#### [Google 想为 AI Agent 打造下一个 Kubernetes](https://www.infoq.cn/article/jNsfjJuAJjDzGYS51jHC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:27
+
+#### [上下文窗口限制被打破：Subquadratic推出了一个1200万Token的窗口](https://www.infoq.cn/article/0zbyxse0IZs690HL9Jev?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:18
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 244｜少数派的编辑们最近买了啥？](https://sspai.com/post/111211)
+**发布时间**: 2026-06-18 17:23
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个爆红的 GitHub 项目让 token 直接省 60–95%。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534620&idx=1&sn=fb26dc3b155501d8c39b371aaea31959)
+**发布时间**: 2026-06-18 13:54
 
 ---
 
