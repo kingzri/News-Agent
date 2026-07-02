@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-01 08:50
+**最后更新时间**: 2026-07-02 00:08
+
+---
+
+## 🆕 最新更新 (2026-07-02 00:08)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [物理 AI 到来，移动网络该如何进化？](https://www.leiphone.com/category/industrynews/CpoGYmsPl9BAuO0W.html)
+**发布时间**: 2026-07-01 22:05
+
+#### [赛力斯发布6月产销快报 1-6月问界累计交付同比增长10.2%](https://www.leiphone.com/category/industrynews/IUJkaiRJfWAKK6uy.html)
+**发布时间**: 2026-07-01 21:13
+
+#### [即梦AI携创作者亮相法国昂西动画节，3000份全球投稿勾勒AI动画创作新图景](https://www.leiphone.com/category/industrynews/uUmZypOBARMHYx3W.html)
+**发布时间**: 2026-07-01 18:42
+
+#### [Reddit 上爆出大猛料，Claude 为何封号中国用户又快又准？](https://www.leiphone.com/category/ai/rzmbSvqty7wRNC3N.html)
+**发布时间**: 2026-07-01 18:37
+
+#### [感知、控制与数据：ICRA 2026 中国企业报告的三个交汇点](https://www.leiphone.com/category/robot/lfPVjqvr7wegDtRI.html)
+**发布时间**: 2026-07-01 17:46
+
+#### [走访 ICRA 30+中国企业，我们发现具身智能产业三大趋势 | ICRA 2026](https://www.leiphone.com/category/robot/fDotgIuCGA028lZJ.html)
+**发布时间**: 2026-07-01 17:07
+
+#### [英伟达为什么选了 Sharpa 的手？ICRA 2026现场我们找到了答案](https://www.leiphone.com/category/robot/JFHcks3RY28319Mb.html)
+**发布时间**: 2026-07-01 16:58
+
+#### [独家丨世界模型企业知天下完成天使轮融资，要做「中国版World Labs」](https://www.leiphone.com/category/robot/f6tUYpkNfttVSBf3.html)
+**发布时间**: 2026-07-01 16:53
+
+#### [百花奖联合即梦AI首设AIGC推优单元，即日启动全球征集](https://www.leiphone.com/category/industrynews/zHXIS9N1aUAltixB.html)
+**发布时间**: 2026-07-01 15:10
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/)
+**发布时间**: 2026-07-01 18:14
+
+#### [Building a serverless A2A gateway for agent discovery, routing, and access control](https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/)
+**发布时间**: 2026-07-01 18:07
+
+#### [Structured memory filtering with metadata in AgentCore Memory](https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/)
+**发布时间**: 2026-07-01 18:03
+
+#### [HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank](https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/)
+**发布时间**: 2026-07-01 18:01
+
+#### [How Inscribe uses Amazon Bedrock to stop document fraud in seconds](https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/)
+**发布时间**: 2026-07-01 17:53
+
+#### [Simplify model selection in Amazon Bedrock with the open source Model Profiler](https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/)
+**发布时间**: 2026-07-01 17:46
+
+#### [Accelerate protein design with BoltzGen on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/accelerate-protein-design-with-boltzgen-on-amazon-sagemaker-ai/)
+**发布时间**: 2026-07-01 17:44
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT in the media: Innovating and educating for the next 250 years of America](https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america)
+**发布时间**: 2026-07-01 16:30
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA and Partners Build in America, for America](https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/)
+**发布时间**: 2026-07-01 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了](https://www.qbitai.com/2026/07/441396.html)
+**发布时间**: 2026-07-01 09:33
+
+#### [OceanBase湖库一体，重新定义AI数据库](https://www.qbitai.com/2026/07/441386.html)
+**发布时间**: 2026-07-01 09:05
+
+### 📰 来源: [BAIR Blog](https://bair.berkeley.edu/blog/feed.xml)
+
+#### [2026 BAIR Graduate Showcase](http://bair.berkeley.edu/blog/2026/07/01/grads-2026/)
+**发布时间**: 2026-07-01 02:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](https://huggingface.co/blog/cerebras-gemma4-voice-ai)
+**发布时间**: 2026-07-01 00:00
 
 ---
 
