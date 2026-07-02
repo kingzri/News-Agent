@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-02 00:08
+**最后更新时间**: 2026-07-02 08:12
+
+---
+
+## 🆕 最新更新 (2026-07-02 08:12)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [十年ICML，十次思想浪潮，当AI开始问“为谁而算”｜ICML2026](https://www.leiphone.com/category/private/sADR0wFJaCQinCZr.html)
+**发布时间**: 2026-07-02 13:36
+
+#### [从生成到交付，音视频 Agent 要有生产级开发套件](https://www.leiphone.com/category/industrynews/bm5j7ZigtfWU5sL5.html)
+**发布时间**: 2026-07-02 11:32
+
+#### [Anthropic、OpenAI同一天落子AI4S赛道，巨头混战从「拼模型」转向「卡生态」](https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html)
+**发布时间**: 2026-07-02 10:11
+
+#### [ICML 2026前瞻：投稿翻倍背后，机器学习正在换挡](https://www.leiphone.com/category/private/Nw1OlDVlsfqh1PJq.html)
+**发布时间**: 2026-07-02 09:48
+
+#### [曝美国最强AI公司暗藏针对中国的「监视代码」，已持续3个月；优必选CEO：珍惜做牛马的时光，20年后全是机器人干活；iPhone17价格将迎调整](https://www.leiphone.com/category/zaobao/8xIKNxdh5DASn0Tj.html)
+**发布时间**: 2026-07-02 08:52
+
+#### [走访 ICRA 30+中国企业，我们发现具身智能产业三大趋势 | ICRA 2026](https://www.leiphone.com/category/private/fDotgIuCGA028lZJ.html)
+**发布时间**: 2026-07-01 17:07
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-02日刊](https://hex2077.dev/docs/2026-07/2026-07-02/)
+**发布时间**: 2026-07-02 10:58
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进](https://www.qbitai.com/2026/07/441786.html)
+**发布时间**: 2026-07-02 06:23
+
+#### [训练世界模型，开始从人类的肌肉和脑子里偷师了](https://www.qbitai.com/2026/07/441725.html)
+**发布时间**: 2026-07-02 05:44
+
+#### [2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！](https://www.qbitai.com/2026/07/441586.html)
+**发布时间**: 2026-07-02 05:33
+
+#### [世界模型来了因果技术标杆！具身大脑真要长脑子了](https://www.qbitai.com/2026/07/441490.html)
+**发布时间**: 2026-07-02 04:36
+
+#### [AI眼镜不再依赖手机！这次真要单飞了](https://www.qbitai.com/2026/07/441491.html)
+**发布时间**: 2026-07-02 04:20
+
+#### [7月14日悉尼RSS’26，线下Social Mixer晚宴报名中！](https://www.qbitai.com/2026/07/441479.html)
+**发布时间**: 2026-07-02 04:07
+
+#### [人才黑洞！UC伯克利系主任都加入A社了](https://www.qbitai.com/2026/07/441447.html)
+**发布时间**: 2026-07-02 03:49
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout](https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/)
+**发布时间**: 2026-07-02 03:34
 
 ---
 

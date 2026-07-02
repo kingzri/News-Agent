@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Jul 2026 00:08:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2026 00:10:55 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 08:12:00 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:15:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,163 +14,115 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>物理 AI 到来，移动网络该如何进化？</title>
-      <link>https://www.leiphone.com/category/industrynews/CpoGYmsPl9BAuO0W.html</link>
-      <description>&lt;![CDATA[物理 AI 到来，移动网络该如何进化？]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 22:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/CpoGYmsPl9BAuO0W.html</guid>
+      <title>十年ICML，十次思想浪潮，当AI开始问“为谁而算”｜ICML2026</title>
+      <link>https://www.leiphone.com/category/private/sADR0wFJaCQinCZr.html</link>
+      <description>&lt;![CDATA[十年ICML，十次思想浪潮，当AI开始问“为谁而算”｜ICML2026]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 13:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/sADR0wFJaCQinCZr.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>赛力斯发布6月产销快报 1-6月问界累计交付同比增长10.2%</title>
-      <link>https://www.leiphone.com/category/industrynews/IUJkaiRJfWAKK6uy.html</link>
-      <description>&lt;![CDATA[赛力斯发布6月产销快报 1-6月问界累计交付同比增长10.2%]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 21:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/IUJkaiRJfWAKK6uy.html</guid>
+      <title>从生成到交付，音视频 Agent 要有生产级开发套件</title>
+      <link>https://www.leiphone.com/category/industrynews/bm5j7ZigtfWU5sL5.html</link>
+      <description>&lt;![CDATA[从生成到交付，音视频 Agent 要有生产级开发套件]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 11:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/bm5j7ZigtfWU5sL5.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>即梦AI携创作者亮相法国昂西动画节，3000份全球投稿勾勒AI动画创作新图景</title>
-      <link>https://www.leiphone.com/category/industrynews/uUmZypOBARMHYx3W.html</link>
-      <description>&lt;![CDATA[即梦AI携创作者亮相法国昂西动画节，3000份全球投稿勾勒AI动画创作新图景]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 18:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/uUmZypOBARMHYx3W.html</guid>
+      <title>Anthropic、OpenAI同一天落子AI4S赛道，巨头混战从「拼模型」转向「卡生态」</title>
+      <link>https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html</link>
+      <description>&lt;![CDATA[Anthropic、OpenAI同一天落子AI4S赛道，巨头混战从「拼模型」转向「卡生态」]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Reddit 上爆出大猛料，Claude 为何封号中国用户又快又准？</title>
-      <link>https://www.leiphone.com/category/ai/rzmbSvqty7wRNC3N.html</link>
-      <description>&lt;![CDATA[Reddit 上爆出大猛料，Claude 为何封号中国用户又快又准？]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 18:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/rzmbSvqty7wRNC3N.html</guid>
+      <title>ICML 2026前瞻：投稿翻倍背后，机器学习正在换挡</title>
+      <link>https://www.leiphone.com/category/private/Nw1OlDVlsfqh1PJq.html</link>
+      <description>&lt;![CDATA[ICML 2026前瞻：投稿翻倍背后，机器学习正在换挡]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 09:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/Nw1OlDVlsfqh1PJq.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>感知、控制与数据：ICRA 2026 中国企业报告的三个交汇点</title>
-      <link>https://www.leiphone.com/category/robot/lfPVjqvr7wegDtRI.html</link>
-      <description>&lt;![CDATA[感知、控制与数据：ICRA 2026 中国企业报告的三个交汇点]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 17:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/lfPVjqvr7wegDtRI.html</guid>
+      <title>曝美国最强AI公司暗藏针对中国的「监视代码」，已持续3个月；优必选CEO：珍惜做牛马的时光，20年后全是机器人干活；iPhone17价格将迎调整</title>
+      <link>https://www.leiphone.com/category/zaobao/8xIKNxdh5DASn0Tj.html</link>
+      <description>&lt;![CDATA[曝美国最强AI公司暗藏针对中国的「监视代码」，已持续3个月；优必选CEO：珍惜做牛马的时光，20年后全是机器人干活；iPhone17价格将迎调整]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 08:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/8xIKNxdh5DASn0Tj.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>走访 ICRA 30+中国企业，我们发现具身智能产业三大趋势 | ICRA 2026</title>
-      <link>https://www.leiphone.com/category/robot/fDotgIuCGA028lZJ.html</link>
-      <description>&lt;![CDATA[走访 ICRA 30+中国企业，我们发现具身智能产业三大趋势 | ICRA 2026]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/fDotgIuCGA028lZJ.html</guid>
+      <title>2026-07-02日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-02/</link>
+      <description>&lt;![CDATA[2026-07-02日刊]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 10:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-02/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>英伟达为什么选了 Sharpa 的手？ICRA 2026现场我们找到了答案</title>
-      <link>https://www.leiphone.com/category/robot/JFHcks3RY28319Mb.html</link>
-      <description>&lt;![CDATA[英伟达为什么选了 Sharpa 的手？ICRA 2026现场我们找到了答案]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 16:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/JFHcks3RY28319Mb.html</guid>
+      <title>天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进</title>
+      <link>https://www.qbitai.com/2026/07/441786.html</link>
+      <description>&lt;![CDATA[天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 06:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441786.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家丨世界模型企业知天下完成天使轮融资，要做「中国版World Labs」</title>
-      <link>https://www.leiphone.com/category/robot/f6tUYpkNfttVSBf3.html</link>
-      <description>&lt;![CDATA[独家丨世界模型企业知天下完成天使轮融资，要做「中国版World Labs」]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/f6tUYpkNfttVSBf3.html</guid>
+      <title>训练世界模型，开始从人类的肌肉和脑子里偷师了</title>
+      <link>https://www.qbitai.com/2026/07/441725.html</link>
+      <description>&lt;![CDATA[训练世界模型，开始从人类的肌肉和脑子里偷师了]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 05:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441725.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>百花奖联合即梦AI首设AIGC推优单元，即日启动全球征集</title>
-      <link>https://www.leiphone.com/category/industrynews/zHXIS9N1aUAltixB.html</link>
-      <description>&lt;![CDATA[百花奖联合即梦AI首设AIGC推优单元，即日启动全球征集]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 15:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/zHXIS9N1aUAltixB.html</guid>
+      <title>2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！</title>
+      <link>https://www.qbitai.com/2026/07/441586.html</link>
+      <description>&lt;![CDATA[2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 05:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441586.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/</link>
-      <description>&lt;![CDATA[Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 18:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/</guid>
+      <title>世界模型来了因果技术标杆！具身大脑真要长脑子了</title>
+      <link>https://www.qbitai.com/2026/07/441490.html</link>
+      <description>&lt;![CDATA[世界模型来了因果技术标杆！具身大脑真要长脑子了]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 04:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441490.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Building a serverless A2A gateway for agent discovery, routing, and access control</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/</link>
-      <description>&lt;![CDATA[Building a serverless A2A gateway for agent discovery, routing, and access control]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 18:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/</guid>
+      <title>AI眼镜不再依赖手机！这次真要单飞了</title>
+      <link>https://www.qbitai.com/2026/07/441491.html</link>
+      <description>&lt;![CDATA[AI眼镜不再依赖手机！这次真要单飞了]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 04:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441491.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Structured memory filtering with metadata in AgentCore Memory</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/</link>
-      <description>&lt;![CDATA[Structured memory filtering with metadata in AgentCore Memory]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/</guid>
+      <title>7月14日悉尼RSS’26，线下Social Mixer晚宴报名中！</title>
+      <link>https://www.qbitai.com/2026/07/441479.html</link>
+      <description>&lt;![CDATA[7月14日悉尼RSS’26，线下Social Mixer晚宴报名中！]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 04:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441479.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/</link>
-      <description>&lt;![CDATA[HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/</guid>
+      <title>人才黑洞！UC伯克利系主任都加入A社了</title>
+      <link>https://www.qbitai.com/2026/07/441447.html</link>
+      <description>&lt;![CDATA[人才黑洞！UC伯克利系主任都加入A社了]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 03:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441447.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How Inscribe uses Amazon Bedrock to stop document fraud in seconds</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/</link>
-      <description>&lt;![CDATA[How Inscribe uses Amazon Bedrock to stop document fraud in seconds]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 17:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Simplify model selection in Amazon Bedrock with the open source Model Profiler</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/</link>
-      <description>&lt;![CDATA[Simplify model selection in Amazon Bedrock with the open source Model Profiler]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 17:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Accelerate protein design with BoltzGen on Amazon SageMaker AI</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/accelerate-protein-design-with-boltzgen-on-amazon-sagemaker-ai/</link>
-      <description>&lt;![CDATA[Accelerate protein design with BoltzGen on Amazon SageMaker AI]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 17:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/accelerate-protein-design-with-boltzgen-on-amazon-sagemaker-ai/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>MIT in the media: Innovating and educating for the next 250 years of America</title>
-      <link>https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america</link>
-      <description>&lt;![CDATA[MIT in the media: Innovating and educating for the next 250 years of America]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>NVIDIA and Partners Build in America, for America</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</link>
-      <description>&lt;![CDATA[NVIDIA and Partners Build in America, for America]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了</title>
-      <link>https://www.qbitai.com/2026/07/441396.html</link>
-      <description>&lt;![CDATA[具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 09:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441396.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>OceanBase湖库一体，重新定义AI数据库</title>
-      <link>https://www.qbitai.com/2026/07/441386.html</link>
-      <description>&lt;![CDATA[OceanBase湖库一体，重新定义AI数据库]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 09:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441386.html</guid>
+      <title>NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/</link>
+      <description>&lt;![CDATA[NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 03:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/</guid>
       <category>Ai</category>
     </item>
   </channel>
