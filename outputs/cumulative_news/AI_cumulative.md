@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-02 08:12
+**最后更新时间**: 2026-07-03 00:06
+
+---
+
+## 🆕 最新更新 (2026-07-03 00:06)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Claude Sonnet 5 上线一日差评刷屏：打不过千问和 Minimax，性价比全面翻车](https://www.leiphone.com/category/yanxishe/GLDTfDIWau83OKGC.html)
+**发布时间**: 2026-07-02 19:22
+
+#### [全球首份大语言模型安全防范能力测评报告在北京发布](https://www.leiphone.com/category/ai/24ZpHMxxsean7Pmy.html)
+**发布时间**: 2026-07-02 18:46
+
+#### [自变量发布跨模态具身动作分词器 X-Tokenizer，多模态对齐能力提升 13.5%，长程任务性能提升 8.25%](https://www.leiphone.com/category/industrynews/97E4ZK92EoOpU0BY.html)
+**发布时间**: 2026-07-02 18:32
+
+#### [影智XBOT发布通用餐饮服务机器人矩阵与“一脑多形”具身智能体系](https://www.leiphone.com/category/industrynews/bn6JrENVQGf1G9tU.html)
+**发布时间**: 2026-07-02 18:09
+
+#### [马斯克收购Mesh，打通卫星光通信「关键一步」](https://www.leiphone.com/category/ai/Kt66f2aNWvTzcMod.html)
+**发布时间**: 2026-07-02 17:32
+
+#### [Claude 和 Manus 还要人工搭框架？小米直接让 Agent 自我进化](https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html)
+**发布时间**: 2026-07-02 15:10
+
+#### [十年榜单首迎中国双料冠军：这次赢的不只是性能](https://www.leiphone.com/category/chips/EAd6eTSPIeOOy4j7.html)
+**发布时间**: 2026-07-02 14:16
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [How Amazon Bedrock catches AI-generated phishing](https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/)
+**发布时间**: 2026-07-02 17:55
+
+#### [Best practices for multi-turn reinforcement learning in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/)
+**发布时间**: 2026-07-02 17:50
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Joyride Through July With 12 Games Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/)
+**发布时间**: 2026-07-02 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施](https://www.qbitai.com/2026/07/442134.html)
+**发布时间**: 2026-07-02 11:28
+
+#### [全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货](https://www.qbitai.com/2026/07/442047.html)
+**发布时间**: 2026-07-02 10:56
+
+#### [科大讯飞举办智能交互生态发布会，三大平台同步升级](https://www.qbitai.com/2026/07/442048.html)
+**发布时间**: 2026-07-02 10:45
+
+#### [论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭](https://www.qbitai.com/2026/07/442037.html)
+**发布时间**: 2026-07-02 10:29
+
+#### [天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊](https://www.qbitai.com/2026/07/442030.html)
+**发布时间**: 2026-07-02 10:24
+
+#### [钉钉A1录音卡入选Gartner AI可穿戴设备报告](https://www.qbitai.com/2026/07/442024.html)
+**发布时间**: 2026-07-02 08:03
+
+#### [招募｜量子位RSS’26专题策划](https://www.qbitai.com/2026/07/442016.html)
+**发布时间**: 2026-07-02 07:33
+
+#### [一个广告营销老炮，率先冲刺A股无人驾驶第一股](https://www.qbitai.com/2026/07/441790.html)
+**发布时间**: 2026-07-02 07:16
 
 ---
 
