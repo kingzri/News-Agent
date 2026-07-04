@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-03 08:10
+**最后更新时间**: 2026-07-04 00:05
+
+---
+
+## 🆕 最新更新 (2026-07-04 00:05)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [谷歌为什么做不好「AI 编程」？](https://www.leiphone.com/category/industrynews/Sq0Kbi3YMIFYEPXn.html)
+**发布时间**: 2026-07-03 22:16
+
+#### [独家丨猛士下款新车将进军泛越野，预计售价20-25万](https://www.leiphone.com/category/transportation/UQkXlB0ztZlFxtta.html)
+**发布时间**: 2026-07-03 21:04
+
+#### [生数科技发布 Vidu S1，推动视频生成迈向“实时交互”新时代](https://www.leiphone.com/category/industrynews/6GlFzI5hMwcfRoGZ.html)
+**发布时间**: 2026-07-03 20:48
+
+#### [场景至上，实效为王：NAVIAI 人形机器人多领域应用场景领跑！](https://www.leiphone.com/category/industrynews/CBx8Wb28sANFCEO5.html)
+**发布时间**: 2026-07-03 17:52
+
+#### [AI基础设施的下一个千亿市场，为何藏在网络里？](https://www.leiphone.com/category/chips/hNKPixxr0fUhIr0E.html)
+**发布时间**: 2026-07-03 14:35
+
+#### [算力之外的博弈：ICML 2026 透露了哪些学术硬通货？](https://www.leiphone.com/category/private/AvP8p11JWo0fiWEl.html)
+**发布时间**: 2026-07-03 14:31
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部](https://www.qbitai.com/2026/07/442746.html)
+**发布时间**: 2026-07-03 14:28
+
+#### [Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户](https://www.qbitai.com/2026/07/442567.html)
+**发布时间**: 2026-07-03 12:17
+
+#### [奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”](https://www.qbitai.com/2026/07/442531.html)
+**发布时间**: 2026-07-03 10:46
+
+#### [比亚迪6月销量超40万，年内销量记录再度刷新](https://www.qbitai.com/2026/07/442517.html)
+**发布时间**: 2026-07-03 10:28
+
+#### [比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”](https://www.qbitai.com/2026/07/442503.html)
+**发布时间**: 2026-07-03 10:26
 
 ---
 
