@@ -1,7 +1,135 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-06 00:07
+**最后更新时间**: 2026-07-07 00:09
+
+---
+
+## 🆕 最新更新 (2026-07-07 00:09)
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060)
+**发布时间**: 2026-07-07 00:00
+
+#### [PRX Part 4: Our Data Strategy](https://huggingface.co/blog/Photoroom/prx-part4-data)
+**发布时间**: 2026-07-06 15:30
+
+#### [🤗 Kernels: Major Updates](https://huggingface.co/blog/revamped-kernels)
+**发布时间**: 2026-07-06 00:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [From Hugging Face to Amazon SageMaker Studio in one click](https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/)
+**发布时间**: 2026-07-06 22:35
+
+#### [Teaching models to forget: Selective unlearning with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/)
+**发布时间**: 2026-07-06 22:23
+
+#### [Run MiniMax models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/)
+**发布时间**: 2026-07-06 17:00
+
+#### [Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/)
+**发布时间**: 2026-07-06 16:58
+
+#### [Automatically redact PII in images with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/)
+**发布时间**: 2026-07-06 16:55
+
+#### [Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/)
+**发布时间**: 2026-07-06 16:53
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [港交所敲钟，安克身后的狂欢与冷场](https://www.leiphone.com/category/weiwu/QCQTNrrRt6JU1sW8.html)
+**发布时间**: 2026-07-06 18:46
+
+#### [大道至简，阿里与清华论文揭示扩散大模型推理能力，入选 ICML 杰出论文](https://www.leiphone.com/category/industrynews/UKOyRcsQg5b36KyE.html)
+**发布时间**: 2026-07-06 17:48
+
+#### [海康机器人移动机器人下线突破20万台，推动行业驶入规模化应用快车道](https://www.leiphone.com/category/robot/V0sjtRJAoZdt3K8y.html)
+**发布时间**: 2026-07-06 17:13
+
+#### [全场景数智移动，重塑产业未来！中力第八届 629 创新发布大会盛大启幕](https://www.leiphone.com/category/robot/OBTsJOlhcG5e6ylG.html)
+**发布时间**: 2026-07-06 16:53
+
+#### [登顶多项全球 SOTA！大晓全开源首个「统一具身基模型」ACE-Brain-0.5](https://www.leiphone.com/category/ai/YTCPIZ2kIbjtt6CX.html)
+**发布时间**: 2026-07-06 16:48
+
+#### [全场景数智移动重塑产业未来！中力第八届 629 创新发布大会盛大启幕](https://www.leiphone.com/category/robot/0s6X2CwuGuSKbh1a.html)
+**发布时间**: 2026-07-06 16:43
+
+#### [成立半年估值超70亿，墨奇智能刷新国内具身智能首轮融资规模纪录](https://www.leiphone.com/category/industrynews/P6qnUcERGBlK5wJZ.html)
+**发布时间**: 2026-07-06 15:35
+
+#### [Agentic 范式下的视频画质优化：火山引擎的新路径](https://www.leiphone.com/category/industrynews/43TEV10h6Qh56ybI.html)
+**发布时间**: 2026-07-06 15:22
+
+#### [独家丨ACM戈登贝尔奖得主杨超领衔，北大系顶尖团队入局物理 AI 底层基建](https://www.leiphone.com/category/industrynews/PjJzoF1Rb0WPXHxd.html)
+**发布时间**: 2026-07-06 14:10
+
+#### [沙利文全栈AI云服务报告：阿里云占比40.1%，超第二至第四名总和](https://www.leiphone.com/category/industrynews/NN8pPZMe5DQqTILU.html)
+**发布时间**: 2026-07-06 11:42
+
+#### [打造“青年安居新范式”！第三座小米青年公寓开放入住，三城累计建成12栋公寓、4214套房源](https://www.leiphone.com/category/industrynews/dpOS3DMEz2mPqLRH.html)
+**发布时间**: 2026-07-06 10:59
+
+#### [打破末端配送壁垒，佑驾创新正式发布四轮足机器人](https://www.leiphone.com/category/industrynews/Ql20V4DpxJjluNFB.html)
+**发布时间**: 2026-07-06 10:47
+
+#### [清华火神队成功卫冕RoboCup 2026世界冠军，加速进化构筑全球具身智能“通用底座”](https://www.leiphone.com/category/industrynews/npqwbPeARWQkGrpW.html)
+**发布时间**: 2026-07-06 10:32
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How Open Models Are Driving AI Research](https://blogs.nvidia.com/blog/open-models-icml-2026/)
+**发布时间**: 2026-07-06 16:00
+
+#### [How Nations Are Deploying AI for Strategic Priorities](https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/)
+**发布时间**: 2026-07-06 15:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Toward a future that preserves benefits of neurotechnology for all](https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706)
+**发布时间**: 2026-07-06 15:50
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-06日刊](https://hex2077.dev/docs/2026-07/2026-07-06/)
+**发布时间**: 2026-07-06 11:45
+
+#### [2026-07-05日刊](https://hex2077.dev/docs/2026-07/2026-07-05/)
+**发布时间**: 2026-07-05 10:49
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”](https://www.qbitai.com/2026/07/444733.html)
+**发布时间**: 2026-07-06 10:40
+
+#### [极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文](https://www.qbitai.com/2026/07/444721.html)
+**发布时间**: 2026-07-06 10:33
+
+#### [2026新青年创投大会在沪举行：00后登场，创投新周期开启](https://www.qbitai.com/2026/07/444049.html)
+**发布时间**: 2026-07-06 10:22
+
+#### [字节、宇树、BAT等40+产品大咖齐聚，2026奇点智能产品大会最新最全日程来了！](https://www.qbitai.com/2026/07/444043.html)
+**发布时间**: 2026-07-06 09:54
+
+#### [蔚来世界模型OTA，70万用户没人被留在旧版本](https://www.qbitai.com/2026/07/443868.html)
+**发布时间**: 2026-07-06 09:41
+
+#### [联想控股发起成立中国中文信息学会产学研创新生态工作委员会](https://www.qbitai.com/2026/07/443869.html)
+**发布时间**: 2026-07-06 09:39
+
+#### [真·QQ飞车！「电动版F1」上海开赛，Gemini在线解说](https://www.qbitai.com/2026/07/443867.html)
+**发布时间**: 2026-07-06 09:35
+
+#### [OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5](https://www.qbitai.com/2026/07/443863.html)
+**发布时间**: 2026-07-06 09:28
+
+#### [模型不是企业的护城河，那什么才是？](https://www.qbitai.com/2026/07/443842.html)
+**发布时间**: 2026-07-06 08:17
+
+#### [字节Seedance，正在占领好莱坞](https://www.qbitai.com/2026/07/443665.html)
+**发布时间**: 2026-07-06 07:49
 
 ---
 
