@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-07 23:58
+**最后更新时间**: 2026-07-08 07:30
+
+---
+
+## 🆕 最新更新 (2026-07-08 07:30)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [突破具身智能泛化瓶颈！支持20多种机器人构型，蚂蚁灵波开源具身基座模型LingBot-VLA 2.0](https://www.leiphone.com/category/industrynews/4583hFHXszrX7fky.html)
+**发布时间**: 2026-07-08 12:40
+
+#### [智源悟界·RoboBrain Orca：AI进入Next State Prediction时代](https://www.leiphone.com/category/industrynews/5fcKE7y4a3UClY9r.html)
+**发布时间**: 2026-07-08 11:35
+
+#### [MiniMax 解禁在即，获三大国际金融机构“买入”评级](https://www.leiphone.com/category/industrynews/OBCvpZEILgcOn3Wg.html)
+**发布时间**: 2026-07-08 10:05
+
+#### [曝DeepSeek正在自研AI芯片：面向推理场景；姚顺雨前同事田永龙加盟腾讯；苹果首款折叠屏iPhone已在量产阶段；智谱：撤回A股辅导备案失实](https://www.leiphone.com/category/zaobao/aNM6BTV8leU0Umws.html)
+**发布时间**: 2026-07-08 08:39
+
+#### [ICML 2026 开幕，清华团队获最佳论文奖，DeepMind 经典巨作拿下时间检验奖](https://www.leiphone.com/category/private/GqOdEOoGq3kVosQr.html)
+**发布时间**: 2026-07-07 18:45
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-08日刊](https://hex2077.dev/docs/2026-07/2026-07-08/)
+**发布时间**: 2026-07-08 10:55
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开](https://www.qbitai.com/2026/07/445883.html)
+**发布时间**: 2026-07-08 04:47
+
+#### [60000小时炼出新开源VLA！20多种机器人都能用](https://www.qbitai.com/2026/07/445678.html)
+**发布时间**: 2026-07-08 03:54
+
+#### [支持17家机器人厂商20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源](https://www.qbitai.com/2026/07/445668.html)
+**发布时间**: 2026-07-08 03:04
+
+#### [三个理想火枪手创业，打破具身最快百台交付纪录](https://www.qbitai.com/2026/07/445531.html)
+**发布时间**: 2026-07-08 00:44
 
 ---
 

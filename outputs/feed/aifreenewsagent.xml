@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Jul 2026 23:58:00 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 00:00:47 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 07:30:00 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:32:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,259 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>From Hugging Face to Amazon SageMaker Studio in one click</title>
-      <link>https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio</link>
-      <description>&lt;![CDATA[From Hugging Face to Amazon SageMaker Studio in one click]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 21:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio</guid>
+      <title>突破具身智能泛化瓶颈！支持20多种机器人构型，蚂蚁灵波开源具身基座模型LingBot-VLA 2.0</title>
+      <link>https://www.leiphone.com/category/industrynews/4583hFHXszrX7fky.html</link>
+      <description>&lt;![CDATA[突破具身智能泛化瓶颈！支持20多种机器人构型，蚂蚁灵波开源具身基座模型LingBot-VLA 2.0]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 12:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/4583hFHXszrX7fky.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Hugging Face Models on Foundry Managed Compute</title>
-      <link>https://huggingface.co/blog/microsoft/foundry-managed-compute</link>
-      <description>&lt;![CDATA[Hugging Face Models on Foundry Managed Compute]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/microsoft/foundry-managed-compute</guid>
+      <title>智源悟界·RoboBrain Orca：AI进入Next State Prediction时代</title>
+      <link>https://www.leiphone.com/category/industrynews/5fcKE7y4a3UClY9r.html</link>
+      <description>&lt;![CDATA[智源悟界·RoboBrain Orca：AI进入Next State Prediction时代]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 11:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/5fcKE7y4a3UClY9r.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>肯德基、蜜雪冰城、瑞幸、高德打车、滴滴等首批接入支付宝AI开放平台</title>
-      <link>https://www.leiphone.com/category/industrynews/MlfOVkSb0uNZp7FF.html</link>
-      <description>&lt;![CDATA[肯德基、蜜雪冰城、瑞幸、高德打车、滴滴等首批接入支付宝AI开放平台]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 19:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/MlfOVkSb0uNZp7FF.html</guid>
+      <title>MiniMax 解禁在即，获三大国际金融机构“买入”评级</title>
+      <link>https://www.leiphone.com/category/industrynews/OBCvpZEILgcOn3Wg.html</link>
+      <description>&lt;![CDATA[MiniMax 解禁在即，获三大国际金融机构“买入”评级]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 10:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/OBCvpZEILgcOn3Wg.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICML 2026 开幕，清华团队获最佳论文奖，DeepMind 经典巨作拿下时间检验奖</title>
-      <link>https://www.leiphone.com/category/academic/GqOdEOoGq3kVosQr.html</link>
-      <description>&lt;![CDATA[ICML 2026 开幕，清华团队获最佳论文奖，DeepMind 经典巨作拿下时间检验奖]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 18:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/GqOdEOoGq3kVosQr.html</guid>
+      <title>曝DeepSeek正在自研AI芯片：面向推理场景；姚顺雨前同事田永龙加盟腾讯；苹果首款折叠屏iPhone已在量产阶段；智谱：撤回A股辅导备案失实</title>
+      <link>https://www.leiphone.com/category/zaobao/aNM6BTV8leU0Umws.html</link>
+      <description>&lt;![CDATA[曝DeepSeek正在自研AI芯片：面向推理场景；姚顺雨前同事田永龙加盟腾讯；苹果首款折叠屏iPhone已在量产阶段；智谱：撤回A股辅导备案失实]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 08:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/aNM6BTV8leU0Umws.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Kimi K2.7 Code 有多能打？找 Bug，写 3D 游戏，2000 行代码砍掉 55％</title>
-      <link>https://www.leiphone.com/category/industrynews/NbapvQnjehTvbr0Y.html</link>
-      <description>&lt;![CDATA[Kimi K2.7 Code 有多能打？找 Bug，写 3D 游戏，2000 行代码砍掉 55％]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 18:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NbapvQnjehTvbr0Y.html</guid>
+      <title>2026-07-08日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-08/</link>
+      <description>&lt;![CDATA[2026-07-08日刊]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-08/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>支付宝AI生态X申通快递：一句话就能发快递！</title>
-      <link>https://www.leiphone.com/category/industrynews/8XvhFecsSPFSXrO0.html</link>
-      <description>&lt;![CDATA[支付宝AI生态X申通快递：一句话就能发快递！]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/8XvhFecsSPFSXrO0.html</guid>
+      <title>DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开</title>
+      <link>https://www.qbitai.com/2026/07/445883.html</link>
+      <description>&lt;![CDATA[DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 04:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445883.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>讯飞医疗全栈AI能力亮相2026年数智医学大会，锚定四层创新赋能医疗高质量发展</title>
-      <link>https://www.leiphone.com/category/industrynews/t6TVK2lTa87laPgR.html</link>
-      <description>&lt;![CDATA[讯飞医疗全栈AI能力亮相2026年数智医学大会，锚定四层创新赋能医疗高质量发展]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/t6TVK2lTa87laPgR.html</guid>
+      <title>60000小时炼出新开源VLA！20多种机器人都能用</title>
+      <link>https://www.qbitai.com/2026/07/445678.html</link>
+      <description>&lt;![CDATA[60000小时炼出新开源VLA！20多种机器人都能用]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 03:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445678.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>拼多多紧急捐赠1000万元，驰援广西防汛救灾</title>
-      <link>https://www.leiphone.com/category/industrynews/TVh2aFeqiItJpsTr.html</link>
-      <description>&lt;![CDATA[拼多多紧急捐赠1000万元，驰援广西防汛救灾]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/TVh2aFeqiItJpsTr.html</guid>
+      <title>支持17家机器人厂商20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源</title>
+      <link>https://www.qbitai.com/2026/07/445668.html</link>
+      <description>&lt;![CDATA[支持17家机器人厂商20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 03:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445668.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICML 精选Spotlight Poster汇总：Session 2</title>
-      <link>https://www.leiphone.com/category/private/fmPqPwecmV4WrVNi.html</link>
-      <description>&lt;![CDATA[ICML 精选Spotlight Poster汇总：Session 2]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 16:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/fmPqPwecmV4WrVNi.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>WAIC 2026｜嘉宾阵容公布：从模型、终端到基础设施，重新理解 AI 记忆</title>
-      <link>https://www.leiphone.com/category/private/ZU11NTHV5s69dgDh.html</link>
-      <description>&lt;![CDATA[WAIC 2026｜嘉宾阵容公布：从模型、终端到基础设施，重新理解 AI 记忆]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 16:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/ZU11NTHV5s69dgDh.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>大神卡帕西又一构想落地！Claude Code + Obsidian 爆火：创建你的「第二大脑」</title>
-      <link>https://www.leiphone.com/category/ai/bj5ObTLwpb0spdnL.html</link>
-      <description>&lt;![CDATA[大神卡帕西又一构想落地！Claude Code + Obsidian 爆火：创建你的「第二大脑」]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 16:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/bj5ObTLwpb0spdnL.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>蠢人不配用 Fable 5！Anthropic 使出嘲讽大招，开发者极限破解</title>
-      <link>https://www.leiphone.com/category/ai/JY0HheaNDXbkz5og.html</link>
-      <description>&lt;![CDATA[蠢人不配用 Fable 5！Anthropic 使出嘲讽大招，开发者极限破解]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/JY0HheaNDXbkz5og.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>传 GPT-5.6 明日发布：要打赢 Fable 5，光靠刷分可不行</title>
-      <link>https://www.leiphone.com/category/ai/mzzn6vBmXZn5Ymqj.html</link>
-      <description>&lt;![CDATA[传 GPT-5.6 明日发布：要打赢 Fable 5，光靠刷分可不行]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 16:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/mzzn6vBmXZn5Ymqj.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>ICML 2026现场最全索引：从快手到大厂，中国企业集体出征</title>
-      <link>https://www.leiphone.com/category/private/YlNEye1Y2JDyT65j.html</link>
-      <description>&lt;![CDATA[ICML 2026现场最全索引：从快手到大厂，中国企业集体出征]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 16:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/YlNEye1Y2JDyT65j.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阿米奥机器人刘方：具身智能不是大模型，更不是智驾</title>
-      <link>https://www.leiphone.com/category/industrynews/jzGG1kEnAzBgFPoa.html</link>
-      <description>&lt;![CDATA[阿米奥机器人刘方：具身智能不是大模型，更不是智驾]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 15:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/jzGG1kEnAzBgFPoa.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>美团Keeta变阵：巴西市场换个方式进攻</title>
-      <link>https://www.leiphone.com/category/industrynews/6vS57QcleKh0NoC0.html</link>
-      <description>&lt;![CDATA[美团Keeta变阵：巴西市场换个方式进攻]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/6vS57QcleKh0NoC0.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布</title>
-      <link>https://www.leiphone.com/category/industrynews/oLB5L8aQrrt4rega.html</link>
-      <description>&lt;![CDATA[机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 14:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/oLB5L8aQrrt4rega.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>支付宝AI开放平台开放邀测，高德打车首批接入</title>
-      <link>https://www.leiphone.com/category/industrynews/QAgdWgSi0taRT6ws.html</link>
-      <description>&lt;![CDATA[支付宝AI开放平台开放邀测，高德打车首批接入]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 14:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/QAgdWgSi0taRT6ws.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/</link>
-      <description>&lt;![CDATA[Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Data modeling best practices for Amazon Quick Sight multi-dataset relationships</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/</link>
-      <description>&lt;![CDATA[Data modeling best practices for Amazon Quick Sight multi-dataset relationships]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Multi-dataset Topic best practices for Amazon Quick Chat</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/</link>
-      <description>&lt;![CDATA[Multi-dataset Topic best practices for Amazon Quick Chat]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/</link>
-      <description>&lt;![CDATA[Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Build a serverless image editing agent with Amazon Bedrock AgentCore harness</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/</link>
-      <description>&lt;![CDATA[Build a serverless image editing agent with Amazon Bedrock AgentCore harness]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 16:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Monitoring discriminative ML models using Amazon SageMaker AI with MLflow</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/</link>
-      <description>&lt;![CDATA[Monitoring discriminative ML models using Amazon SageMaker AI with MLflow]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 16:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Build an AI-powered AWS support companion with Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[Build an AI-powered AWS support companion with Amazon Bedrock AgentCore]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 16:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>How AWS Finance teams reclaimed hundreds of hours with Amazon Quick</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-aws-finance-teams-reclaimed-hundreds-of-hours-with-amazon-quick/</link>
-      <description>&lt;![CDATA[How AWS Finance teams reclaimed hundreds of hours with Amazon Quick]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 16:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-aws-finance-teams-reclaimed-hundreds-of-hours-with-amazon-quick/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>The power of collaboration: How we can reduce traffic congestion</title>
-      <link>https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/</link>
-      <description>&lt;![CDATA[The power of collaboration: How we can reduce traffic congestion]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 16:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/</link>
-      <description>&lt;![CDATA[AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>How novice coders can develop AI programs for military applications</title>
-      <link>https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707</link>
-      <description>&lt;![CDATA[How novice coders can develop AI programs for military applications]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 13:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Jesse Thaler named director of the Laboratory for Nuclear Science</title>
-      <link>https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707</link>
-      <description>&lt;![CDATA[Jesse Thaler named director of the Laboratory for Nuclear Science]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”</title>
-      <link>https://www.qbitai.com/2026/07/445608.html</link>
-      <description>&lt;![CDATA[DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 11:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445608.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”</title>
-      <link>https://www.qbitai.com/2026/07/445443.html</link>
-      <description>&lt;![CDATA[从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 08:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445443.html</guid>
+      <title>三个理想火枪手创业，打破具身最快百台交付纪录</title>
+      <link>https://www.qbitai.com/2026/07/445531.html</link>
+      <description>&lt;![CDATA[三个理想火枪手创业，打破具身最快百台交付纪录]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 00:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445531.html</guid>
       <category>Ai</category>
     </item>
   </channel>
