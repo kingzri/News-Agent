@@ -1,7 +1,137 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-07 08:24
+**最后更新时间**: 2026-07-07 23:58
+
+---
+
+## 🆕 最新更新 (2026-07-07 23:58)
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [From Hugging Face to Amazon SageMaker Studio in one click](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio)
+**发布时间**: 2026-07-07 21:15
+
+#### [Hugging Face Models on Foundry Managed Compute](https://huggingface.co/blog/microsoft/foundry-managed-compute)
+**发布时间**: 2026-07-07 15:20
+
+#### [Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot](https://huggingface.co/blog/skypilot-hf-storage)
+**发布时间**: 2026-07-07 00:00
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [肯德基、蜜雪冰城、瑞幸、高德打车、滴滴等首批接入支付宝AI开放平台](https://www.leiphone.com/category/industrynews/MlfOVkSb0uNZp7FF.html)
+**发布时间**: 2026-07-07 19:41
+
+#### [ICML 2026 开幕，清华团队获最佳论文奖，DeepMind 经典巨作拿下时间检验奖](https://www.leiphone.com/category/academic/GqOdEOoGq3kVosQr.html)
+**发布时间**: 2026-07-07 18:45
+
+#### [Kimi K2.7 Code 有多能打？找 Bug，写 3D 游戏，2000 行代码砍掉 55％](https://www.leiphone.com/category/industrynews/NbapvQnjehTvbr0Y.html)
+**发布时间**: 2026-07-07 18:44
+
+#### [支付宝AI生态X申通快递：一句话就能发快递！](https://www.leiphone.com/category/industrynews/8XvhFecsSPFSXrO0.html)
+**发布时间**: 2026-07-07 17:37
+
+#### [讯飞医疗全栈AI能力亮相2026年数智医学大会，锚定四层创新赋能医疗高质量发展](https://www.leiphone.com/category/industrynews/t6TVK2lTa87laPgR.html)
+**发布时间**: 2026-07-07 17:30
+
+#### [拼多多紧急捐赠1000万元，驰援广西防汛救灾](https://www.leiphone.com/category/industrynews/TVh2aFeqiItJpsTr.html)
+**发布时间**: 2026-07-07 17:21
+
+#### [拼多多紧急捐赠1000万元，驰援广西防汛救灾](https://www.leiphone.com/category/industrynews/1Zie02PnDUy7idLJ.html)
+**发布时间**: 2026-07-07 17:16
+
+#### [ICML 精选Spotlight Poster汇总：Session 2](https://www.leiphone.com/category/private/fmPqPwecmV4WrVNi.html)
+**发布时间**: 2026-07-07 16:52
+
+#### [WAIC 2026｜嘉宾阵容公布：从模型、终端到基础设施，重新理解 AI 记忆](https://www.leiphone.com/category/private/ZU11NTHV5s69dgDh.html)
+**发布时间**: 2026-07-07 16:46
+
+#### [大神卡帕西又一构想落地！Claude Code + Obsidian 爆火：创建你的「第二大脑」](https://www.leiphone.com/category/ai/bj5ObTLwpb0spdnL.html)
+**发布时间**: 2026-07-07 16:40
+
+#### [蠢人不配用 Fable 5！Anthropic 使出嘲讽大招，开发者极限破解](https://www.leiphone.com/category/ai/JY0HheaNDXbkz5og.html)
+**发布时间**: 2026-07-07 16:35
+
+#### [传 GPT-5.6 明日发布：要打赢 Fable 5，光靠刷分可不行](https://www.leiphone.com/category/ai/mzzn6vBmXZn5Ymqj.html)
+**发布时间**: 2026-07-07 16:26
+
+#### [ICML 2026现场最全索引：从快手到大厂，中国企业集体出征](https://www.leiphone.com/category/private/YlNEye1Y2JDyT65j.html)
+**发布时间**: 2026-07-07 16:23
+
+#### [阿米奥机器人刘方：具身智能不是大模型，更不是智驾](https://www.leiphone.com/category/industrynews/jzGG1kEnAzBgFPoa.html)
+**发布时间**: 2026-07-07 15:57
+
+#### [ICML 精选Spotlight Poster汇总：Session 1](https://www.leiphone.com/category/private/BwX4xiF5AuTc22UL.html)
+**发布时间**: 2026-07-07 15:51
+
+#### [美团Keeta变阵：巴西市场换个方式进攻](https://www.leiphone.com/category/industrynews/6vS57QcleKh0NoC0.html)
+**发布时间**: 2026-07-07 15:20
+
+#### [机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布](https://www.leiphone.com/category/industrynews/oLB5L8aQrrt4rega.html)
+**发布时间**: 2026-07-07 14:59
+
+#### [支付宝AI开放平台开放邀测，高德打车首批接入](https://www.leiphone.com/category/industrynews/QAgdWgSi0taRT6ws.html)
+**发布时间**: 2026-07-07 14:53
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/)
+**发布时间**: 2026-07-07 17:07
+
+#### [Data modeling best practices for Amazon Quick Sight multi-dataset relationships](https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/)
+**发布时间**: 2026-07-07 17:07
+
+#### [Data modeling patterns for Amazon Quick Sight multi-dataset relationships](https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/)
+**发布时间**: 2026-07-07 17:07
+
+#### [Multi-dataset Topic best practices for Amazon Quick Chat](https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/)
+**发布时间**: 2026-07-07 17:07
+
+#### [Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/)
+**发布时间**: 2026-07-07 17:07
+
+#### [Build a serverless image editing agent with Amazon Bedrock AgentCore harness](https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/)
+**发布时间**: 2026-07-07 16:51
+
+#### [Monitoring discriminative ML models using Amazon SageMaker AI with MLflow](https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/)
+**发布时间**: 2026-07-07 16:49
+
+#### [Build an AI-powered AWS support companion with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-07-07 16:46
+
+#### [How AWS Finance teams reclaimed hundreds of hours with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/how-aws-finance-teams-reclaimed-hundreds-of-hours-with-amazon-quick/)
+**发布时间**: 2026-07-07 16:43
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [The power of collaboration: How we can reduce traffic congestion](https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/)
+**发布时间**: 2026-07-07 16:42
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters](https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/)
+**发布时间**: 2026-07-07 15:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [How novice coders can develop AI programs for military applications](https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707)
+**发布时间**: 2026-07-07 13:25
+
+#### [Jesse Thaler named director of the Laboratory for Nuclear Science](https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707)
+**发布时间**: 2026-07-07 10:45
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”](https://www.qbitai.com/2026/07/445608.html)
+**发布时间**: 2026-07-07 11:43
+
+#### [从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”](https://www.qbitai.com/2026/07/445443.html)
+**发布时间**: 2026-07-07 08:32
+
+### 📰 来源: [BAIR Blog](https://bair.berkeley.edu/blog/feed.xml)
+
+#### [Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents](http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/)
+**发布时间**: 2026-07-07 02:00
 
 ---
 
