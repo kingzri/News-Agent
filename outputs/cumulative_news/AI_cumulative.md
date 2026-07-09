@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-08 10:20
+**最后更新时间**: 2026-07-09 00:12
+
+---
+
+## 🆕 最新更新 (2026-07-09 00:12)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing Claude apps gateway for AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/)
+**发布时间**: 2026-07-08 19:49
+
+#### [Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research](https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/)
+**发布时间**: 2026-07-08 16:57
+
+#### [Automatically sort and prioritize your mailboxes by using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock/)
+**发布时间**: 2026-07-08 16:55
+
+#### [Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio](https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/)
+**发布时间**: 2026-07-08 16:51
+
+#### [Securing Amazon Bedrock AgentCore Runtime with AWS WAF](https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agentcore-runtime-with-aws-waf/)
+**发布时间**: 2026-07-08 15:57
+
+#### [Manage AI applications on Mac with Jamf’s AI Governance and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/)
+**发布时间**: 2026-07-08 15:53
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Data for Agents](https://huggingface.co/blog/nvidia/open-data-for-agents)
+**发布时间**: 2026-07-08 17:16
+
+#### [Native-speed vLLM transformers modeling backend](https://huggingface.co/blog/native-speed-vllm-transformers-backend)
+**发布时间**: 2026-07-08 00:00
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness](https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/)
+**发布时间**: 2026-07-08 15:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代](https://www.qbitai.com/2026/07/446411.html)
+**发布时间**: 2026-07-08 13:29
+
+#### [具身智能“高考”难疯了！人类100分，最强模型12.8](https://www.qbitai.com/2026/07/446363.html)
+**发布时间**: 2026-07-08 13:07
+
+#### [横跨淘天与ATH事业群，硬核少年技术节下周京杭同步开幕，四项AIGX硬核成果齐发](https://www.qbitai.com/2026/07/446356.html)
+**发布时间**: 2026-07-08 10:15
+
+#### [“人机共生，产需共融”——2026世界机器人大会新闻发布会在京召开](https://www.qbitai.com/2026/07/446226.html)
+**发布时间**: 2026-07-08 10:04
+
+#### [别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化](https://www.qbitai.com/2026/07/446075.html)
+**发布时间**: 2026-07-08 09:08
 
 ---
 
