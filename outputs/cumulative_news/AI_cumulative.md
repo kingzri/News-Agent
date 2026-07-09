@@ -1,7 +1,106 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-09 00:12
+**最后更新时间**: 2026-07-09 08:28
+
+---
+
+## 🆕 最新更新 (2026-07-09 08:28)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [中国机器人大脑引爆海外，蚂蚁灵波全栈2.0模型定义具身智能“新大脑”](https://www.leiphone.com/category/industrynews/G37AgItr75dHXX0i.html)
+**发布时间**: 2026-07-09 14:12
+
+#### [新鲜零食“开创者”金粒门华南首店落地深圳](https://www.leiphone.com/category/smartretailing/AXQriqGk77iNHtFU.html)
+**发布时间**: 2026-07-09 13:42
+
+#### [至简动力交付百台「开箱即用」机器人，加速具身量产节奏](https://www.leiphone.com/category/ai/aFTmWZkO6CAIPGvW.html)
+**发布时间**: 2026-07-09 12:01
+
+#### [人手数据，如何重塑机器人基础模型？专访 LaST-HD 一作刘家铭](https://www.leiphone.com/category/ai/tc6oPeh2ZD5DST6g.html)
+**发布时间**: 2026-07-09 11:57
+
+#### [蚂蚁灵波开源 LingBot-Video，全球首个面向具身的视频基模来了！](https://www.leiphone.com/category/industrynews/6Hyio1NHDBM1d5Iw.html)
+**发布时间**: 2026-07-09 11:57
+
+#### [“我要寄大件”——顺心捷达接入支付宝AI，一句话唤醒“阿宝”，轻松寄件！](https://www.leiphone.com/category/industrynews/xHoScn0mDGYxjjem.html)
+**发布时间**: 2026-07-09 11:45
+
+#### [官宣！蚂蚁灵波世界模型2.0来了，小时级生成+Agent驱动定义AI交互新范式](https://www.leiphone.com/category/industrynews/P1RW5pSlLbX6EKfq.html)
+**发布时间**: 2026-07-09 11:42
+
+#### [AMI Labs 冯雁：AI 迈向现实世界，世界模型不可或缺 | ICML 2026](https://www.leiphone.com/category/academic/2xndXGiVd0MVqPAD.html)
+**发布时间**: 2026-07-09 11:40
+
+#### [Token账单迷雾：当每百万Token多少钱变成「比价陷阱」](https://www.leiphone.com/category/chips/0LbefboyRMfPxvBe.html)
+**发布时间**: 2026-07-09 11:23
+
+#### [蚂蚁灵波开源 LingBot-Video，全球首个面向具身的视频基模来了！](https://www.leiphone.com/category/industrynews/I7tF0IFX1Q8hH4Im.html)
+**发布时间**: 2026-07-09 11:14
+
+#### [ICML 2026 时间检验奖现场实况：主创戳破学术创新三大真相](https://www.leiphone.com/category/ai/WXxu5gpyc5w1i7It.html)
+**发布时间**: 2026-07-09 10:51
+
+#### [独家丨快造科技估值翻数倍至70亿元，参照拓竹融资史，老股东「包场」](https://www.leiphone.com/category/weiwu/CsC1g1qRPrdEDQoM.html)
+**发布时间**: 2026-07-09 10:42
+
+#### [比亚迪第1700万辆新能源汽车下线，海豹08重塑大型旗舰家轿价值标杆](https://www.leiphone.com/category/industrynews/eXdcokR3jLYfp71i.html)
+**发布时间**: 2026-07-09 10:09
+
+#### [头部空调哪家科技强？海尔空调拿下行业唯一国家科技进步奖](https://www.leiphone.com/category/industrynews/ab7DS07QYiIDCnwM.html)
+**发布时间**: 2026-07-09 09:45
+
+#### [MiMo 基座大模型，小米最有远见的一次投入](https://www.leiphone.com/category/weiwu/9HgNwyn6oxOkZu12.html)
+**发布时间**: 2026-07-09 09:44
+
+#### [微软裁员补偿方案曝光：最高能拿近10个月基本工资遣散费；华为车BU总裁谈「智驾泡沫」：宣传过热，真实能力差距悬殊；字节绩效规则调整](https://www.leiphone.com/category/zaobao/OKkkXDJyn9iKpStq.html)
+**发布时间**: 2026-07-09 08:29
+
+#### [ICML 精选 Spotlight Poster 汇总：Session 4-1](https://www.leiphone.com/category/private/G6Kz0tQWVb5CMxBY.html)
+**发布时间**: 2026-07-08 18:27
+
+#### [ICML 精选Spotlight Poster汇总：Session 4-3](https://www.leiphone.com/category/private/7a2o088m7EXWQXv5.html)
+**发布时间**: 2026-07-08 18:11
+
+#### [ICML 精选 Spotlight Poster 汇总：Session 5-1](https://www.leiphone.com/category/private/IhY5GDnAU9wolRhr.html)
+**发布时间**: 2026-07-08 18:11
+
+#### [ICML 2026现场直击：从展台到游轮，中国大厂在顶会抢人才](https://www.leiphone.com/category/academic/DiVzwoGAPFZarhqd.html)
+**发布时间**: 2026-07-08 18:02
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-09日刊](https://hex2077.dev/docs/2026-07/2026-07-09/)
+**发布时间**: 2026-07-09 11:01
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [「没了李开复，零一万物还有什么？」一个敢问一个敢答](https://www.qbitai.com/2026/07/446778.html)
+**发布时间**: 2026-07-09 07:34
+
+#### [刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴](https://www.qbitai.com/2026/07/446658.html)
+**发布时间**: 2026-07-09 06:29
+
+#### [刚刚，全球首个具身专属的MoE视频模型，开源了！](https://www.qbitai.com/2026/07/446568.html)
+**发布时间**: 2026-07-09 05:47
+
+#### [2026年世界人工智能大会，7月17-7月20上海举办](https://www.qbitai.com/2026/07/436498.html)
+**发布时间**: 2026-07-09 05:33
+
+#### [获联合国机构点赞！天立启鸣“AI+教育”方案入选AI for Good](https://www.qbitai.com/2026/07/446562.html)
+**发布时间**: 2026-07-09 03:56
+
+#### [世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互](https://www.qbitai.com/2026/07/446548.html)
+**发布时间**: 2026-07-09 03:39
+
+#### [蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！](https://www.qbitai.com/2026/07/446458.html)
+**发布时间**: 2026-07-09 03:19
+
+#### [从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路](https://www.qbitai.com/2026/07/446435.html)
+**发布时间**: 2026-07-09 02:32
+
+#### [同声传译一夜失业！GPT-Live瞬间翻译，老太太现场抬杠AI看傻全网](https://www.qbitai.com/2026/07/446425.html)
+**发布时间**: 2026-07-09 01:54
 
 ---
 
