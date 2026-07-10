@@ -1,7 +1,54 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-10 00:06
+**最后更新时间**: 2026-07-10 08:23
+
+---
+
+## 🆕 最新更新 (2026-07-10 08:23)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0](https://www.leiphone.com/category/industrynews/TqBu1RpMYf17uLo0.html)
+**发布时间**: 2026-07-10 13:48
+
+#### [把35B模型塞进32GB内存，智能体PC如何挑战端侧部署的「物理极限」？](https://www.leiphone.com/category/chips/JCZ1098a28zh4gsH.html)
+**发布时间**: 2026-07-10 11:58
+
+#### [灵睿智芯完成数亿元融资，将量产高性能RISC-V处理器](https://www.leiphone.com/category/chips/VDznXjjFyrxdB0TG.html)
+**发布时间**: 2026-07-10 11:48
+
+#### [上半年全球销售额环比增长248%，追觅割草机器人多区域实现突破](https://www.leiphone.com/category/industrynews/xUAWKuL7B51LbV4l.html)
+**发布时间**: 2026-07-10 11:23
+
+#### [腾势Z全球首发！比亚迪携旗下三大汽车品牌再次亮相英国古德伍德速度节](https://www.leiphone.com/category/industrynews/qF65ugNmdMRj3KSG.html)
+**发布时间**: 2026-07-10 11:12
+
+#### [AFI穿戴系统加持 海尔W3妈妈款外骨骼重构女性长辈助行体验](https://www.leiphone.com/category/industrynews/8rWzX4SVLFyYtNlV.html)
+**发布时间**: 2026-07-10 10:14
+
+#### [曹操充电携手支付宝碰一下，发布智能新桩开启两轮充电新纪元](https://www.leiphone.com/category/industrynews/tZFgcHOrn6vbGOe7.html)
+**发布时间**: 2026-07-10 09:22
+
+#### [顺网科技携手支付宝“碰一下”，重塑线下电竞新体验](https://www.leiphone.com/category/industrynews/lDbHAwU9ZcbQpcpT.html)
+**发布时间**: 2026-07-10 09:15
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-10日刊](https://hex2077.dev/docs/2026-07/2026-07-10/)
+**发布时间**: 2026-07-10 11:05
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」](https://www.qbitai.com/2026/07/447602.html)
+**发布时间**: 2026-07-10 04:44
+
+#### [行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0](https://www.qbitai.com/2026/07/447597.html)
+**发布时间**: 2026-07-10 03:28
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile)
+**发布时间**: 2026-07-10 00:00
 
 ---
 
