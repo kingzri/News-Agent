@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-09 08:28
+**最后更新时间**: 2026-07-10 00:06
+
+---
+
+## 🆕 最新更新 (2026-07-10 00:06)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [移远通信发布 Hawk 系列 AR 眼镜与 Dolphin XR 算力单元：以一站式制造能力推动 XR 规模化落地](https://www.leiphone.com/category/arvr/5zNZCHth6f2indzb.html)
+**发布时间**: 2026-07-09 21:03
+
+#### [Agent 进化论：从对话到协作](https://www.leiphone.com/category/industrynews/RDpPRL52VCMB19vs.html)
+**发布时间**: 2026-07-09 18:40
+
+#### [ICML 精选 Spotlight Poster 汇总：Session 7-2](https://www.leiphone.com/category/private/CkhbgnZgFR3PMdyw.html)
+**发布时间**: 2026-07-09 18:34
+
+#### [ICML 精选 Spotlight Poster 汇总：Session 5-2](https://www.leiphone.com/category/private/zFZn6BMEReiFggmy.html)
+**发布时间**: 2026-07-09 18:11
+
+#### [为家庭提供可信赖的口腔健康机构与医师，美团发布首届“司南口腔榜”](https://www.leiphone.com/category/industrynews/8vXcyUPwjmiDAvr3.html)
+**发布时间**: 2026-07-09 17:29
+
+#### [天立启鸣“AI+教育”方案入选AI for Good](https://www.leiphone.com/category/ai/PfbwTKDLzwL99jmZ.html)
+**发布时间**: 2026-07-09 16:59
+
+#### [ICML 精选Spotlight Poster汇总：Session 7-1](https://www.leiphone.com/category/private/bqJj0gBbZjw1sZNB.html)
+**发布时间**: 2026-07-09 16:53
+
+#### [支付宝发布AIS开发套件：让Agent自动发现、调用、计费](https://www.leiphone.com/category/industrynews/27C8eEaw1r1xfTzp.html)
+**发布时间**: 2026-07-09 14:30
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [MCP tool design: Practical approaches and tradeoffs](https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/)
+**发布时间**: 2026-07-09 16:40
+
+#### [Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration](https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/)
+**发布时间**: 2026-07-09 16:38
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server](https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/)
+**发布时间**: 2026-07-09 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出](https://www.qbitai.com/2026/07/447508.html)
+**发布时间**: 2026-07-09 12:18
+
+#### [第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元](https://www.qbitai.com/2026/07/446843.html)
+**发布时间**: 2026-07-09 09:48
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Tiny robot boats build floating structures](https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709)
+**发布时间**: 2026-07-09 11:50
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [SensorFM: Towards a general intelligence and interface for wearable health data](https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/)
+**发布时间**: 2026-07-09 09:56
 
 ---
 
