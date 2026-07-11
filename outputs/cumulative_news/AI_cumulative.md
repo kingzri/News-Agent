@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-10 08:23
+**最后更新时间**: 2026-07-10 23:59
+
+---
+
+## 🆕 最新更新 (2026-07-10 23:59)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [希音获上市备案通知书，港股IPO在即](https://www.leiphone.com/category/industrynews/OU0T1sOwK6p3Lgoc.html)
+**发布时间**: 2026-07-10 19:24
+
+#### [对话北森CEO纪伟国：账上躺着16亿现金，AI转型去往何方？ | SaaS+Agent十人谈](https://www.leiphone.com/category/CorporateServices/wJFmeFmoi2HFp1c4.html)
+**发布时间**: 2026-07-10 18:37
+
+#### [以车会友 与世界相见，仰望汽车亮相2026古德伍德速度节](https://www.leiphone.com/category/industrynews/zbOZD2Nc8vHNd0b5.html)
+**发布时间**: 2026-07-10 17:14
+
+#### [独家解读丨花百亿建「FDE团队」：AWS 们在走 BAT 云「定制化」老路吗？](https://www.leiphone.com/category/industrycloud/AC2Hfio9HDh57dBk.html)
+**发布时间**: 2026-07-10 16:46
+
+#### [OpenAI 权力洗牌：安全元老 Joshua Achiam 离职，白宫政策操盘手加入](https://www.leiphone.com/category/industrynews/6YYc1vkNrQVjRHfg.html)
+**发布时间**: 2026-07-10 16:41
+
+#### [芯片商Etched累计融资近60亿，获台积电、辛顿、李飞飞押注](https://www.leiphone.com/category/industrynews/fke9ApznCGrLefuE.html)
+**发布时间**: 2026-07-10 16:38
+
+#### [苹果 Vision Pro 副总裁 Paul Meade 跳槽 OpenAI](https://www.leiphone.com/category/industrynews/xAJ49A9CCOLm3Q5H.html)
+**发布时间**: 2026-07-10 16:35
+
+#### [布局AI 服务，新瑞鹏集团：正参与支付宝 AI 生态适配内测](https://www.leiphone.com/category/industrynews/fXHhURdipU2BAwy1.html)
+**发布时间**: 2026-07-10 16:29
+
+#### [瑞辰宠物医院集团接入支付宝AI，一句话唤起宠物健康服务](https://www.leiphone.com/category/industrynews/a0qXXhOidETH173C.html)
+**发布时间**: 2026-07-10 16:13
+
+#### [日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布](https://www.leiphone.com/category/industrynews/Q8V2eFGCX42CZP81.html)
+**发布时间**: 2026-07-10 16:08
+
+#### [追觅升空，大疆落地](https://www.leiphone.com/category/industrynews/3un95FJQm3LtWOU6.html)
+**发布时间**: 2026-07-10 15:22
+
+#### [央视专访俞浩：把技术这件事做到极致](https://www.leiphone.com/category/industrynews/wilsod2DtbT2u7hk.html)
+**发布时间**: 2026-07-10 15:09
+
+#### [全球首个获工业级全域CE认证的具身智能机器人！无界动力K15开启全球批量交付](https://www.leiphone.com/category/industrynews/jZnmuG3qKKX5smDx.html)
+**发布时间**: 2026-07-10 14:38
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审](https://www.qbitai.com/2026/07/447846.html)
+**发布时间**: 2026-07-10 17:18
+
+#### [AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放](https://www.qbitai.com/2026/07/447832.html)
+**发布时间**: 2026-07-10 14:13
+
+#### [一群做自动驾驶的人，盯上了睡眠这件事](https://www.qbitai.com/2026/07/447796.html)
+**发布时间**: 2026-07-10 09:45
+
+#### [GPT-5.6一发布，Claude终于舍得重置Fable 5额度了](https://www.qbitai.com/2026/07/447691.html)
+**发布时间**: 2026-07-10 09:41
+
+#### [AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名](https://www.qbitai.com/2026/07/447682.html)
+**发布时间**: 2026-07-10 09:32
+
+#### [日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布](https://www.qbitai.com/2026/07/447681.html)
+**发布时间**: 2026-07-10 09:27
+
+#### [全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！](https://www.qbitai.com/2026/07/447627.html)
+**发布时间**: 2026-07-10 08:01
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization](https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/)
+**发布时间**: 2026-07-10 15:35
+
+#### [Real-time dental image verification with Amazon SageMaker AI at Henry Schein One](https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/)
+**发布时间**: 2026-07-10 15:33
+
+#### [Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/)
+**发布时间**: 2026-07-10 15:31
+
+#### [Scaling agentic workflows with native case management in Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/)
+**发布时间**: 2026-07-10 15:28
+
+#### [Deploying quantized models on Amazon SageMaker AI with Unsloth](https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/)
+**发布时间**: 2026-07-10 15:26
+
+#### [How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-07-10 15:23
+
+#### [Disaggregated prefill and decode for LLM inference on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/)
+**发布时间**: 2026-07-10 15:20
 
 ---
 
