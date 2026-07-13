@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-13 08:18
+**最后更新时间**: 2026-07-13 23:55
+
+---
+
+## 🆕 最新更新 (2026-07-13 23:55)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/)
+**发布时间**: 2026-07-13 21:01
+
+#### [When your brain works differently, AI isn’t a luxury—it’s accessibility](https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/)
+**发布时间**: 2026-07-13 17:50
+
+#### [Building an agentic AI solution at Bluesight with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock/)
+**发布时间**: 2026-07-13 17:34
+
+#### [Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/)
+**发布时间**: 2026-07-13 17:27
+
+#### [Launching UI for generative AI inference recommendations in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/)
+**发布时间**: 2026-07-13 16:42
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [《智能体个人信息保护自律公约》发布  31家企业共促AI生态规范](https://www.leiphone.com/category/ai/v2YZAxfAruNy41cX.html)
+**发布时间**: 2026-07-13 18:27
+
+#### [RSS 2026 Manipulation 论文报告汇总1](https://www.leiphone.com/category/private/7a8PVDUwLrXG8LgX.html)
+**发布时间**: 2026-07-13 18:15
+
+#### [文远知行L2++智驾业务加速出海，一段式端到端方案驶向全球](https://www.leiphone.com/category/industrynews/zEN1JYcVUeuUotRS.html)
+**发布时间**: 2026-07-13 16:07
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Agent专用搜索登顶Product Hunt，Token更省搜得更准](https://www.qbitai.com/2026/07/449327.html)
+**发布时间**: 2026-07-13 15:15
+
+#### [Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题](https://www.qbitai.com/2026/07/449311.html)
+**发布时间**: 2026-07-13 11:59
+
+#### [WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？](https://www.qbitai.com/2026/07/449156.html)
+**发布时间**: 2026-07-13 09:27
+
+#### [从前沿创新到产业落地：西门子将亮相2026世界人工智能大会](https://www.qbitai.com/2026/07/449150.html)
+**发布时间**: 2026-07-13 08:28
+
+#### [问界母公司突发亏损预警！一季度还在盈利](https://www.qbitai.com/2026/07/449005.html)
+**发布时间**: 2026-07-13 08:17
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [How MIT students are helping to prevent cyberattacks](https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713)
+**发布时间**: 2026-07-13 15:10
+
+#### [AI agents create virtual playgrounds to help robots get crucial training data](https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713)
+**发布时间**: 2026-07-13 14:50
 
 ---
 
