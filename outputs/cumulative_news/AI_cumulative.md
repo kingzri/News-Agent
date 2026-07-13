@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-12 23:55
+**最后更新时间**: 2026-07-13 08:18
+
+---
+
+## 🆕 最新更新 (2026-07-13 08:18)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [ICML 2026世界模型研究盘点：LAWM VS WAM，谁主沉浮？](https://www.leiphone.com/category/private/vfNfp926XA89UUvh.html)
+**发布时间**: 2026-07-13 14:14
+
+#### [滴滴亮相联合国可持续交通主题边会，分享巴西绿色出行实践](https://www.leiphone.com/category/industrynews/KYiuLN1LGjGagBUD.html)
+**发布时间**: 2026-07-13 12:49
+
+#### [腾势N8公告亮相，定位大五座纯电豪华SUV](https://www.leiphone.com/category/industrynews/8EVuOpJEGDblZmpJ.html)
+**发布时间**: 2026-07-13 12:42
+
+#### [Genentech研发负责人Aviv Regev：预测肿瘤突变，AI 制药开启「一人一药」时代 | ICML 2026](https://www.leiphone.com/category/private/m2WcPZmJL6inJb5i.html)
+**发布时间**: 2026-07-13 11:06
+
+#### [斯坦福 Susan Athey 教授：以彼之矛攻彼之盾，用 LLM 的随机性破解因果推断难题 | ICML 2026](https://www.leiphone.com/category/private/u24ghF3YNhU0xxjJ.html)
+**发布时间**: 2026-07-13 11:04
+
+#### [海康威视首次亮相世界人工智能大会，全方位展示观澜大模型技术体系](https://www.leiphone.com/category/industrynews/L5WoKiH9S0xMGC8q.html)
+**发布时间**: 2026-07-13 10:27
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-13日刊](https://hex2077.dev/docs/2026-07/2026-07-13/)
+**发布时间**: 2026-07-13 11:15
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [WAIC’26探展召集令！和量子位一起逛展、直播、聊AI](https://www.qbitai.com/2026/07/448923.html)
+**发布时间**: 2026-07-13 07:00
+
+#### [Claude Code砸的坑，蚂蚁安全在尝试填上](https://www.qbitai.com/2026/07/448925.html)
+**发布时间**: 2026-07-13 06:53
+
+#### [GPT-5.6刚发布，OpenAI安全主管就跑路了？？](https://www.qbitai.com/2026/07/448825.html)
+**发布时间**: 2026-07-13 06:10
+
+#### [CNCF发布招商银行AI调度平台案例 源于范式的HAMi技术获生产级验证](https://www.qbitai.com/2026/07/448824.html)
+**发布时间**: 2026-07-13 06:07
+
+#### [趋境科技完成A轮融资，半年内募资10亿](https://www.qbitai.com/2026/07/448820.html)
+**发布时间**: 2026-07-13 05:24
+
+#### [全球开发者狂喜！Codex移除5小时限制，Fable 5订阅再延7天，有人烧token烧到住院](https://www.qbitai.com/2026/07/448139.html)
+**发布时间**: 2026-07-13 04:54
+
+#### [机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题](https://www.qbitai.com/2026/07/448239.html)
+**发布时间**: 2026-07-13 04:14
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New method aims to keep kids safe from illegal AI-generated content](https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713)
+**发布时间**: 2026-07-13 00:00
 
 ---
 
