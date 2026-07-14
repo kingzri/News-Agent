@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-13 23:55
+**最后更新时间**: 2026-07-14 13:11
+
+---
+
+## 🆕 最新更新 (2026-07-14 13:11)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家｜把芯片设计交给AI，上海AI Lab李林阳创业获数千万元首轮融资](https://www.leiphone.com/category/chips/3nmA7UMFjI21f5Eh.html)
+**发布时间**: 2026-07-14 18:31
+
+#### [对话乐道沈斐：用不变的方向，对抗市场的焦虑](https://www.leiphone.com/category/transportation/SDGMKulLaUBj4k2X.html)
+**发布时间**: 2026-07-14 17:49
+
+#### [独家丨前英特尔工业团队布局桌面金属CNC，「灵钜创新」获啟赋资本天使轮融资](https://www.leiphone.com/category/weiwu/ypTyMGz5CtFwuwx5.html)
+**发布时间**: 2026-07-14 17:07
+
+#### [独家解读丨为什么是 Virtue AI？揭秘 Meta 收购华人 AI 安全团队始末](https://www.leiphone.com/category/ai/yqP7gtoJd0BkqQZ7.html)
+**发布时间**: 2026-07-14 12:15
+
+#### [刚刚，GPT 5.6 发布会上，OpenAI 暴露了哪些 Agent 技术路线？](https://www.leiphone.com/category/ai/yRE0svXZn6QDTNov.html)
+**发布时间**: 2026-07-14 12:13
+
+#### [Anthropic 发文称自家 Claude 已经开智，网友：为了上市，不择手段？](https://www.leiphone.com/category/ai/a26ldgnexT93o9LV.html)
+**发布时间**: 2026-07-14 12:11
+
+#### [刚刚，DeepSeek 文档更新，Agent 开发者要注意这个字段](https://www.leiphone.com/category/ai/3KPgkefKuQNtTxzN.html)
+**发布时间**: 2026-07-14 12:08
+
+#### [逐际动力完成2亿美元Pre-IPO 轮融资，半年累计融资4亿美元](https://www.leiphone.com/category/robot/kgzBZPwpqBBLdoed.html)
+**发布时间**: 2026-07-14 11:42
+
+#### [激光雷达割草机器人如何盈利？我们找耐士劳总裁秦岭算了一笔账](https://www.leiphone.com/category/robot/RR4IBkYWGxNiggvB.html)
+**发布时间**: 2026-07-14 10:36
+
+#### [全国首个体育古籍专题数据库上线，识典古籍联合北京体育大学共建](https://www.leiphone.com/category/industrynews/UksxFvs1iGgNd0yG.html)
+**发布时间**: 2026-07-14 10:19
+
+#### [深耕校园场景，企鹅科技成支付宝首批“碰一下”进校企业](https://www.leiphone.com/category/industrynews/dXk6ZqqmqwtAyFZD.html)
+**发布时间**: 2026-07-14 10:11
+
+#### [OpenAI 商业化版图「一拆为三」，原掌舵人 Fidji Simo 突遭离职](https://www.leiphone.com/category/industrynews/AsJkNmGbxJ5mPq93.html)
+**发布时间**: 2026-07-14 09:57
+
+#### [为智能体重新设计操作系统：全球首个智能体原生操作系统Step AOS发布](https://www.leiphone.com/category/ai/DCPWHecweBJl5y9S.html)
+**发布时间**: 2026-07-14 08:57
+
+#### [上市造富！长鑫近2万员工每人可分超百万，有人因工作强度离开；海南将成中国首个禁售燃油车省份；曝字节跳动入局自动驾驶领域，官方回应](https://www.leiphone.com/category/zaobao/mXH74oCuoPfxSBho.html)
+**发布时间**: 2026-07-14 08:38
+
+#### [阶跃发布大模型原生AI终端品牌STEPX及Step AOS，全球首款大模型原生智能体手机同步亮相](https://www.leiphone.com/category/ai/3WyAbXehaodJ80aQ.html)
+**发布时间**: 2026-07-14 08:37
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-14日刊](https://hex2077.dev/docs/2026-07/2026-07-14/)
+**发布时间**: 2026-07-14 13:32
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千](https://www.qbitai.com/2026/07/449863.html)
+**发布时间**: 2026-07-14 11:05
+
+#### [百年德国「战车」征服欧陆，驾驶位上是中国AI司机](https://www.qbitai.com/2026/07/449850.html)
+**发布时间**: 2026-07-14 11:04
+
+#### [GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先](https://www.qbitai.com/2026/07/449842.html)
+**发布时间**: 2026-07-14 05:13
+
+#### [产业与全球资本共同加注，爱诗科技完成29.8亿元C轮融资](https://www.qbitai.com/2026/07/449836.html)
+**发布时间**: 2026-07-14 04:06
+
+#### [高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景](https://www.qbitai.com/2026/07/449568.html)
+**发布时间**: 2026-07-14 03:46
+
+#### [100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品](https://www.qbitai.com/2026/07/449566.html)
+**发布时间**: 2026-07-14 03:34
+
+#### [逐际动力再融2亿美元提速港股IPO，张巍：营收对赌不符合具身商业逻辑](https://www.qbitai.com/2026/07/449474.html)
+**发布时间**: 2026-07-14 02:02
+
+#### [菲尔兹奖提前泄露！王虹邓煜双双在列](https://www.qbitai.com/2026/07/449407.html)
+**发布时间**: 2026-07-14 00:42
 
 ---
 
