@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 14 Jul 2026 13:11:00 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Jul 2026 13:14:06 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 23:54:00 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 23:56:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,195 +14,91 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>独家｜把芯片设计交给AI，上海AI Lab李林阳创业获数千万元首轮融资</title>
-      <link>https://www.leiphone.com/category/chips/3nmA7UMFjI21f5Eh.html</link>
-      <description>&lt;![CDATA[独家｜把芯片设计交给AI，上海AI Lab李林阳创业获数千万元首轮融资]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 18:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/3nmA7UMFjI21f5Eh.html</guid>
+      <title>机器人，从此“变”了！上纬启元T1将在WAIC期间首秀</title>
+      <link>https://www.leiphone.com/category/industrynews/cjkqMQqW31Ak4F46.html</link>
+      <description>&lt;![CDATA[机器人，从此“变”了！上纬启元T1将在WAIC期间首秀]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 21:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cjkqMQqW31Ak4F46.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>对话乐道沈斐：用不变的方向，对抗市场的焦虑</title>
-      <link>https://www.leiphone.com/category/transportation/SDGMKulLaUBj4k2X.html</link>
-      <description>&lt;![CDATA[对话乐道沈斐：用不变的方向，对抗市场的焦虑]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/SDGMKulLaUBj4k2X.html</guid>
+      <title>Multi-agent social intelligence with Strands Agents and Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Multi-agent social intelligence with Strands Agents and Amazon Bedrock]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 18:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家丨前英特尔工业团队布局桌面金属CNC，「灵钜创新」获啟赋资本天使轮融资</title>
-      <link>https://www.leiphone.com/category/weiwu/ypTyMGz5CtFwuwx5.html</link>
-      <description>&lt;![CDATA[独家丨前英特尔工业团队布局桌面金属CNC，「灵钜创新」获啟赋资本天使轮融资]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/ypTyMGz5CtFwuwx5.html</guid>
+      <title>Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/</link>
+      <description>&lt;![CDATA[Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家解读丨为什么是 Virtue AI？揭秘 Meta 收购华人 AI 安全团队始末</title>
-      <link>https://www.leiphone.com/category/ai/yqP7gtoJd0BkqQZ7.html</link>
-      <description>&lt;![CDATA[独家解读丨为什么是 Virtue AI？揭秘 Meta 收购华人 AI 安全团队始末]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 12:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/yqP7gtoJd0BkqQZ7.html</guid>
+      <title>Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/</link>
+      <description>&lt;![CDATA[Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，GPT 5.6 发布会上，OpenAI 暴露了哪些 Agent 技术路线？</title>
-      <link>https://www.leiphone.com/category/ai/yRE0svXZn6QDTNov.html</link>
-      <description>&lt;![CDATA[刚刚，GPT 5.6 发布会上，OpenAI 暴露了哪些 Agent 技术路线？]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 12:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/yRE0svXZn6QDTNov.html</guid>
+      <title>Scaling medical content review at Flo Health with Amazon Bedrock – Part 2</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/</link>
+      <description>&lt;![CDATA[Scaling medical content review at Flo Health with Amazon Bedrock – Part 2]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Anthropic 发文称自家 Claude 已经开智，网友：为了上市，不择手段？</title>
-      <link>https://www.leiphone.com/category/ai/a26ldgnexT93o9LV.html</link>
-      <description>&lt;![CDATA[Anthropic 发文称自家 Claude 已经开智，网友：为了上市，不择手段？]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 12:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/a26ldgnexT93o9LV.html</guid>
+      <title>ScienceSoft’s HIPAA-compliant AI voice scheduler built on AWS</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/</link>
+      <description>&lt;![CDATA[ScienceSoft’s HIPAA-compliant AI voice scheduler built on AWS]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，DeepSeek 文档更新，Agent 开发者要注意这个字段</title>
-      <link>https://www.leiphone.com/category/ai/3KPgkefKuQNtTxzN.html</link>
-      <description>&lt;![CDATA[刚刚，DeepSeek 文档更新，Agent 开发者要注意这个字段]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 12:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/3KPgkefKuQNtTxzN.html</guid>
+      <title>阶跃入局，重构智能体时代操作系统</title>
+      <link>https://www.qbitai.com/2026/07/449979.html</link>
+      <description>&lt;![CDATA[阶跃入局，重构智能体时代操作系统]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 18:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449979.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>逐际动力完成2亿美元Pre-IPO 轮融资，半年累计融资4亿美元</title>
-      <link>https://www.leiphone.com/category/robot/kgzBZPwpqBBLdoed.html</link>
-      <description>&lt;![CDATA[逐际动力完成2亿美元Pre-IPO 轮融资，半年累计融资4亿美元]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 11:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/kgzBZPwpqBBLdoed.html</guid>
+      <title>Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize</title>
+      <link>https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/</link>
+      <description>&lt;![CDATA[Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>激光雷达割草机器人如何盈利？我们找耐士劳总裁秦岭算了一笔账</title>
-      <link>https://www.leiphone.com/category/robot/RR4IBkYWGxNiggvB.html</link>
-      <description>&lt;![CDATA[激光雷达割草机器人如何盈利？我们找耐士劳总裁秦岭算了一笔账]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 10:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/RR4IBkYWGxNiggvB.html</guid>
+      <title>Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency</title>
+      <link>https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</link>
+      <description>&lt;![CDATA[Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全国首个体育古籍专题数据库上线，识典古籍联合北京体育大学共建</title>
-      <link>https://www.leiphone.com/category/industrynews/UksxFvs1iGgNd0yG.html</link>
-      <description>&lt;![CDATA[全国首个体育古籍专题数据库上线，识典古籍联合北京体育大学共建]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/UksxFvs1iGgNd0yG.html</guid>
+      <title>Helping AI models to meet the real world</title>
+      <link>https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714</link>
+      <description>&lt;![CDATA[Helping AI models to meet the real world]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>深耕校园场景，企鹅科技成支付宝首批“碰一下”进校企业</title>
-      <link>https://www.leiphone.com/category/industrynews/dXk6ZqqmqwtAyFZD.html</link>
-      <description>&lt;![CDATA[深耕校园场景，企鹅科技成支付宝首批“碰一下”进校企业]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 10:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dXk6ZqqmqwtAyFZD.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>OpenAI 商业化版图「一拆为三」，原掌舵人 Fidji Simo 突遭离职</title>
-      <link>https://www.leiphone.com/category/industrynews/AsJkNmGbxJ5mPq93.html</link>
-      <description>&lt;![CDATA[OpenAI 商业化版图「一拆为三」，原掌舵人 Fidji Simo 突遭离职]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/AsJkNmGbxJ5mPq93.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>为智能体重新设计操作系统：全球首个智能体原生操作系统Step AOS发布</title>
-      <link>https://www.leiphone.com/category/ai/DCPWHecweBJl5y9S.html</link>
-      <description>&lt;![CDATA[为智能体重新设计操作系统：全球首个智能体原生操作系统Step AOS发布]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/DCPWHecweBJl5y9S.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>上市造富！长鑫近2万员工每人可分超百万，有人因工作强度离开；海南将成中国首个禁售燃油车省份；曝字节跳动入局自动驾驶领域，官方回应</title>
-      <link>https://www.leiphone.com/category/zaobao/mXH74oCuoPfxSBho.html</link>
-      <description>&lt;![CDATA[上市造富！长鑫近2万员工每人可分超百万，有人因工作强度离开；海南将成中国首个禁售燃油车省份；曝字节跳动入局自动驾驶领域，官方回应]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 08:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/mXH74oCuoPfxSBho.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阶跃发布大模型原生AI终端品牌STEPX及Step AOS，全球首款大模型原生智能体手机同步亮相</title>
-      <link>https://www.leiphone.com/category/ai/3WyAbXehaodJ80aQ.html</link>
-      <description>&lt;![CDATA[阶跃发布大模型原生AI终端品牌STEPX及Step AOS，全球首款大模型原生智能体手机同步亮相]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 08:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/3WyAbXehaodJ80aQ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-07-14日刊</title>
-      <link>https://hex2077.dev/docs/2026-07/2026-07-14/</link>
-      <description>&lt;![CDATA[2026-07-14日刊]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 13:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-14/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千</title>
-      <link>https://www.qbitai.com/2026/07/449863.html</link>
-      <description>&lt;![CDATA[B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 11:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449863.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>百年德国「战车」征服欧陆，驾驶位上是中国AI司机</title>
-      <link>https://www.qbitai.com/2026/07/449850.html</link>
-      <description>&lt;![CDATA[百年德国「战车」征服欧陆，驾驶位上是中国AI司机]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 11:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449850.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先</title>
-      <link>https://www.qbitai.com/2026/07/449842.html</link>
-      <description>&lt;![CDATA[GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 05:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449842.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>产业与全球资本共同加注，爱诗科技完成29.8亿元C轮融资</title>
-      <link>https://www.qbitai.com/2026/07/449836.html</link>
-      <description>&lt;![CDATA[产业与全球资本共同加注，爱诗科技完成29.8亿元C轮融资]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 04:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449836.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景</title>
-      <link>https://www.qbitai.com/2026/07/449568.html</link>
-      <description>&lt;![CDATA[高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 03:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449568.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品</title>
-      <link>https://www.qbitai.com/2026/07/449566.html</link>
-      <description>&lt;![CDATA[100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 03:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449566.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>逐际动力再融2亿美元提速港股IPO，张巍：营收对赌不符合具身商业逻辑</title>
-      <link>https://www.qbitai.com/2026/07/449474.html</link>
-      <description>&lt;![CDATA[逐际动力再融2亿美元提速港股IPO，张巍：营收对赌不符合具身商业逻辑]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 02:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449474.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>菲尔兹奖提前泄露！王虹邓煜双双在列</title>
-      <link>https://www.qbitai.com/2026/07/449407.html</link>
-      <description>&lt;![CDATA[菲尔兹奖提前泄露！王虹邓煜双双在列]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 00:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449407.html</guid>
+      <title>Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering</title>
+      <link>https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714</link>
+      <description>&lt;![CDATA[Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714</guid>
       <category>Ai</category>
     </item>
   </channel>

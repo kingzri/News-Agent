@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-14 13:11
+**最后更新时间**: 2026-07-14 23:54
+
+---
+
+## 🆕 最新更新 (2026-07-14 23:54)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [机器人，从此“变”了！上纬启元T1将在WAIC期间首秀](https://www.leiphone.com/category/industrynews/cjkqMQqW31Ak4F46.html)
+**发布时间**: 2026-07-14 21:17
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Multi-agent social intelligence with Strands Agents and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/)
+**发布时间**: 2026-07-14 18:44
+
+#### [Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2](https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/)
+**发布时间**: 2026-07-14 16:47
+
+#### [Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis](https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/)
+**发布时间**: 2026-07-14 16:43
+
+#### [Scaling medical content review at Flo Health with Amazon Bedrock – Part 2](https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/)
+**发布时间**: 2026-07-14 16:33
+
+#### [ScienceSoft’s HIPAA-compliant AI voice scheduler built on AWS](https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/)
+**发布时间**: 2026-07-14 16:25
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [阶跃入局，重构智能体时代操作系统](https://www.qbitai.com/2026/07/449979.html)
+**发布时间**: 2026-07-14 18:43
+
+#### [刚刚，一个免费AI Coding选手杀入全球第一梯队](https://www.qbitai.com/2026/07/448475.html)
+**发布时间**: 2026-07-14 12:36
+
+#### [马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了](https://www.qbitai.com/2026/07/449906.html)
+**发布时间**: 2026-07-14 12:04
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize](https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/)
+**发布时间**: 2026-07-14 16:45
+
+#### [Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency](https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/)
+**发布时间**: 2026-07-14 15:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Helping AI models to meet the real world](https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714)
+**发布时间**: 2026-07-14 16:25
+
+#### [Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering](https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714)
+**发布时间**: 2026-07-14 14:00
 
 ---
 

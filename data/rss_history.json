@@ -7999,6 +7999,18 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535343&idx=1&sn=5c13d73a81e83427597b51786885aa1f",
         "published_date": "Tue, 14 Jul 2026 14:32:00 GMT",
         "first_seen": "2026-07-14T13:14:06.223886"
+      },
+      "d526e34f2cf8431478c47ea1672c573d02b337f4559a1888521231c59447347e": {
+        "title": "【钛晨报】央行出手！1.4万亿元买断式逆回购来了；长鑫科技发行价确定8.66元/股，7月16日开启申购；中金公司“三合一”重组，再迎关键进展",
+        "link": "https://www.tmtpost.com/8064831.html",
+        "published_date": "Wed, 15 Jul 2026 07:20:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.277640"
+      },
+      "0e9a7e57659cdbb734158fde3ac7b08216963eb5e6492f1cfae04daf9df036dd": {
+        "title": "Claude Artifacts 一夜打通“全网公开分享+多人编辑”，AI 交付闭环彻底杀疯了",
+        "link": "https://www.infoq.cn/article/Pqcx0ktTdljvoQ3OMxze?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Jul 2026 22:01:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.277650"
       }
     },
     "Finance": {
@@ -12639,6 +12651,108 @@
         "link": "https://www.ft.com/content/47f8712c-825b-447b-abe5-16b73717fcc3",
         "published_date": "Tue, 14 Jul 2026 04:00:00 GMT",
         "first_seen": "2026-07-14T13:14:06.323685"
+      },
+      "d83154ba1ad3eea851920d60441481a67165e91b12ca644021d3f6e32b68b1f6": {
+        "title": "Circle clashed with Tether-backed fund over market manipulation concerns",
+        "link": "https://www.ft.com/content/d2ea75d8-ffe4-406f-a04e-59416ae1ed20",
+        "published_date": "Tue, 14 Jul 2026 23:36:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383110"
+      },
+      "6942191221c3ce3e89bd9ea8d77c255b5f248745da85734e9d3f8f5622207a80": {
+        "title": "Manic markets show no mercy to IBM",
+        "link": "https://www.ft.com/content/cfec51c1-0435-457f-a140-f302ca6a4e0b",
+        "published_date": "Tue, 14 Jul 2026 22:07:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383115"
+      },
+      "703730a38d3db7abc8176d353d175ab73b88f956d2289ef61efa0e3b982f7417": {
+        "title": "Trump says US to abandon proposed Strait of Hormuz cargo fee",
+        "link": "https://www.ft.com/content/359bc137-c375-4812-87a9-07fbba8e347f",
+        "published_date": "Tue, 14 Jul 2026 20:19:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383118"
+      },
+      "0a42cd5f859cd6bb2bffb30fbd9df313f7b31cd5bfaedb088dd5bcd9e0e05a75": {
+        "title": "IBM shares plunge 25% as customers shift spending to AI",
+        "link": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
+        "published_date": "Tue, 14 Jul 2026 20:11:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383119"
+      },
+      "5ce0545ddb1923356f839eb7db5b5aff4b871cb14384758caa3b01cf99ce7459": {
+        "title": "US to fund Trump-aligned Europeans building ‘civilisational bonds’",
+        "link": "https://www.ft.com/content/e2addd88-4361-43f1-94e2-9f0a808dd6a9",
+        "published_date": "Tue, 14 Jul 2026 19:47:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383121"
+      },
+      "943b7e98bf093f4f646c2595e059d99bac6ae4d66801e8445ebdd6ca2ca13ec3": {
+        "title": "Buffett drops Gates Foundation from $6bn Berkshire donation",
+        "link": "https://www.ft.com/content/ebc72869-a233-4710-a9a4-e398f567a5b2",
+        "published_date": "Tue, 14 Jul 2026 19:03:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383122"
+      },
+      "a3b4528a41500347ff4839e04feb6ac408de8d5f8b5fb7be482f91df10db7483": {
+        "title": "Wall Street banks smash records on stock trading boom",
+        "link": "https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2",
+        "published_date": "Tue, 14 Jul 2026 16:23:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383123"
+      },
+      "1e59f64114247ea7b0006193b80fa809ef13dc33fc618e2bb0a8a653996cf209": {
+        "title": "New York becomes first US state to suspend data centre development",
+        "link": "https://www.ft.com/content/1c390476-9d93-4df5-9b41-7381db43b4ea",
+        "published_date": "Tue, 14 Jul 2026 16:19:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383124"
+      },
+      "69e18b223caf6c2add512d98df93b625ecc3390fd5e40868a5d3ab76445a78d1": {
+        "title": "Ukraine targets Russian shipping in ‘unprecedented’ drone assault",
+        "link": "https://www.ft.com/content/6d5e952f-eb03-4277-a8b4-caae478a02d9",
+        "published_date": "Tue, 14 Jul 2026 14:43:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383126"
+      },
+      "71197d0db58bad83e6b145988b3784e988f72a67c6cb40941b4e6ec52c6a9f93": {
+        "title": "This overlooked index is a better investment than the S&P 500",
+        "link": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Jul 2026 23:32:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383127"
+      },
+      "8f727aa875bdf2706f3d042d5777f717400541c5040e2330a56c09c40755950d": {
+        "title": "Your monthly Netflix bill is up 29% in just over a year. Critics say Washington needs to fix it.",
+        "link": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Jul 2026 22:11:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383129"
+      },
+      "a62b3568a801b30862cf3d76d3d6a292894e99496a9312ad525b703e74b1ee40": {
+        "title": "What IBM’s profit warning means: Hardware is ‘eating everyone’s lunch’",
+        "link": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Jul 2026 21:10:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383130"
+      },
+      "ae185935dbc121977abb059fdd3e8cdbdab2054ac2d5199e55aeb13b704e89b1": {
+        "title": "Taco Bell reportedly being investigated by health officials, as cyclosporiasis outbreak spreads",
+        "link": "https://www.marketwatch.com/story/officials-are-reportedly-looking-into-taco-bell-as-source-of-parasite-outbreak-remains-elusive-3ead0a1f?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Jul 2026 21:09:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383132"
+      },
+      "24ec7eab193fa9f1e1bdc30a0a148d4678e0b2b5bb4ee6b59c7f9ad7ebfd7199": {
+        "title": "Wall Street has set a sky-high bar for companies to clear this earnings season. They just might pull it off.",
+        "link": "https://www.marketwatch.com/story/wall-street-has-set-a-sky-high-bar-for-companies-to-clear-this-earnings-season-they-just-might-pull-it-off-45731862?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Jul 2026 21:03:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383133"
+      },
+      "a022399160be6a3a79ec15efe65b50a4d7179c7104b762c50b5e0f260dd94be7": {
+        "title": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
+        "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Jul 2026 20:56:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383134"
+      },
+      "4efa908e1e3e2f6ee27a8ed09c00bb4feadafca80be24dbd4c0655dac7f565e5": {
+        "title": "Skip the lettuce, cook your other greens and more advice on avoiding cyclosporiasis",
+        "link": "https://www.marketwatch.com/story/skip-the-lettuce-cook-your-other-greens-and-more-advice-on-avoiding-cyclosporiasis-ec2aed46?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Jul 2026 20:22:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383136"
+      },
+      "c0750e5090bf647b05812c2eaa5a744924c08ebc41a147e59feea5c2c3aca0af": {
+        "title": "IBM’s stock just had its worst day ever after the surprise release of an earnings miss",
+        "link": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Jul 2026 20:21:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.383137"
       }
     },
     "Ai": {
@@ -16973,13 +17087,79 @@
         "link": "https://www.qbitai.com/2026/07/449407.html",
         "published_date": "Tue, 14 Jul 2026 00:42:00 GMT",
         "first_seen": "2026-07-14T13:14:06.496074"
+      },
+      "4fd40361d787650f895a112e38a29de3c0c582b9b6a4743e71accbbd5e6ac2d4": {
+        "title": "机器人，从此“变”了！上纬启元T1将在WAIC期间首秀",
+        "link": "https://www.leiphone.com/category/industrynews/cjkqMQqW31Ak4F46.html",
+        "published_date": "Tue, 14 Jul 2026 21:17:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.544198"
+      },
+      "996ebae0dd8d082dc33b6905c56deb0ab6f9d01abed99389fbde1617c7f16f03": {
+        "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
+        "published_date": "Tue, 14 Jul 2026 18:44:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.544206"
+      },
+      "2b34229fd8f66080286a6422dd7a069f2c8a0f1b9e73395313287ec132950e84": {
+        "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/",
+        "published_date": "Tue, 14 Jul 2026 16:47:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.544208"
+      },
+      "86343073923c53a9d6ae3229f7f6a9995084594a7e7aa20227b388d8f83f745d": {
+        "title": "Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/",
+        "published_date": "Tue, 14 Jul 2026 16:43:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.544209"
+      },
+      "53b3df6e37b792450b3d092b96d0a32335bdad8b21f4b5ba5ea9afaf656a6174": {
+        "title": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/",
+        "published_date": "Tue, 14 Jul 2026 16:33:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.544211"
+      },
+      "5f6dda943b5bcc89a23aff7f674bcb66d27cdd2488b51ea87802f905db1ffea0": {
+        "title": "ScienceSoft’s HIPAA-compliant AI voice scheduler built on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/",
+        "published_date": "Tue, 14 Jul 2026 16:25:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.544212"
+      },
+      "e39aeeecb87db6bc109f47c8485310112e79709339e4d293311a590a558a077d": {
+        "title": "阶跃入局，重构智能体时代操作系统",
+        "link": "https://www.qbitai.com/2026/07/449979.html",
+        "published_date": "Tue, 14 Jul 2026 18:43:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.544214"
+      },
+      "e8f5b3520f8132ea7e5352e7bfeebc63b6df4dc351ba7f6488e1ccd3d8807e8e": {
+        "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+        "link": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+        "published_date": "Tue, 14 Jul 2026 16:45:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.544215"
+      },
+      "6fd23100e48bbccec34e1701a8efe59c2042885801fcd8f6372b0b739a77dd7b": {
+        "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+        "link": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+        "published_date": "Tue, 14 Jul 2026 15:00:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.544217"
+      },
+      "fcc50f70584762875e32f8b4527c36cca9f9866eb9684750a3d0670d4eed60c9": {
+        "title": "Helping AI models to meet the real world",
+        "link": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
+        "published_date": "Tue, 14 Jul 2026 16:25:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.544218"
+      },
+      "32931f37677057166bc5f326d2b14095f3a472dd3038c4c8efd4946bf551d446": {
+        "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
+        "link": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
+        "published_date": "Tue, 14 Jul 2026 14:00:00 GMT",
+        "first_seen": "2026-07-14T23:56:40.544220"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-14T13:14:06.223903",
-    "Finance": "2026-07-14T13:14:06.323687",
-    "Ai": "2026-07-14T13:14:06.496076"
+    "Technology": "2026-07-14T23:56:40.277653",
+    "Finance": "2026-07-14T23:56:40.383139",
+    "Ai": "2026-07-14T23:56:40.544221"
   }
 }
