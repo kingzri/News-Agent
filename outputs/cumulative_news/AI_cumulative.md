@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-14 23:54
+**最后更新时间**: 2026-07-15 07:15
+
+---
+
+## 🆕 最新更新 (2026-07-15 07:15)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座](https://www.leiphone.com/category/industrynews/fIqCGTasgYRN21d4.html)
+**发布时间**: 2026-07-15 12:32
+
+#### [百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相](https://www.leiphone.com/category/industrynews/ZNfcN7oQILMXzXTc.html)
+**发布时间**: 2026-07-15 11:43
+
+#### [直击 RSS2026 现场前瞻：共识等待收敛，期待中国具身力量亮相](https://www.leiphone.com/category/private/3lsidugjZAeIygWx.html)
+**发布时间**: 2026-07-15 11:31
+
+#### [登顶 ICML Oral ！专访上交大团队：这个 3D 自动标注 AI 太强了](https://www.leiphone.com/category/private/mDyMyOapu5FiBuRS.html)
+**发布时间**: 2026-07-15 11:27
+
+#### [又快又聪明，阿里发布 Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级](https://www.leiphone.com/category/industrynews/Yg2RqalAz09LS6WJ.html)
+**发布时间**: 2026-07-15 11:25
+
+#### [佑驾创新落子佛山，滴滴送货加入，探索“公交+物流”一张网](https://www.leiphone.com/category/transportation/IGRl3w0iqYTHG77A.html)
+**发布时间**: 2026-07-15 11:03
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-15日刊](https://hex2077.dev/docs/2026-07/2026-07-15/)
+**发布时间**: 2026-07-15 10:58
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [不是吧OpenAI首款硬件吹半天就是个AI音箱？？](https://www.qbitai.com/2026/07/450385.html)
+**发布时间**: 2026-07-15 04:46
+
+#### [又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级](https://www.qbitai.com/2026/07/450250.html)
+**发布时间**: 2026-07-15 03:48
+
+#### [估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO](https://www.qbitai.com/2026/07/450101.html)
+**发布时间**: 2026-07-15 00:54
 
 ---
 
