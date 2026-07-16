@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-16 07:22
+**最后更新时间**: 2026-07-16 10:10
+
+---
+
+## 🆕 最新更新 (2026-07-16 10:10)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [国产大芯片厂商“必修课”：从云豹智能看DPU赛道现实考题](https://www.leiphone.com/category/chips/lxIbicm9WU6RU1Qe.html)
+**发布时间**: 2026-07-16 15:45
+
+#### [专访 Ψ₀ 团队：用对方法，30小时真机数据也能练模型｜RSS 2026](https://www.leiphone.com/category/private/XjLhqoCs0fFsyEIN.html)
+**发布时间**: 2026-07-16 15:32
+
+#### [2026世界人工智能大会聚焦AI治理，奇安信展示AI+安全双轮驱动布局](https://www.leiphone.com/category/industrynews/lxXkqwf4vc9J3opM.html)
+**发布时间**: 2026-07-16 14:29
+
+#### [行业首个！中国一汽大模型入驻阿里云百炼，面向全行业开放](https://www.leiphone.com/category/industrynews/REYfC0ECzRMeS8hD.html)
+**发布时间**: 2026-07-16 13:57
+
+#### [不改造门店机器人直接上岗，蚂蚁灵波智慧药房获WAIC 2026“镇馆之宝”](https://www.leiphone.com/category/industrynews/tA7cOaKzZYIzZTd1.html)
+**发布时间**: 2026-07-16 13:56
+
+#### [行业首个！中国一汽大模型入驻阿里云百炼，面向全行业开放](https://www.leiphone.com/category/industrynews/RLQXM9HvJOa5hsu0.html)
+**发布时间**: 2026-07-16 13:56
+
+#### [独家专访李弘扬：成为 RSS 二十年唯一国人获奖者后，我要 all in 全身智能](https://www.leiphone.com/category/private/mbQ4vuafsYYdWzsj.html)
+**发布时间**: 2026-07-15 14:21
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚，逐际动力放出一段Demo，Figure：睡不着啊](https://www.qbitai.com/2026/07/451084.html)
+**发布时间**: 2026-07-16 08:04
+
+#### [一位失忆患者，揭开了AI记忆的误区](https://www.qbitai.com/2026/07/451049.html)
+**发布时间**: 2026-07-16 07:34
 
 ---
 
