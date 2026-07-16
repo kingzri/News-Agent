@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-15 10:04
+**最后更新时间**: 2026-07-15 23:59
+
+---
+
+## 🆕 最新更新 (2026-07-15 23:59)
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI](https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/)
+**发布时间**: 2026-07-15 23:00
+
+#### [NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry](https://blogs.nvidia.com/blog/japan-ecosystem-2026/)
+**发布时间**: 2026-07-15 10:51
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance](https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/)
+**发布时间**: 2026-07-15 18:14
+
+#### [Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers](https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/)
+**发布时间**: 2026-07-15 18:11
+
+#### [Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch dashboards](https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/)
+**发布时间**: 2026-07-15 18:08
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Towards demystifying the creativity of diffusion models](https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/)
+**发布时间**: 2026-07-15 18:06
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [西方审美的东方表达｜SUBLIME PRESTIGE亮相中国建博会](https://www.leiphone.com/category/smarthome/JIgOfqa7wDZpvOTs.html)
+**发布时间**: 2026-07-15 17:43
+
+#### [支付宝与OPPO实现智能体跨端互联，手机AI 办事能力提升显著](https://www.leiphone.com/category/industrynews/uHlXIebJKxcMVNKO.html)
+**发布时间**: 2026-07-15 16:19
+
+#### [为什么Agentic CRM需要“真原生”架构？](https://www.leiphone.com/category/industrynews/03cTTrdCmNaZapoh.html)
+**发布时间**: 2026-07-15 16:13
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog)
+**发布时间**: 2026-07-15 17:29
+
+#### [Model Routing Is Simple. Until It Isn’t.](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt)
+**发布时间**: 2026-07-15 17:27
+
+#### [Welcome Inkling by Thinking Machines](https://huggingface.co/blog/thinkingmachines-inkling)
+**发布时间**: 2026-07-15 00:00
+
+#### [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq)
+**发布时间**: 2026-07-15 00:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [3 Questions: Neural transparency and the future of AI design](https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715)
+**发布时间**: 2026-07-15 16:25
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [测量精度突破1微米，效率提升3倍，优可测高精度闪测仪发布](https://www.qbitai.com/2026/07/450841.html)
+**发布时间**: 2026-07-15 09:45
+
+#### [主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！](https://www.qbitai.com/2026/07/450831.html)
+**发布时间**: 2026-07-15 09:18
 
 ---
 
