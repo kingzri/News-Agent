@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-16 10:10
+**最后更新时间**: 2026-07-17 00:00
+
+---
+
+## 🆕 最新更新 (2026-07-17 00:00)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/)
+**发布时间**: 2026-07-16 21:29
+
+#### [Introducing Grok on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/)
+**发布时间**: 2026-07-16 19:29
+
+#### [Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/)
+**发布时间**: 2026-07-16 15:50
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [挚达科技发布家庭及公共场景自动充电机器人解决方案](https://www.leiphone.com/category/transportation/lV4IbRbkPa4Urphm.html)
+**发布时间**: 2026-07-16 19:17
+
+#### [DeepSeek工资待遇登上热搜，清华姚班晒实习工资日薪5500元；3万内双冠王！美家中央空调再出新品；国行苹果AI通过备案，接入千问、百度](https://www.leiphone.com/category/zaobao/FbTKM6eNlVlYA5cW.html)
+**发布时间**: 2026-07-16 08:40
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval](https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb)
+**发布时间**: 2026-07-16 16:01
+
+#### [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages)
+**发布时间**: 2026-07-16 11:49
+
+#### [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026)
+**发布时间**: 2026-07-16 00:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价](https://www.qbitai.com/2026/07/451576.html)
+**发布时间**: 2026-07-16 15:12
+
+#### [全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了](https://www.qbitai.com/2026/07/451403.html)
+**发布时间**: 2026-07-16 10:51
+
+#### [工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施](https://www.qbitai.com/2026/07/451371.html)
+**发布时间**: 2026-07-16 09:29
+
+#### [RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造](https://www.qbitai.com/2026/07/451379.html)
+**发布时间**: 2026-07-16 09:25
+
+#### [手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了](https://www.qbitai.com/2026/07/451327.html)
+**发布时间**: 2026-07-16 09:13
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/)
+**发布时间**: 2026-07-16 13:00
 
 ---
 
