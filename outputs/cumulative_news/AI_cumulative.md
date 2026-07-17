@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-17 00:00
+**最后更新时间**: 2026-07-17 07:17
+
+---
+
+## 🆕 最新更新 (2026-07-17 07:17)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Moonix AI 眼镜标准版 7 月 17 日全球同步发售，主打 14.9 克轻量化设计](https://www.leiphone.com/category/weiwu/FjYVgX5VSuvkTEib.html)
+**发布时间**: 2026-07-17 10:56
+
+#### [不追制程、不靠HBM、不复制GPU，东方算芯首颗AI芯片有哪些新招数](https://www.leiphone.com/category/chips/Y7ghB3uOJbHaNTyi.html)
+**发布时间**: 2026-07-17 10:24
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-17日刊](https://hex2077.dev/docs/2026-07/2026-07-17/)
+**发布时间**: 2026-07-17 10:42
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [OpenAI官方教你8招玩透ChatGPT！](https://www.qbitai.com/2026/07/452611.html)
+**发布时间**: 2026-07-17 05:11
+
+#### [百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相](https://www.qbitai.com/2026/07/451691.html)
+**发布时间**: 2026-07-17 02:41
 
 ---
 
