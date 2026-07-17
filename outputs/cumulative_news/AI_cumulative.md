@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-17 07:17
+**最后更新时间**: 2026-07-17 09:58
+
+---
+
+## 🆕 最新更新 (2026-07-17 09:58)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [WAIC 2026探营：蚂蚁集团展示面向智能体商业的三层布局](https://www.leiphone.com/category/industrynews/ZdWJuL7Ip26NbIY5.html)
+**发布时间**: 2026-07-17 15:16
+
+#### [WAIC 2026探营：蚂蚁集团展示面向智能体商业的三层布局](https://www.leiphone.com/category/industrynews/m2d7zUp4XYFQZEIW.html)
+**发布时间**: 2026-07-17 14:53
+
+#### [当买卖双方开始用 AI 做生意，1688加速解决“鸡同鸭讲”问题](https://www.leiphone.com/category/industrynews/wKnHB72cKdeY1qoG.html)
+**发布时间**: 2026-07-17 14:50
+
+#### [阿里1688将推出AI时代B2B交易互联互通开放标准](https://www.leiphone.com/category/industrynews/kkMxHebmRmWuglVy.html)
+**发布时间**: 2026-07-17 14:47
+
+#### [GAIR Paper 108 | CVPR 2026 冠军奖论文：4K 参数撬动 VLA 泛化，空间才是真正的瓶颈！](https://www.leiphone.com/category/academic/tSC1DCI4SbS7ZlTG.html)
+**发布时间**: 2026-07-17 14:22
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和](https://www.qbitai.com/2026/07/452914.html)
+**发布时间**: 2026-07-17 08:09
 
 ---
 
