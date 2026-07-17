@@ -1,7 +1,130 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-17 09:58
+**最后更新时间**: 2026-07-17 23:53
+
+---
+
+## 🆕 最新更新 (2026-07-17 23:53)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [普渡机器人亮相WAIC 2026，系统阐释“一脑多形”Physical Agent技术理念](https://www.leiphone.com/category/industrynews/GATrOScXh4x6VK7F.html)
+**发布时间**: 2026-07-18 00:30
+
+#### [独家丨智己回应经销商经营异常：需要时间妥善处理，厂家会兜底](https://www.leiphone.com/category/transportation/Zl98jshu5vrisdQt.html)
+**发布时间**: 2026-07-18 00:00
+
+#### [WAIC 2026 “镇馆之宝” STEPX Neo亮相，  引领人机交互新范式](https://www.leiphone.com/category/ai/6bAs7hkIF5NN2HVv.html)
+**发布时间**: 2026-07-17 22:44
+
+#### [2026 WAIC商汤展区直击：“未来实验室”火爆亮相，四大主题“感知未来”](https://www.leiphone.com/category/industrynews/RJfkNUvPTg8PYHl2.html)
+**发布时间**: 2026-07-17 22:38
+
+#### [“30秒换手即用”，RoboScience机器科学实现跨本体灵巧操作行业突破，全球首个云端具身大模型WAIC首秀](https://www.leiphone.com/category/industrynews/GXNexNIZrCRnzFxk.html)
+**发布时间**: 2026-07-17 22:16
+
+#### [印奇15年：一场物理AI的闭环远征](https://www.leiphone.com/category/transportation/MxkCgtnh6lAbGiKs.html)
+**发布时间**: 2026-07-17 20:14
+
+#### [思灵机器人 Agile Robots亮相WAIC 2026：具身智能独角兽展示物理AI全栈实力](https://www.leiphone.com/category/industrynews/bnE4dz5C4rdarltB.html)
+**发布时间**: 2026-07-17 19:17
+
+#### [AI到底是「想错了」还是「判错了」？OpenDriveLab 陈立的组合式世界模型让策略自我纠偏 | RSS 2026](https://www.leiphone.com/category/private/GkoVU7vEEW4FAPT2.html)
+**发布时间**: 2026-07-17 18:38
+
+#### [上汽智己，如何成为Momenta第一个抬轿人？](https://www.leiphone.com/category/transportation/PFGVpvcGiAfY44E6.html)
+**发布时间**: 2026-07-17 17:52
+
+#### [魔法原子签约阿里速卖通，WAIC 2026开幕首日宣布独家战略合作](https://www.leiphone.com/category/private/o2MQkAFXiOWmiddl.html)
+**发布时间**: 2026-07-17 17:48
+
+#### [Momenta靠什么站上物理AI的「青藏高原」？](https://www.leiphone.com/category/transportation/8ThXFb3eG8jEKzmZ.html)
+**发布时间**: 2026-07-17 17:43
+
+#### [阶跃与支付宝达成AI Agent系统级合作，跨端协同迈向“能办事”](https://www.leiphone.com/category/industrynews/owcf1OSxXWdhLsHd.html)
+**发布时间**: 2026-07-17 17:32
+
+#### [独家｜姚顺雨前同事田永龙加盟腾讯](https://www.leiphone.com/category/industrynews/2Ie5YKPJmwe9kz0p.html)
+**发布时间**: 2026-07-17 17:27
+
+#### [从哈佛辍学的前OpenAI研究员踏足AI制药，拿下20亿美元估值：VC在赌什么？](https://www.leiphone.com/category/academic/9dEkdfQYiK3wvDKj.html)
+**发布时间**: 2026-07-17 17:27
+
+#### [千问AI眼镜将升级为智能体眼镜：能灵活调用Skill和Agent，能全天候感知](https://www.leiphone.com/category/industrynews/JDlu3Gqj7atcWniy.html)
+**发布时间**: 2026-07-17 17:23
+
+#### [AI Coding 最难的一仗，阿里为什么赢了？](https://www.leiphone.com/category/industrynews/kMp6GgBN9B7luNaO.html)
+**发布时间**: 2026-07-17 17:20
+
+#### [行业共议公平运行内存机制，安卓生态加速标准共建](https://www.leiphone.com/category/industrynews/pvxgkXpZQWBf8lEh.html)
+**发布时间**: 2026-07-17 17:19
+
+#### [激光雷达战火为何烧向自研芯片？](https://www.leiphone.com/category/transportation/OXPpjKcXt0CqU8QL.html)
+**发布时间**: 2026-07-17 17:15
+
+#### [高质量发展步履坚实 追觅扫地机欧美市场高速增长](https://www.leiphone.com/category/weiwu/FYWgD5dSXSc4We36.html)
+**发布时间**: 2026-07-17 16:27
+
+#### [WAIC 2026现场直击：海康观澜大模型体系亮相 加速AI落地物理世界](https://www.leiphone.com/category/industrynews/WtmRNWucbzNzSfPW.html)
+**发布时间**: 2026-07-17 16:18
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂](https://www.qbitai.com/2026/07/453467.html)
+**发布时间**: 2026-07-17 22:32
+
+#### [逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU](https://www.qbitai.com/2026/07/453352.html)
+**发布时间**: 2026-07-17 17:09
+
+#### [给AI发工号、定岗位、做绩效，数字员工终于能落地了](https://www.qbitai.com/2026/07/453245.html)
+**发布时间**: 2026-07-17 16:40
+
+#### [WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？](https://www.qbitai.com/2026/07/453246.html)
+**发布时间**: 2026-07-17 16:24
+
+#### [达卯科技WAIC首发算电协同2.0：构筑AI算力与绿色能源融合新范式](https://www.qbitai.com/2026/07/453237.html)
+**发布时间**: 2026-07-17 12:00
+
+#### [WAIC 2026 | 如果Agent有性格，你的智能伙伴会是什么样的？](https://www.qbitai.com/2026/07/453217.html)
+**发布时间**: 2026-07-17 11:34
+
+#### [WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%](https://www.qbitai.com/2026/07/453211.html)
+**发布时间**: 2026-07-17 11:00
+
+#### [算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”](https://www.qbitai.com/2026/07/453208.html)
+**发布时间**: 2026-07-17 10:53
+
+#### [从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即](https://www.qbitai.com/2026/07/453203.html)
+**发布时间**: 2026-07-17 10:41
+
+#### [上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下](https://www.qbitai.com/2026/07/453084.html)
+**发布时间**: 2026-07-17 10:17
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Transform your sales organization with Amazon Quick: your new agentic AI teammate](https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/)
+**发布时间**: 2026-07-17 18:42
+
+#### [Introducing Mobile Layout for Amazon Quick dashboards](https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/)
+**发布时间**: 2026-07-17 17:13
+
+#### [How Smartsheet built a remote MCP server on AWS](https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/)
+**发布时间**: 2026-07-17 16:32
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers](https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel)
+**发布时间**: 2026-07-17 15:57
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI](https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/)
+**发布时间**: 2026-07-17 15:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Following the questions where they lead](https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717)
+**发布时间**: 2026-07-17 13:25
 
 ---
 
