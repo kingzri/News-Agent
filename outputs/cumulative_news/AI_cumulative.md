@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-18 09:27
+**最后更新时间**: 2026-07-18 23:55
+
+---
+
+## 🆕 最新更新 (2026-07-18 23:55)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [WAIC 2026 直击：云天励飞发布未来算力蓝图，三款芯片+超节点直指“百亿Token一分钱”](https://www.leiphone.com/category/chips/kkSTkmFeAdi2fl5B.html)
+**发布时间**: 2026-07-18 22:07
+
+#### [爱芯元智携完整AI生态亮相WAIC 2026，重磅揭秘“元曦”系列大算力AI推理新品](https://www.leiphone.com/category/chips/JfJwRDdJFvaNBzO7.html)
+**发布时间**: 2026-07-18 19:33
+
+#### [百度秒哒发布3.5版本，市场份额位居中国AI原生无代码应用生成平台第一](https://www.leiphone.com/category/industrynews/aRNiQFaWXJssTnLJ.html)
+**发布时间**: 2026-07-18 18:48
+
+#### [商汤大装置联合五家头部科研机构启动科学发现平台战略合作，探索科学智能新范式](https://www.leiphone.com/category/ai/STqP2Xt59jKRSEkT.html)
+**发布时间**: 2026-07-18 16:59
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [WAIC看了一圈，这家公司的机器人在认真打工](https://www.qbitai.com/2026/07/454040.html)
+**发布时间**: 2026-07-18 13:23
+
+#### [WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀](https://www.qbitai.com/2026/07/454015.html)
+**发布时间**: 2026-07-18 11:19
+
+#### [滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气](https://www.qbitai.com/2026/07/454003.html)
+**发布时间**: 2026-07-18 11:04
+
+#### [让VLA更懂接触，优理奇UniTac让机器人拥有“触觉想象力”](https://www.qbitai.com/2026/07/453897.html)
+**发布时间**: 2026-07-18 10:55
+
+#### [WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50](https://www.qbitai.com/2026/07/453889.html)
+**发布时间**: 2026-07-18 10:12
 
 ---
 
