@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-18 07:01
+**最后更新时间**: 2026-07-18 09:27
+
+---
+
+## 🆕 最新更新 (2026-07-18 09:27)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新](https://www.leiphone.com/category/industrynews/M1iLyizkT9WLF8YH.html)
+**发布时间**: 2026-07-18 15:02
+
+#### [WAIC | 从能力领先到产业交付，科大讯飞如何让AI成为真实世界生产力？](https://www.leiphone.com/category/industrynews/Xr6FFEeoQ7jUDXSI.html)
+**发布时间**: 2026-07-18 15:00
+
+#### [从“能回答”到“能执行”，WAIC 2026 网易有道 LobsterAI 重新定义办公助手边界](https://www.leiphone.com/category/industrynews/59N2nNCnS8JoskbA.html)
+**发布时间**: 2026-07-18 14:43
+
+#### [让智能走进产业现场，鹿明机器人亮相WAIC 2026](https://www.leiphone.com/category/industrynews/Ch0J0HQjN5HwBc2H.html)
+**发布时间**: 2026-07-18 14:02
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [妙啊！无人机直连卫星传Token](https://www.qbitai.com/2026/07/453789.html)
+**发布时间**: 2026-07-18 08:17
+
+#### [后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新](https://www.qbitai.com/2026/07/453705.html)
+**发布时间**: 2026-07-18 07:20
+
+#### [商汤大装置联合近20家生态伙伴发起“银河计划”，将共建5个万卡级国产智算集群](https://www.qbitai.com/2026/07/453697.html)
+**发布时间**: 2026-07-18 06:56
 
 ---
 
