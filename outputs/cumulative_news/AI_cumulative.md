@@ -1,7 +1,49 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-17 23:53
+**最后更新时间**: 2026-07-18 07:01
+
+---
+
+## 🆕 最新更新 (2026-07-18 07:01)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [灵巧智能亮相WAIC，全栈自研驱动具身智能产业化落地](https://www.leiphone.com/category/industrynews/w5PrxGuvqYtI9U4p.html)
+**发布时间**: 2026-07-18 12:13
+
+#### [WAIC 2026 ｜李未可 发布全球首款X-AI记忆眼镜](https://www.leiphone.com/category/industrynews/wUFNlyBF4e1FwnS6.html)
+**发布时间**: 2026-07-18 12:09
+
+#### [迈入「交付时代」，金山办公如何定义AI办公？](https://www.leiphone.com/category/CorporateServices/zeMjlByofDUygdIH.html)
+**发布时间**: 2026-07-18 11:17
+
+#### [九章云极DataCanvas亮相WAIC 2026，以AI规模化生产体系赋能智能新底座](https://www.leiphone.com/category/industrynews/BbStMkvJtlltMzBm.html)
+**发布时间**: 2026-07-18 09:29
+
+#### [WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%](https://www.leiphone.com/category/ai/XlIcqYndwT6w0wv7.html)
+**发布时间**: 2026-07-18 09:14
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-18日刊](https://hex2077.dev/docs/2026-07/2026-07-18/)
+**发布时间**: 2026-07-18 11:44
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [DeepSeek估值，被一家安徽箱包公司给全部暴露了](https://www.qbitai.com/2026/07/453641.html)
+**发布时间**: 2026-07-18 03:41
+
+#### [WAIC信息爆炸！大佬们都在说什么，笔记看这里](https://www.qbitai.com/2026/07/453631.html)
+**发布时间**: 2026-07-18 03:39
+
+#### [清华系团队发布国产Token优化工厂：兼容10余种国产芯片，日吞吐千亿Token](https://www.qbitai.com/2026/07/453617.html)
+**发布时间**: 2026-07-18 03:31
+
+#### [B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容](https://www.qbitai.com/2026/07/453530.html)
+**发布时间**: 2026-07-18 03:01
+
+#### [全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC](https://www.qbitai.com/2026/07/453506.html)
+**发布时间**: 2026-07-18 01:17
 
 ---
 
