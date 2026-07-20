@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-19 23:59
+**最后更新时间**: 2026-07-20 08:06
+
+---
+
+## 🆕 最新更新 (2026-07-20 08:06)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [SoulAgent亮相WAIC 2026：智能参会重塑前沿知识传播范式](https://www.leiphone.com/category/ai/sGKmP6Yn5e2z0bCg.html)
+**发布时间**: 2026-07-20 12:13
+
+#### [赋能全球 AI 创新，GMI Cloud 携AI Cloud、MaaS、Agentbox等全栈智算解决方案重磅亮相 WAIC 2026](https://www.leiphone.com/category/chips/eKBhxuqA0Qrtet32.html)
+**发布时间**: 2026-07-20 12:10
+
+#### [中科慧远亮相WAIC2026 跑出工业AI质检落地加速度](https://www.leiphone.com/category/industrynews/7sl5526XaEyiBUZG.html)
+**发布时间**: 2026-07-20 12:03
+
+#### [光鉴科技发布具身智能视觉感知方案，为物理AI提供视觉感知基础](https://www.leiphone.com/category/robot/Yh42juw5VgxUaxz5.html)
+**发布时间**: 2026-07-20 10:54
+
+#### [算力平权前夜：共绩科技如何用「弹性」撬动「算力自由」](https://www.leiphone.com/category/industrynews/raahTOmFsgIHebKv.html)
+**发布时间**: 2026-07-19 14:27
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-20日刊](https://hex2077.dev/docs/2026-07/2026-07-20/)
+**发布时间**: 2026-07-20 10:51
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [光鉴科技发布具身智能视觉感知方案，为物理AI提供视觉感知基础](https://www.qbitai.com/2026/07/455438.html)
+**发布时间**: 2026-07-20 05:52
+
+#### [WAIC 2026｜智象未来发布全球首个无限时长内容创作智能体——vivago R1](https://www.qbitai.com/2026/07/455434.html)
+**发布时间**: 2026-07-20 05:43
+
+#### [「仿真派」落地真产线！苏度WAIC首秀，CEO韩铮：99%+成功率](https://www.qbitai.com/2026/07/455400.html)
+**发布时间**: 2026-07-20 05:35
+
+#### [刚刚，机器人顶会RSS三项最佳论文出炉！708篇送审，仅8篇杀入决赛](https://www.qbitai.com/2026/07/455277.html)
+**发布时间**: 2026-07-20 04:54
+
+#### [GMI Cloud 携AI Cloud、MaaS、Agentbox等全栈智算解决方案亮相 WAIC 2026](https://www.qbitai.com/2026/07/455269.html)
+**发布时间**: 2026-07-20 04:34
+
+#### [1.5B开源通用VLA模型，冲进具身智能第一梯队](https://www.qbitai.com/2026/07/455229.html)
+**发布时间**: 2026-07-20 03:36
+
+#### [Kimi K3上线48小时：模型爆火，GPU爆肝，会员停售](https://www.qbitai.com/2026/07/455179.html)
+**发布时间**: 2026-07-20 03:33
+
+#### [WAIC不筹量子重磅发布“量筹一号”——原子量子人工智能基座](https://www.qbitai.com/2026/07/455136.html)
+**发布时间**: 2026-07-20 03:15
+
+#### [蚂蚁集团、阿里云等正式加入PyTorch基金会，携手全球开源力量推动AI普惠](https://www.qbitai.com/2026/07/455130.html)
+**发布时间**: 2026-07-20 03:05
 
 ---
 
