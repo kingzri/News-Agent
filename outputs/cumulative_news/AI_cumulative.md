@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-19 07:27
+**最后更新时间**: 2026-07-19 23:59
+
+---
+
+## 🆕 最新更新 (2026-07-19 23:59)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [对话商汤林达华：多模态是 Coding 之后的下一个战场](https://www.leiphone.com/category/yanxishe/uHHqpDWEcbFxyyvD.html)
+**发布时间**: 2026-07-19 21:19
+
+#### [七年WAIC同行，燧原科技持续展示国产AI算力规模化落地成果，共筑Token经济时代算力底座](https://www.leiphone.com/category/chips/JhfBBOws6hhzIKhA.html)
+**发布时间**: 2026-07-19 19:49
+
+#### [赛思极限CEO徐楠：以“通专一体”科学基础模型推动科研范式重塑](https://www.leiphone.com/category/industrynews/8RexF36ULks4rsio.html)
+**发布时间**: 2026-07-19 19:47
+
+#### [高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新](https://www.leiphone.com/category/chips/dX9rUFVHGEWJz4yQ.html)
+**发布时间**: 2026-07-19 15:21
+
+#### [中科闻歌WAIC2026发布业界首个全系决策智能产品](https://www.leiphone.com/category/industrynews/d6jcZEDt7SPlnwhh.html)
+**发布时间**: 2026-07-19 14:44
+
+#### [苏度 WAIC 首秀：从1到10+技能跃迁，探索通用机器人 Scaling 路径](https://www.leiphone.com/category/ai/7NBqAPnPNa3p2OD4.html)
+**发布时间**: 2026-07-19 14:15
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [冷门的哲学，成了“治”AI的热门](https://www.qbitai.com/2026/07/455041.html)
+**发布时间**: 2026-07-19 12:34
+
+#### [围观WAIC模型「读心术」！现场火火火火火](https://www.qbitai.com/2026/07/455031.html)
+**发布时间**: 2026-07-19 11:55
+
+#### [不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半](https://www.qbitai.com/2026/07/454932.html)
+**发布时间**: 2026-07-19 11:50
+
+#### [逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……](https://www.qbitai.com/2026/07/454802.html)
+**发布时间**: 2026-07-19 11:43
+
+#### [聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议](https://www.qbitai.com/2026/07/454791.html)
+**发布时间**: 2026-07-19 11:24
+
+#### [2026世界人工智能大会“未来计算·未来算力”专题论坛在沪召开，共识凝聚五问](https://www.qbitai.com/2026/07/454774.html)
+**发布时间**: 2026-07-19 11:01
+
+#### [商汤大装置与国信数算达成战略合作，共建全国一体化算力网试验场](https://www.qbitai.com/2026/07/454771.html)
+**发布时间**: 2026-07-19 09:40
+
+#### [危！GPT-5.6会自动删文件，AI初创老板痛失整台Mac](https://www.qbitai.com/2026/07/454689.html)
+**发布时间**: 2026-07-19 09:39
+
+#### [看了20万小时「人类干活实录」，机器人悟了](https://www.qbitai.com/2026/07/454592.html)
+**发布时间**: 2026-07-19 08:32
+
+#### [不换模型，效果提升104%！上海AI Lab让Harness也能自进化了](https://www.qbitai.com/2026/07/454441.html)
+**发布时间**: 2026-07-19 07:00
 
 ---
 
