@@ -1,7 +1,110 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-20 08:06
+**最后更新时间**: 2026-07-20 23:56
+
+---
+
+## 🆕 最新更新 (2026-07-20 23:56)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [乐道L90达成第60,000台交付里程碑](https://www.leiphone.com/category/industrynews/fB2AlMzYpfnLeVmf.html)
+**发布时间**: 2026-07-20 23:10
+
+#### [爱诗科技，实时视频模型在杀进互娱赛场](https://www.leiphone.com/category/industrynews/lzZb9yStwJLM2GRz.html)
+**发布时间**: 2026-07-20 22:52
+
+#### [WAIC 观察：通用具身智能要在有生之年实现，急需「物理 AI 基建狂魔」](https://www.leiphone.com/category/industrynews/0EQFNlP882jwJCi7.html)
+**发布时间**: 2026-07-20 22:48
+
+#### [泛化涌现！原力灵机三级火箭助推具身智能落地](https://www.leiphone.com/category/industrynews/7QJ1nQHxTCiYBs2N.html)
+**发布时间**: 2026-07-20 22:24
+
+#### [WAIC 2026擎朗具身社区开张：无遥操，纯自主，看得见的具身服务](https://www.leiphone.com/category/robot/KLjQSQjl9dI1Mzys.html)
+**发布时间**: 2026-07-20 22:21
+
+#### [今年 WAIC 上的具身公司，卷「触觉」卷到了什么地步？](https://www.leiphone.com/category/robot/YnA6OPLCuwFbyMjk.html)
+**发布时间**: 2026-07-20 22:15
+
+#### [摩尔线程为什么提出「三大AI工厂」？｜WAIC 2026](https://www.leiphone.com/category/chips/c06JLy3iGPvZEP78.html)
+**发布时间**: 2026-07-20 18:33
+
+#### [阿里硬核少年技术节5.0开幕，发布AIGX技术体系四项重磅成果](https://www.leiphone.com/category/industrynews/3iymNQRAMbqR1zxG.html)
+**发布时间**: 2026-07-20 18:15
+
+#### [OceanBase CTO杨传辉WAIC分享：让数据库从人类友好到Agent友好](https://www.leiphone.com/category/industrynews/nyoauJTE6FqhBvIB.html)
+**发布时间**: 2026-07-20 17:24
+
+#### [当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%](https://www.leiphone.com/category/industrynews/9MBI4d1DUSLB4uyZ.html)
+**发布时间**: 2026-07-20 17:15
+
+#### [找店效率提升近70%！腾讯地图×Chinagoods平台联合打造AI导航，陪你逛义乌市场](https://www.leiphone.com/category/industrynews/CXENSGmfl5oIvBEG.html)
+**发布时间**: 2026-07-20 16:38
+
+#### [姚卯青、张正友、徐丹飞等七位大佬同席，这届 WAIC 把具身未来聊透了](https://www.leiphone.com/category/academic/tpEMqz2SnlQ8fDPI.html)
+**发布时间**: 2026-07-20 15:33
+
+#### [不止 Token 工厂，无问芯穹“前店后厂一中心”Agentic Infra 战略布局重磅发布](https://www.leiphone.com/category/industrynews/Bd9P3BDlfNMuYJ8V.html)
+**发布时间**: 2026-07-20 15:18
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Custom OS installation now available on AWS DeepRacer devices](https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/)
+**发布时间**: 2026-07-20 17:25
+
+#### [Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit](https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/)
+**发布时间**: 2026-07-20 17:01
+
+#### [How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/)
+**发布时间**: 2026-07-20 16:58
+
+#### [Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/)
+**发布时间**: 2026-07-20 16:56
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Introducing Cosmos 3 Edge](https://huggingface.co/blog/nvidia/cosmos3edge)
+**发布时间**: 2026-07-20 15:58
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI](https://blogs.nvidia.com/blog/siggraph-news-2026/)
+**发布时间**: 2026-07-20 15:00
+
+#### [Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin](https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/)
+**发布时间**: 2026-07-20 10:59
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践](https://www.qbitai.com/2026/07/455963.html)
+**发布时间**: 2026-07-20 10:42
+
+#### [不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面](https://www.qbitai.com/2026/07/455805.html)
+**发布时间**: 2026-07-20 10:33
+
+#### [当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%](https://www.qbitai.com/2026/07/455791.html)
+**发布时间**: 2026-07-20 09:54
+
+#### [全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力](https://www.qbitai.com/2026/07/455729.html)
+**发布时间**: 2026-07-20 09:41
+
+#### [启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026](https://www.qbitai.com/2026/07/455730.html)
+**发布时间**: 2026-07-20 09:21
+
+#### [AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单](https://www.qbitai.com/2026/07/455658.html)
+**发布时间**: 2026-07-20 09:05
+
+#### [WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证](https://www.qbitai.com/2026/07/455596.html)
+**发布时间**: 2026-07-20 09:03
+
+#### [GMI Cloud  “无界造物节”在WAIC圆满完赛，“MaaS+创意”赋能 AI 创作新生态！](https://www.qbitai.com/2026/07/455593.html)
+**发布时间**: 2026-07-20 08:52
+
+#### [国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相](https://www.qbitai.com/2026/07/455517.html)
+**发布时间**: 2026-07-20 08:44
+
+#### [WAIC之外，一张AI人才图谱正在知乎形成](https://www.qbitai.com/2026/07/455496.html)
+**发布时间**: 2026-07-20 08:06
 
 ---
 
