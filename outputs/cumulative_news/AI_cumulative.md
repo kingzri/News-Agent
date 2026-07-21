@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-21 07:33
+**最后更新时间**: 2026-07-21 10:26
+
+---
+
+## 🆕 最新更新 (2026-07-21 10:26)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [百万辆装车之后，华为乾崑如何迈向下一代智能驾驶](https://www.leiphone.com/category/transportation/p9FQYmxumukWgNIG.html)
+**发布时间**: 2026-07-21 16:06
+
+#### [国产首个十万卡集群曙光8000亮相WAIC，上线首周应用满载](https://www.leiphone.com/category/chips/iWlm9n5NckNHsVW5.html)
+**发布时间**: 2026-07-21 14:58
+
+#### [Momenta股价涨超10%，Robotaxi业务取得新进展](https://www.leiphone.com/category/industrynews/UL3cMKpyXdpasEOo.html)
+**发布时间**: 2026-07-21 13:46
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》](https://www.qbitai.com/2026/07/456052.html)
+**发布时间**: 2026-07-21 09:39
+
+#### [WAIC重磅成果｜上海市教育算力专区正式开启试运行](https://www.qbitai.com/2026/07/456026.html)
+**发布时间**: 2026-07-21 09:30
+
+#### [WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan](https://www.qbitai.com/2026/07/456021.html)
+**发布时间**: 2026-07-21 09:21
+
+#### [WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力](https://www.qbitai.com/2026/07/455998.html)
+**发布时间**: 2026-07-21 09:15
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette)
+**发布时间**: 2026-07-21 00:00
 
 ---
 
