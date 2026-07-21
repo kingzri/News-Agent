@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-20 23:56
+**最后更新时间**: 2026-07-21 07:33
+
+---
+
+## 🆕 最新更新 (2026-07-21 07:33)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师](https://www.leiphone.com/category/industrynews/RroRZUc1aQ07ne9O.html)
+**发布时间**: 2026-07-21 12:41
+
+#### [国民IP碰撞：金山世游如何用《鹅鸭杀》重塑“西游”叙事？](https://www.leiphone.com/category/industrynews/3DUUOO6G1dCdwV3u.html)
+**发布时间**: 2026-07-21 11:02
+
+#### [无问芯穹夏立雪：企业遇到Token「刺客」，让我们决定「开店、建中心」｜WAIC 2026](https://www.leiphone.com/category/industrynews/O4z1YxdXtRVscE16.html)
+**发布时间**: 2026-07-21 10:39
+
+#### [智算云启 万象新生丨上海仪电“新一代智算云产业技术创新论坛”亮相2026世界人工智能大会](https://www.leiphone.com/category/industrynews/SlL2l0cko5NhoDML.html)
+**发布时间**: 2026-07-21 10:14
+
+#### [OpenAI高管炮轰Kimi K3：中国开源是减速主义，会抑制资本投入；腾讯拟超100亿，收购以色列休闲手游厂商；DeepSeek被曝高薪资配套打分机制](https://www.leiphone.com/category/zaobao/QH5u0DdBWdEuwwbG.html)
+**发布时间**: 2026-07-21 08:41
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-21日刊](https://hex2077.dev/docs/2026-07/2026-07-21/)
+**发布时间**: 2026-07-21 10:56
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [国内首个！阿里健康氢离子达成NEJM、JAMA、BMJ三大医学顶刊内容合作](https://www.qbitai.com/2026/07/455993.html)
+**发布时间**: 2026-07-21 06:03
+
+#### [阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师](https://www.qbitai.com/2026/07/455979.html)
+**发布时间**: 2026-07-21 05:44
 
 ---
 
