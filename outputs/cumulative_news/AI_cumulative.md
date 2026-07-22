@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-22 07:34
+**最后更新时间**: 2026-07-22 10:26
+
+---
+
+## 🆕 最新更新 (2026-07-22 10:26)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家解读丨谷歌押注的「Token分发霸主」OpenRouter，为何突卖身？](https://www.leiphone.com/category/industrynews/jzcW1HyiLtvtbWCt.html)
+**发布时间**: 2026-07-22 15:58
+
+#### [独家解读丨OpenAI 们割肉、Kimi 们火拼，AI 编程下半场怎么打？](https://www.leiphone.com/category/industrynews/4lBJ3V8tb2JInt2D.html)
+**发布时间**: 2026-07-22 15:54
+
+#### [百度文心助手任务 Agent 登顶国际权威榜单，超越 Claude、GPT 拿下全球智能体冠军](https://www.leiphone.com/category/industrynews/JnKtRGrgnS8TvRhM.html)
+**发布时间**: 2026-07-22 15:18
+
+#### [WAIC深度观察：具身数据，进入「开箱即用」时代](https://www.leiphone.com/category/robot/ClTZ7U1EvG0bVaHo.html)
+**发布时间**: 2026-07-22 15:06
+
+#### [2026世界人工智能大会 | 启鸣达人首发《世界模型驱动的教育AGI白皮书》](https://www.leiphone.com/category/ai/ZQ1kV11l8qQj84Dt.html)
+**发布时间**: 2026-07-22 13:51
+
+#### [WAIC 2026 | 面壁智能首个具身智能成果 MiniCPM-Robot 系列模型正式发布！](https://www.leiphone.com/category/ai/gtBK8Ln3ANuHPQaX.html)
+**发布时间**: 2026-07-22 13:47
+
+#### [小鹏品牌日暨MONA L03上市发布会](https://www.leiphone.com/category/industrynews/8P6xYJjBbATLMRyy.html)
+**发布时间**: 2026-07-21 19:16
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军](https://www.qbitai.com/2026/07/457117.html)
+**发布时间**: 2026-07-22 07:31
 
 ---
 
