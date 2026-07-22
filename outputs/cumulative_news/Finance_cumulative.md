@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-21 10:28
+**最后更新时间**: 2026-07-22 07:37
+
+---
+
+## 🆕 最新更新 (2026-07-22 07:37)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The US has collected about $13bn of Venezuela’s oil money. Where is it?](https://www.ft.com/content/0e562e03-106e-4729-83d7-675c27eb8c4d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [The UK’s biggest university is a private company](https://www.ft.com/content/6c54f212-7491-4d41-ae57-bd67b4ea0f43?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [Who will win the war of neo-mercantilists?](https://www.ft.com/content/a5e9dfe7-6b4d-476d-93a0-193a753b885a?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [The high price of insider information](https://www.ft.com/content/155c520f-cecc-4de2-8816-0728e66e2054?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [Samsung in talks to invest in Mistral at €20bn valuation](https://www.ft.com/content/67a5d255-c6e9-4269-b8a0-3105db69c1ec?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [UK ethical fintech boss tried to set up arms deals with Wirecard’s Marsalek](https://www.ft.com/content/a361c87c-a782-4eb4-a5d7-dbcf4af766cd?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [OpenAI admits an AI ‘agent’ caused a major cyber breach by itself](https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 00:11
+
+#### [Zelenskyy replaces top Ukraine general after mass protests](https://www.ft.com/content/500286b4-335b-43a7-bff5-30336d852e96?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 21:16
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Super Micro’s stock soars as its margins unexpectedly double](https://www.marketwatch.com/story/super-micros-stock-soars-as-its-margins-unexpectedly-double-8aa83784?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 00:33
+
+#### [This is the ideal retirement strategy if you want to keep your healthcare costs down](https://www.marketwatch.com/story/heres-how-to-time-your-retirement-to-keep-your-healthcare-costs-down-b1a4d427?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 23:56
+
+#### [SpaceX’s stock snaps brutal losing streak ahead of key Starship rocket launch](https://www.marketwatch.com/story/spacexs-stock-looks-to-snap-brutal-losing-streak-as-it-heads-for-one-of-its-best-days-yet-74220273?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 20:59
+
+#### [I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?](https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 20:30
+
+#### [Why energy stocks still look so cheap, even after their big rally this month](https://www.marketwatch.com/story/why-energy-stocks-still-look-so-cheap-even-after-their-big-rally-this-month-7f1a298b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 20:27
+
+#### [Why Micron and other chip stocks are bouncing back so strongly](https://www.marketwatch.com/story/why-micron-and-other-chip-stocks-are-bouncing-back-so-strongly-3f6d3cee?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 20:12
+
+#### [Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.](https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 20:09
+
+#### [Why Paramount could win if it loses the Warner Bros. Discovery deal](https://www.marketwatch.com/story/why-paramount-could-win-if-it-loses-the-warner-bros-discovery-deal-5f174963?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 19:49
+
+#### [Pro stock pickers cannot beat simple math — war in the Middle East is proving it](https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 19:46
 
 ---
 

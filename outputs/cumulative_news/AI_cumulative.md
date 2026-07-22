@@ -1,7 +1,115 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-21 10:26
+**最后更新时间**: 2026-07-22 07:34
+
+---
+
+## 🆕 最新更新 (2026-07-22 07:34)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [支付宝参与可信政务智能体服务平台，携手信通院等机构共建政务 AI 新基建](https://www.leiphone.com/category/industrynews/bU3YMyf2KBYlNfGZ.html)
+**发布时间**: 2026-07-22 12:45
+
+#### [小红书方面回应：目前流传的IPO相关信息均不属实](https://www.leiphone.com/category/industrynews/rfAI5FTWsZDKMCS8.html)
+**发布时间**: 2026-07-22 11:58
+
+#### [独家解读丨三箭齐发，xTool凶猛](https://www.leiphone.com/category/industrynews/MQHXfUkHTy9ZXPvX.html)
+**发布时间**: 2026-07-22 11:54
+
+#### [AI 终端混战：谁在做加法，谁在重写规则](https://www.leiphone.com/category/ai/t0fM6SFQ2W7BojX3.html)
+**发布时间**: 2026-07-22 10:58
+
+#### [AI的下一站，不只在工厂，也在客厅](https://www.leiphone.com/category/weiwu/AUAU8jh0ILiepQVn.html)
+**发布时间**: 2026-07-22 10:30
+
+#### [AI算力进入“多元协同”时代，中昊芯英携手OpenCSG加速企业级大模型落地](https://www.leiphone.com/category/industrynews/ECJFdCS344ddFUWS.html)
+**发布时间**: 2026-07-22 09:59
+
+#### [独家解读丨Plaud 招募基带硬件工程师，或将押注AI耳机](https://www.leiphone.com/category/weiwu/MEDXZUBjLKfrhX7s.html)
+**发布时间**: 2026-07-22 09:51
+
+#### [从生成到行动，生数科技用通用世界模型连接「两个世界」](https://www.leiphone.com/category/industrynews/KI18cZQBZWHRPWNX.html)
+**发布时间**: 2026-07-22 08:48
+
+#### [BBA集体降价！销售：价格还能谈；月之暗面以500亿美元估值洽谈Pre-IPO融资，最快2027年初赴港上市；三星宣布将成立机器人事业部](https://www.leiphone.com/category/zaobao/3zl6HRdhLVwLseFx.html)
+**发布时间**: 2026-07-22 08:48
+
+#### [独家丨腾讯整合Workbuddy与QClaw团队](https://www.leiphone.com/category/CorporateServices/EVvkkNduzRvpxmRi.html)
+**发布时间**: 2026-07-21 23:46
+
+#### [WAIC重磅成果｜智爱赛思全面升级并发布科研专属 Token Plan](https://www.leiphone.com/category/industrynews/GkXvkOUPT9uoUFe3.html)
+**发布时间**: 2026-07-21 19:57
+
+#### [WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力](https://www.leiphone.com/category/industrynews/yfYUql1ioSOVYTEn.html)
+**发布时间**: 2026-07-21 19:51
+
+#### [【新闻稿】小鹏品牌日暨MONA L03上市发布会](https://www.leiphone.com/category/industrynews/8P6xYJjBbATLMRyy.html)
+**发布时间**: 2026-07-21 19:16
+
+#### [零跑全新B01和B10越级上市，开启10万级800V时代](https://www.leiphone.com/category/industrynews/kkaBDb3wRcQoQ891.html)
+**发布时间**: 2026-07-21 19:10
+
+#### [火山引擎与安永达成战略合作，助力企业迈向 AI 原生架构](https://www.leiphone.com/category/industrynews/ZNTFoXwJNzRr47WD.html)
+**发布时间**: 2026-07-21 17:56
+
+#### [端侧AI不是云端AI的缩小版，安谋科技要建边端侧AI算力底座｜WAIC 2026](https://www.leiphone.com/category/chips/ove6AbsecNklNHEI.html)
+**发布时间**: 2026-07-21 16:26
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-22日刊](https://hex2077.dev/docs/2026-07/2026-07-22/)
+**发布时间**: 2026-07-22 10:38
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [业内首款超算+智算的大规模计算底座，在WAIC上我们找到了](https://www.qbitai.com/2026/07/457054.html)
+**发布时间**: 2026-07-22 05:47
+
+#### [Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”](https://www.qbitai.com/2026/07/457049.html)
+**发布时间**: 2026-07-22 04:10
+
+#### [天立启鸣发布教育AGI白皮书：破解教育“不可能三角”](https://www.qbitai.com/2026/07/457040.html)
+**发布时间**: 2026-07-22 03:54
+
+#### [我在WAIC 2026看见的十大趋势](https://www.qbitai.com/2026/07/456974.html)
+**发布时间**: 2026-07-22 03:46
+
+#### [懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准](https://www.qbitai.com/2026/07/456910.html)
+**发布时间**: 2026-07-22 03:24
+
+#### [物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣](https://www.qbitai.com/2026/07/456728.html)
+**发布时间**: 2026-07-22 03:06
+
+#### [AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff](https://www.qbitai.com/2026/07/456555.html)
+**发布时间**: 2026-07-22 02:59
+
+#### [酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型](https://www.qbitai.com/2026/07/456178.html)
+**发布时间**: 2026-07-22 01:46
+
+#### [小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅](https://www.qbitai.com/2026/07/456061.html)
+**发布时间**: 2026-07-22 00:34
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems](https://blogs.nvidia.com/blog/wistron-manufacturing-texas/)
+**发布时间**: 2026-07-21 22:35
+
+#### [NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide](https://blogs.nvidia.com/blog/vera-rubin/)
+**发布时间**: 2026-07-21 15:36
+
+#### [Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories](https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/)
+**发布时间**: 2026-07-21 15:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [The State of Simulation for Physical AI: An Overview](https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai)
+**发布时间**: 2026-07-21 20:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/)
+**发布时间**: 2026-07-21 16:23
 
 ---
 
