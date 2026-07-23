@@ -1,7 +1,106 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-23 00:01
+**最后更新时间**: 2026-07-23 07:34
+
+---
+
+## 🆕 最新更新 (2026-07-23 07:34)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家解读丨阿里整合Agent背后：大厂开始重新分配AI资源](https://www.leiphone.com/category/industrynews/yj0yPPz94SYfHGVE.html)
+**发布时间**: 2026-07-23 13:06
+
+#### [具身智能数据需求暴涨千倍，这家“数据炼油厂”刚拿到近亿元融资](https://www.leiphone.com/category/ai/XRwFfhV1xdAQfrac.html)
+**发布时间**: 2026-07-23 12:38
+
+#### [白宫下场亲自「围攻」Kimi K3，评论区全员唱反调？](https://www.leiphone.com/category/ai/NRMCQhmYyxQ6TSP0.html)
+**发布时间**: 2026-07-23 12:33
+
+#### [成本直降 90%！原来 Kimi K3 叠 Claude Code 还能这么玩](https://www.leiphone.com/category/ai/szzIgYjmN2yUvZPk.html)
+**发布时间**: 2026-07-23 12:30
+
+#### [刚刚，智谱建了一座只用国产芯片的数据中心](https://www.leiphone.com/category/ai/eeqB5fcXqPBzGQhV.html)
+**发布时间**: 2026-07-23 12:25
+
+#### [Kimi K3 已提前亮相？神秘模型「Kivine」现身，百万上下文能力惊艳全球](https://www.leiphone.com/category/ai/JdrD0eOAqnAiX1s7.html)
+**发布时间**: 2026-07-23 12:22
+
+#### [大模型也得「睡觉」了：Google 的这篇论文，戳中了AI 的最大软肋](https://www.leiphone.com/category/ai/tzNqBp8kFaaFFoVA.html)
+**发布时间**: 2026-07-23 12:12
+
+#### [RSS 2026 现场直击：首日 Oral 报告华人含量 94%，中国力量包揽学术与产业 C 位](https://www.leiphone.com/category/private/H98VxM0BZsCEIcvv.html)
+**发布时间**: 2026-07-23 12:09
+
+#### [DeepMind 研究科学家 Verena Rieser： AI 正值青春期，让它「听话」不如教它「懂事」 | ICML 2026](https://www.leiphone.com/category/private/snYSQ8HJOem57FAm.html)
+**发布时间**: 2026-07-23 12:06
+
+#### [哈佛大学 Sham Kakade 硬核万字演讲：LLM 预训练，二次模型该站 C 位| ICML 2026](https://www.leiphone.com/category/private/4pCGOoCW6v2T1NOf.html)
+**发布时间**: 2026-07-23 12:03
+
+#### [世界模型迎来「中国引领时刻」，昆仑万维 Matrix-Game 3.5 要迈向真实世界](https://www.leiphone.com/category/ai/ElUplw96iXqIFTPd.html)
+**发布时间**: 2026-07-23 12:00
+
+#### [WAIC观察：比起做「超级Agent」，大厂更着急抢占「Agent入口」](https://www.leiphone.com/category/industrynews/EMsIH6YY1MsA0Qjo.html)
+**发布时间**: 2026-07-23 11:57
+
+#### [WAIC 2026 世界模型「六小龙」巅峰论坛，求解物理 AI 从「理解」到「执行」开悟时刻](https://www.leiphone.com/category/aijuejinzhi/u7fivcCZqZGaCGUp.html)
+**发布时间**: 2026-07-23 11:56
+
+#### [独家丨拓竹2026年或冲刺240亿元销售目标，多个系列产品降价](https://www.leiphone.com/category/weiwu/d0zvXA2M7boZiVR0.html)
+**发布时间**: 2026-07-23 11:03
+
+#### [电费与Token的经济账：运营商在GPU之外盯上了TPU](https://www.leiphone.com/category/industrynews/WqpKq6gaUJAgk4RF.html)
+**发布时间**: 2026-07-23 10:20
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-23日刊](https://hex2077.dev/docs/2026-07/2026-07-23/)
+**发布时间**: 2026-07-23 11:08
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务](https://www.qbitai.com/2026/07/457694.html)
+**发布时间**: 2026-07-23 06:58
+
+#### [超越π0，中国团队用1B参数模型登顶具身智能榜单](https://www.qbitai.com/2026/07/457537.html)
+**发布时间**: 2026-07-23 06:36
+
+#### [趋境科技华东区域总部落地钱江世纪城，五年内建成万卡级高品质 AI Token 工厂](https://www.qbitai.com/2026/07/457534.html)
+**发布时间**: 2026-07-23 04:42
+
+#### [WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5，具身Scaling全面释放](https://www.qbitai.com/2026/07/457469.html)
+**发布时间**: 2026-07-23 03:28
+
+#### [贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态](https://www.qbitai.com/2026/07/457434.html)
+**发布时间**: 2026-07-23 02:40
+
+#### [芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了](https://www.qbitai.com/2026/07/457405.html)
+**发布时间**: 2026-07-23 02:09
+
+#### [科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座](https://www.qbitai.com/2026/07/457359.html)
+**发布时间**: 2026-07-23 01:55
+
+#### [太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛](https://www.qbitai.com/2026/07/457356.html)
+**发布时间**: 2026-07-23 01:43
+
+#### [上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文](https://www.qbitai.com/2026/07/457249.html)
+**发布时间**: 2026-07-23 00:35
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School](https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/)
+**发布时间**: 2026-07-23 02:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers)
+**发布时间**: 2026-07-23 00:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Relay](https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/)
+**发布时间**: 2026-07-20 17:01
 
 ---
 
