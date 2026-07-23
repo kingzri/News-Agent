@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-22 10:26
+**最后更新时间**: 2026-07-23 00:01
+
+---
+
+## 🆕 最新更新 (2026-07-23 00:01)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [SymptomAI: Towards a conversational AI agent for everyday symptom assessment](https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/)
+**发布时间**: 2026-07-22 21:32
+
+#### [Towards a quantum computer that learns from its errors](https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/)
+**发布时间**: 2026-07-22 18:40
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [美图拿出1亿元，面向全行业寻找AI影像Builder](https://www.qbitai.com/2026/07/457223.html)
+**发布时间**: 2026-07-22 17:35
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Token在暴增，利润为何「困」在英伟达？](https://www.leiphone.com/category/chips/0b12z01cmLVcy3dC.html)
+**发布时间**: 2026-07-22 17:12
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [AI Teammates: how monday.com runs production AI agents on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/)
+**发布时间**: 2026-07-22 15:54
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83](https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722)
+**发布时间**: 2026-07-22 13:00
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework](https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/)
+**发布时间**: 2026-07-22 13:00
 
 ---
 
