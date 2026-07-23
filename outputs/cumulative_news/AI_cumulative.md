@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-23 07:34
+**最后更新时间**: 2026-07-23 10:24
+
+---
+
+## 🆕 最新更新 (2026-07-23 10:24)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务](https://www.leiphone.com/category/industrynews/QPSOggSAs8nAZ4Uc.html)
+**发布时间**: 2026-07-23 14:30
+
+#### [全球已有1000万中小企业在用Accio Work做生意](https://www.leiphone.com/category/industrynews/IPXWpsIUAi4Hw8CO.html)
+**发布时间**: 2026-07-23 13:50
+
+#### [专访南洋理工李搏扬：被「数学缺陷」困了八年的MTS，第一次真正 work了| ICML 2026](https://www.leiphone.com/category/private/9PRf4M2bUYMLC0Jz.html)
+**发布时间**: 2026-07-23 13:34
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」](https://www.qbitai.com/2026/07/457698.html)
+**发布时间**: 2026-07-23 08:23
 
 ---
 
