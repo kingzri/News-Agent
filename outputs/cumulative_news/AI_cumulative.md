@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-23 10:24
+**最后更新时间**: 2026-07-24 00:02
+
+---
+
+## 🆕 最新更新 (2026-07-24 00:02)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Best practices for applying Amazon Bedrock Guardrails to code generation workflows](https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/)
+**发布时间**: 2026-07-23 23:03
+
+#### [Evaluating AI Agents: A production blueprint with Strands and AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/)
+**发布时间**: 2026-07-23 17:00
+
+#### [Building trade assistant: How Jefferies optimized front office trading operations with AI](https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/)
+**发布时间**: 2026-07-23 16:42
+
+#### [Building multi-Region visualizations with Highcharts in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick/)
+**发布时间**: 2026-07-23 16:40
+
+#### [Detecting silent agent failures with Amazon Bedrock AgentCore optimization](https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/)
+**发布时间**: 2026-07-23 16:38
+
+#### [Agentic retrieval for Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/)
+**发布时间**: 2026-07-23 16:30
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [“野生测评”造谣拉踩，伤害的不只是车企](https://www.leiphone.com/category/industrynews/dWSKcV6GBItdrtB4.html)
+**发布时间**: 2026-07-23 17:58
+
+#### [花几百万买的H100在「摸鱼」？英伟达：别怪显卡，是你的模型「长得丑」](https://www.leiphone.com/category/yanxishe/wFiCjuoj6zqG5WZ7.html)
+**发布时间**: 2026-07-23 17:34
+
+#### [快速查账！领100美元免费积分，反被Claude偷设陷阱疯狂扣费](https://www.leiphone.com/category/yanxishe/QYg8NFOX1UYDWoXQ.html)
+**发布时间**: 2026-07-23 17:30
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/)
+**发布时间**: 2026-07-23 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [智能体政策新闻相关背景和简要解读](https://www.qbitai.com/2026/07/457787.html)
+**发布时间**: 2026-07-23 11:08
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT projects selected for funding under US Department of Energy’s Genesis Mission](https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723)
+**发布时间**: 2026-07-23 08:00
 
 ---
 
