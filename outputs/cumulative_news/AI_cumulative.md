@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-24 00:02
+**最后更新时间**: 2026-07-24 07:32
+
+---
+
+## 🆕 最新更新 (2026-07-24 07:32)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [当清洁机器人爬上窗户，能否开启下一个黄金十年？](https://www.leiphone.com/category/robot/dICn6qnKyVa7JRPS.html)
+**发布时间**: 2026-07-24 12:17
+
+#### [RSS 2026 时间检验奖：形态即计算，具身智能的“逻辑刹车”已至](https://www.leiphone.com/category/private/rMXnmau3OSE7evhI.html)
+**发布时间**: 2026-07-24 11:46
+
+#### [Acemate携手2026中国网球公开赛，AI网球训练机器人走进职业赛事场景](https://www.leiphone.com/category/industrynews/pjdTWH7byariX47G.html)
+**发布时间**: 2026-07-24 10:56
+
+#### [独家丨华为22年老兵从AI终局倒推LPU，元川微完成新一轮数亿元融资](https://www.leiphone.com/category/chips/AGaAOgr50XhElaxq.html)
+**发布时间**: 2026-07-24 10:23
+
+#### [Claude Opus 5 被曝今晚发布，Fable 5 的水平，腰斩的价格](https://www.leiphone.com/category/yanxishe/ngOQ8jWhVY9EAqHp.html)
+**发布时间**: 2026-07-24 10:07
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-07-24日刊](https://hex2077.dev/docs/2026-07/2026-07-24/)
+**发布时间**: 2026-07-24 10:31
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [亚太唯一！阿里云跻身Gartner可观测魔力象限“挑战者”象限](https://www.qbitai.com/2026/07/458864.html)
+**发布时间**: 2026-07-24 05:50
+
+#### [长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字](https://www.qbitai.com/2026/07/458687.html)
+**发布时间**: 2026-07-24 05:41
+
+#### [OPC创业者看过来，最高10万美元云资源等你拿](https://www.qbitai.com/2026/07/458622.html)
+**发布时间**: 2026-07-24 05:05
+
+#### [10万字速记一口吞，金山办公新Agent开始直接交活了](https://www.qbitai.com/2026/07/458438.html)
+**发布时间**: 2026-07-24 04:45
+
+#### [嚯！35家大型央国企实测后，因果世界模型落地了](https://www.qbitai.com/2026/07/458357.html)
+**发布时间**: 2026-07-24 04:21
+
+#### [WAIC看了一圈，这家公司的机器人在认真打工](https://www.qbitai.com/2026/07/458348.html)
+**发布时间**: 2026-07-24 04:19
+
+#### [李飞飞学生发起国际具身人类数据标准，光轮智能成唯一参与中国企业](https://www.qbitai.com/2026/07/457920.html)
+**发布时间**: 2026-07-24 03:27
+
+#### [北大「双菲」：天才们的鲜活人生](https://www.qbitai.com/2026/07/457922.html)
+**发布时间**: 2026-07-24 03:23
+
+#### [新晋菲尔兹奖得主，当天宣布加入OpenAI](https://www.qbitai.com/2026/07/457792.html)
+**发布时间**: 2026-07-24 01:48
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners](https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/)
+**发布时间**: 2026-07-24 04:34
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Working to automate nuclear plant operations](https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724)
+**发布时间**: 2026-07-24 00:00
 
 ---
 
