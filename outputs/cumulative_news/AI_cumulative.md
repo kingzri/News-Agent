@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-04 07:40
+**最后更新时间**: 2026-08-04 10:46
+
+---
+
+## 🆕 最新更新 (2026-08-04 10:46)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [全球唯一易三方新手漂移模式：腾势Z9S让新手也能玩漂移](https://www.leiphone.com/category/industrynews/MRwheN7BxhpW4TX4.html)
+**发布时间**: 2026-08-04 16:27
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [The benefits of medical AI assistance vary based on user expertise](https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804)
+**发布时间**: 2026-08-04 05:00
 
 ---
 
