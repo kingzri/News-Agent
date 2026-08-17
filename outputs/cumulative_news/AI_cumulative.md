@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-17 08:44
+**最后更新时间**: 2026-08-17 23:23
+
+---
+
+## 🆕 最新更新 (2026-08-17 23:23)
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2)
+**发布时间**: 2026-08-17 19:46
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [HTML正在成为 AI 办公的新载体？WorkBuddy 升级了一个关键能力](https://www.leiphone.com/category/yanxishe/oKb8M5M7ub7JmG47.html)
+**发布时间**: 2026-08-17 18:19
+
+#### [共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”](https://www.leiphone.com/category/ai/ex540RmkgK2urRRq.html)
+**发布时间**: 2026-08-17 17:41
+
+#### [YC 开源自家 Harness，3 天斩获 3.9k Star，QM 如何划清 Agent 的权限边界](https://www.leiphone.com/category/ai/5fYkbR7Q1K3l0ImP.html)
+**发布时间**: 2026-08-17 17:05
+
+#### [拆解 Mistral AI 新项目Shieldstral，看 3B 小模型如何重构 AI 安全审核范式](https://www.leiphone.com/category/ai/mx99nwAcQHgHCbka.html)
+**发布时间**: 2026-08-17 17:02
+
+#### [关于 Hugging Face 入侵事件，OpenAI 终于放出了时间线](https://www.leiphone.com/category/ai/JyuBFwcuu4VhHQjM.html)
+**发布时间**: 2026-08-17 17:00
+
+#### [为了「自我锤炼」，OpenAI 造了一个攻击力极强的「AI 黑客」](https://www.leiphone.com/category/ai/2b8vHYIEycW0DmQE.html)
+**发布时间**: 2026-08-17 16:57
+
+#### [豆包“工作任务”升级，支持手机远程操控电脑](https://www.leiphone.com/category/industrynews/u0uYIWvrxUmEXHxx.html)
+**发布时间**: 2026-08-17 16:56
+
+#### [Seedance 2.5 正式支持 1080P，API 同步开放](https://www.leiphone.com/category/industrynews/xvsvCI7gPqM0YzFJ.html)
+**发布时间**: 2026-08-17 16:54
+
+#### [深度拆解 DeepSeek Harness 架构：AGI 的自进化，终于有了「后悔药」](https://www.leiphone.com/category/ai/u43j44fx6Rly10nI.html)
+**发布时间**: 2026-08-17 16:53
+
+#### [原生全模态路线进阶，智象未来发布交互式世界模型HiDream-O1-World](https://www.leiphone.com/category/ai/ZBZ8uxaPm2OTe7nN.html)
+**发布时间**: 2026-08-17 16:46
+
+#### [人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp](https://www.leiphone.com/category/industrynews/hGcCVT4LhwHEpOh9.html)
+**发布时间**: 2026-08-17 16:33
+
+#### [周鸿祎发布全员信：360启动AI时代组织变革，用领导力驱动AI原生转型](https://www.leiphone.com/category/industrynews/WjQLacGTcoSW4yTA.html)
+**发布时间**: 2026-08-17 16:26
+
+#### [RoboScience 机器科学发布轮式仿人形通用机器人 REX G1，让机器人真正成为新一代具身生产力伙伴](https://www.leiphone.com/category/industrynews/G2lZ6kx4We8V7m1o.html)
+**发布时间**: 2026-08-17 15:47
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/)
+**发布时间**: 2026-08-17 18:06
+
+#### [Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/)
+**发布时间**: 2026-08-17 16:19
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Q&A: Rethinking how innovation happens](https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818)
+**发布时间**: 2026-08-17 15:50
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Securing the Infrastructure of Intelligence](https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/)
+**发布时间**: 2026-08-17 12:34
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery](https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/)
+**发布时间**: 2026-08-17 10:34
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”](https://www.qbitai.com/2026/08/474537.html)
+**发布时间**: 2026-08-17 09:30
+
+#### [人形机器人开始打国球了！两台机器人完整打完11分制比赛](https://www.qbitai.com/2026/08/474518.html)
+**发布时间**: 2026-08-17 09:04
+
+#### [菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想](https://www.qbitai.com/2026/08/474381.html)
+**发布时间**: 2026-08-17 08:36
+
+#### [快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用](https://www.qbitai.com/2026/08/474361.html)
+**发布时间**: 2026-08-17 08:26
 
 ---
 
