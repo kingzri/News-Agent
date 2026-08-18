@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-17 23:23
+**最后更新时间**: 2026-08-18 05:29
+
+---
+
+## 🆕 最新更新 (2026-08-18 05:29)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-18日刊](https://hex2077.dev/docs/2026-08/2026-08-18/)
+**发布时间**: 2026-08-18 11:47
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [OPPO唐凯：模型能力已经超过产业链的组织能力](https://www.leiphone.com/category/industrynews/Fw53BFd8oELxtNMl.html)
+**发布时间**: 2026-08-18 10:45
+
+#### [DeepSeek 为什么把缓存涨了 11 倍？长上下文需求暴涨，得交点「存储税」了](https://www.leiphone.com/category/yanxishe/NfnH0gxun9dwHGGX.html)
+**发布时间**: 2026-08-18 10:22
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂](https://www.qbitai.com/2026/08/474611.html)
+**发布时间**: 2026-08-18 03:31
 
 ---
 

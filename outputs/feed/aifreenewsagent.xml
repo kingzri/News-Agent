@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 17 Aug 2026 23:23:00 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2026 23:26:05 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 05:29:00 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 05:32:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,163 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Same Cluster, 33 Points More Utilization: What Changed Was the Order</title>
-      <link>https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</link>
-      <description>&lt;![CDATA[Same Cluster, 33 Points More Utilization: What Changed Was the Order]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 19:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</guid>
+      <title>2026-08-18日刊</title>
+      <link>https://hex2077.dev/docs/2026-08/2026-08-18/</link>
+      <description>&lt;![CDATA[2026-08-18日刊]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 11:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-18/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>HTML正在成为 AI 办公的新载体？WorkBuddy 升级了一个关键能力</title>
-      <link>https://www.leiphone.com/category/yanxishe/oKb8M5M7ub7JmG47.html</link>
-      <description>&lt;![CDATA[HTML正在成为 AI 办公的新载体？WorkBuddy 升级了一个关键能力]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 18:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/oKb8M5M7ub7JmG47.html</guid>
+      <title>OPPO唐凯：模型能力已经超过产业链的组织能力</title>
+      <link>https://www.leiphone.com/category/industrynews/Fw53BFd8oELxtNMl.html</link>
+      <description>&lt;![CDATA[OPPO唐凯：模型能力已经超过产业链的组织能力]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Fw53BFd8oELxtNMl.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”</title>
-      <link>https://www.leiphone.com/category/ai/ex540RmkgK2urRRq.html</link>
-      <description>&lt;![CDATA[共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 17:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/ex540RmkgK2urRRq.html</guid>
+      <title>DeepSeek 为什么把缓存涨了 11 倍？长上下文需求暴涨，得交点「存储税」了</title>
+      <link>https://www.leiphone.com/category/yanxishe/NfnH0gxun9dwHGGX.html</link>
+      <description>&lt;![CDATA[DeepSeek 为什么把缓存涨了 11 倍？长上下文需求暴涨，得交点「存储税」了]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/NfnH0gxun9dwHGGX.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>YC 开源自家 Harness，3 天斩获 3.9k Star，QM 如何划清 Agent 的权限边界</title>
-      <link>https://www.leiphone.com/category/ai/5fYkbR7Q1K3l0ImP.html</link>
-      <description>&lt;![CDATA[YC 开源自家 Harness，3 天斩获 3.9k Star，QM 如何划清 Agent 的权限边界]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 17:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/5fYkbR7Q1K3l0ImP.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>拆解 Mistral AI 新项目Shieldstral，看 3B 小模型如何重构 AI 安全审核范式</title>
-      <link>https://www.leiphone.com/category/ai/mx99nwAcQHgHCbka.html</link>
-      <description>&lt;![CDATA[拆解 Mistral AI 新项目Shieldstral，看 3B 小模型如何重构 AI 安全审核范式]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 17:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/mx99nwAcQHgHCbka.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>关于 Hugging Face 入侵事件，OpenAI 终于放出了时间线</title>
-      <link>https://www.leiphone.com/category/ai/JyuBFwcuu4VhHQjM.html</link>
-      <description>&lt;![CDATA[关于 Hugging Face 入侵事件，OpenAI 终于放出了时间线]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/JyuBFwcuu4VhHQjM.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>为了「自我锤炼」，OpenAI 造了一个攻击力极强的「AI 黑客」</title>
-      <link>https://www.leiphone.com/category/ai/2b8vHYIEycW0DmQE.html</link>
-      <description>&lt;![CDATA[为了「自我锤炼」，OpenAI 造了一个攻击力极强的「AI 黑客」]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/2b8vHYIEycW0DmQE.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>豆包“工作任务”升级，支持手机远程操控电脑</title>
-      <link>https://www.leiphone.com/category/industrynews/u0uYIWvrxUmEXHxx.html</link>
-      <description>&lt;![CDATA[豆包“工作任务”升级，支持手机远程操控电脑]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 16:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/u0uYIWvrxUmEXHxx.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Seedance 2.5 正式支持 1080P，API 同步开放</title>
-      <link>https://www.leiphone.com/category/industrynews/xvsvCI7gPqM0YzFJ.html</link>
-      <description>&lt;![CDATA[Seedance 2.5 正式支持 1080P，API 同步开放]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 16:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/xvsvCI7gPqM0YzFJ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>深度拆解 DeepSeek Harness 架构：AGI 的自进化，终于有了「后悔药」</title>
-      <link>https://www.leiphone.com/category/ai/u43j44fx6Rly10nI.html</link>
-      <description>&lt;![CDATA[深度拆解 DeepSeek Harness 架构：AGI 的自进化，终于有了「后悔药」]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/u43j44fx6Rly10nI.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>原生全模态路线进阶，智象未来发布交互式世界模型HiDream-O1-World</title>
-      <link>https://www.leiphone.com/category/ai/ZBZ8uxaPm2OTe7nN.html</link>
-      <description>&lt;![CDATA[原生全模态路线进阶，智象未来发布交互式世界模型HiDream-O1-World]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 16:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/ZBZ8uxaPm2OTe7nN.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp</title>
-      <link>https://www.leiphone.com/category/industrynews/hGcCVT4LhwHEpOh9.html</link>
-      <description>&lt;![CDATA[人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 16:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/hGcCVT4LhwHEpOh9.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>周鸿祎发布全员信：360启动AI时代组织变革，用领导力驱动AI原生转型</title>
-      <link>https://www.leiphone.com/category/industrynews/WjQLacGTcoSW4yTA.html</link>
-      <description>&lt;![CDATA[周鸿祎发布全员信：360启动AI时代组织变革，用领导力驱动AI原生转型]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 16:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/WjQLacGTcoSW4yTA.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>RoboScience 机器科学发布轮式仿人形通用机器人 REX G1，让机器人真正成为新一代具身生产力伙伴</title>
-      <link>https://www.leiphone.com/category/industrynews/G2lZ6kx4We8V7m1o.html</link>
-      <description>&lt;![CDATA[RoboScience 机器科学发布轮式仿人形通用机器人 REX G1，让机器人真正成为新一代具身生产力伙伴]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 15:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/G2lZ6kx4We8V7m1o.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/</link>
-      <description>&lt;![CDATA[NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 18:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/</link>
-      <description>&lt;![CDATA[Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Q&amp;A: Rethinking how innovation happens</title>
-      <link>https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818</link>
-      <description>&lt;![CDATA[Q&amp;A: Rethinking how innovation happens]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 15:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Securing the Infrastructure of Intelligence</title>
-      <link>https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/</link>
-      <description>&lt;![CDATA[Securing the Infrastructure of Intelligence]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 12:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery</title>
-      <link>https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/</link>
-      <description>&lt;![CDATA[Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 10:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>人形机器人开始打国球了！两台机器人完整打完11分制比赛</title>
-      <link>https://www.qbitai.com/2026/08/474518.html</link>
-      <description>&lt;![CDATA[人形机器人开始打国球了！两台机器人完整打完11分制比赛]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474518.html</guid>
+      <title>AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂</title>
+      <link>https://www.qbitai.com/2026/08/474611.html</link>
+      <description>&lt;![CDATA[AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 03:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/474611.html</guid>
       <category>Ai</category>
     </item>
   </channel>
