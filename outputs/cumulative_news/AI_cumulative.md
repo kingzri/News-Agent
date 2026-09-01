@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-31 11:26
+**最后更新时间**: 2026-09-01 01:44
+
+---
+
+## 🆕 最新更新 (2026-09-01 01:44)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Connect an AgentCore Runtime hosted MCP server to Amazon Quick](https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/)
+**发布时间**: 2026-08-31 22:47
+
+#### [AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025](https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/)
+**发布时间**: 2026-08-31 19:50
+
+#### [Manage agents, tools and skills at scale with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/)
+**发布时间**: 2026-08-31 19:18
+
+#### [Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation](https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/)
+**发布时间**: 2026-08-31 19:08
+
+#### [Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/)
+**发布时间**: 2026-08-31 18:56
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项](https://www.leiphone.com/category/robot/fzha6bzWq2qyX28O.html)
+**发布时间**: 2026-08-31 20:49
+
+#### [具身智能规模化落地的解法，鹿明摸索出来了](https://www.leiphone.com/category/robot/aDmmeg0GHDOQc0yR.html)
+**发布时间**: 2026-08-31 20:46
+
+#### [WRC 上，我们看到的关于灵巧手的真相](https://www.leiphone.com/category/robot/524JbeGS3fgGgQeA.html)
+**发布时间**: 2026-08-31 20:44
+
+#### [瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0](https://www.leiphone.com/category/aihealth/MSsFF8sisQuWPkHG.html)
+**发布时间**: 2026-08-31 18:35
+
+#### [自变量杨倩出席APEC活动，分享具身智能开源赋能中小企业数智转型](https://www.leiphone.com/category/industrynews/pLpgF05WRqQ6VJdA.html)
+**发布时间**: 2026-08-31 18:31
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [TimesFM-3: A zero-shot foundation model for multivariate forecasting](https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/)
+**发布时间**: 2026-08-31 17:19
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT Quantum Initiative launches postdoctoral fellowship program](https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831)
+**发布时间**: 2026-08-31 15:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」](https://www.qbitai.com/2026/08/481928.html)
+**发布时间**: 2026-08-31 13:20
 
 ---
 
