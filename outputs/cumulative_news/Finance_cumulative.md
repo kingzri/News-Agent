@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-14 10:26
+**最后更新时间**: 2026-09-15 09:53
+
+---
+
+## 🆕 最新更新 (2026-09-15 09:53)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ten-year Treasury yield hits highest since global financial crisis](https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 09:36
+
+#### [China’s economy shows signs of weakness as investment slumps](https://www.ft.com/content/d9158802-5836-441a-9969-47409044c503?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 04:18
+
+#### [How Poland lost $230mn trying to buy Venezuelan oil with crypto](https://www.ft.com/content/6c387cda-61b0-4396-9353-0d7d99781f9b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 04:00
+
+#### [War ‘on all fronts’ tests Saudi Arabia’s crown prince](https://www.ft.com/content/a143e08d-e979-410a-8e81-160fd4eba367?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 04:00
+
+#### [AI is exciting audit firms — maybe too much](https://www.ft.com/content/0b2c5b87-c743-4c0f-9fbd-117ae27d6b0b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 04:00
+
+#### [US equities eclipse Treasuries in rare foreign capital shift](https://www.ft.com/content/e565ce70-17ac-42ad-bc08-b9a69d75d5b1?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 04:00
+
+#### [Putin moves flagship summit over drone threat](https://www.ft.com/content/ebca8754-9546-4668-85dd-a0d793c54d3c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 04:00
+
+#### [Supreme Court rejects Trump’s mail-in ballot restrictions for midterms](https://www.ft.com/content/b3674c9d-9db2-448d-bd57-f1c040de2d54?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 02:43
+
+#### [Russian businessman bankrolls Donald Trump Jr’s Bahamas wedding after-party](https://www.ft.com/content/3de68677-ef80-4dd9-b31b-7a10fea385ed?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 01:03
+
+#### [China tightens control of overseas travel in sweeping new law](https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 00:28
+
+#### [US military reveals it has weapons in space](https://www.ft.com/content/09d62f21-8697-4518-bca0-3699b4dd866c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 23:04
+
+#### [Trump claims Russia and Ukraine have agreed energy truce](https://www.ft.com/content/d6f98d2e-9f0c-4414-a339-fe8462810276?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 17:18
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?](https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories)
+**发布时间**: 2026-09-15 09:15
+
+#### [Morgan Stanley joins Goldman Sachs in 11th-hour switch to forecasting a Fed hike](https://www.marketwatch.com/story/morgan-stanley-joins-goldman-sachs-in-11th-hour-switch-to-forecasting-a-fed-hike-c7597bda?mod=mw_rss_topstories)
+**发布时间**: 2026-09-15 09:05
+
+#### [The Fed may be on the verge of a serious mistake, prominent economists warn](https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories)
+**发布时间**: 2026-09-15 07:29
+
+#### [‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?](https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories)
+**发布时间**: 2026-09-15 00:01
+
+#### [AI doomsday fears are arriving at the worst possible time for the stock market](https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 23:19
+
+#### [The murky AI milestone that has some of the industry’s leading voices increasingly on edge](https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 21:57
+
+#### [The oil market is sending an increasingly loud warning about gas prices at the pump](https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 21:31
+
+#### [CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat](https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 21:11
+
+#### [Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.](https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 21:11
 
 ---
 
