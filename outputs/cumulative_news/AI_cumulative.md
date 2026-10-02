@@ -1,7 +1,157 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-01 01:50
+**最后更新时间**: 2026-10-02 02:04
+
+---
+
+## 🆕 最新更新 (2026-10-02 02:04)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [čżžč´Ľ6ĺœşé­ĺźşĺˆść‰§čĄŒ ĺŻ’ć­ŚçşŞĺ‰éŤ˜çŽĄć— çŤŻĺ†ćĺ¤Šäťˇç´˘čľ” č°ćœ€ĺ—äź¤ďźŸ](https://www.leiphone.com/category/industrynews/kf23Cq1EQJfpwbcX.html)
+**发布时间**: 2026-10-02 09:39
+
+#### [ć˜‰ć“Žç§‘ćŠ€ĺˆ›ĺ§‹äşşč˘Ťĺźşĺˆść‰§čĄŒ ĺŻ’ć­ŚçşŞč‚Ąćƒćż€ĺŠąäş‰čŽŽĺ°˜ĺŸƒč˝ĺŽš](https://www.leiphone.com/category/chips/6z6p5tEXgSyeu1lf.html)
+**发布时间**: 2026-09-30 22:00
+
+#### [AIĺŠžĺ…Źčż›ĺ…Ľă€Œä¸Šä¸‹ć–‡ćˆ˜äş‰ă€ďźŒç™žĺşŚĺŚ‚ä˝•ĺ‡şç‰ŒďźŸ](https://www.leiphone.com/category/industrynews/7q7ZyMuKeWjc1uGz.html)
+**发布时间**: 2026-09-30 19:50
+
+#### [DeepSeek ĺź€ćşçŽ—ĺ­ĺˇĽĺ…ˇĺ¤§ç¤źĺŒ…ďźŒč”ć‰‹ĺŽä¸şć˜‡č…žďźŒć‰‹ć’• CUDA çť‘ĺŽšďź](https://www.leiphone.com/category/yanxishe/UUIfK7eeFE9Ws1JI.html)
+**发布时间**: 2026-09-30 18:58
+
+#### [Museçˆ†çŤďźŒdotsĺ…ĽĺœşďźšPersonal Agentĺź€ĺ§‹ĺ’Œäş’č”ç˝‘ĺšłĺ°ćŠ˘ĺ…ĽĺŁ](https://www.leiphone.com/category/yanxishe/Zqcw9XvSO2Ht6FIQ.html)
+**发布时间**: 2026-09-30 16:35
+
+#### [2000ĺş§éŤ˜é€Ÿé—Şĺ……çŤ™č˝ćˆďźŒćŻ”äşščżŞĺŚ‚ä˝•ć‰›ä˝ĺ›˝ĺş†č˝ŚćľďźŸ](https://www.leiphone.com/category/transportation/GE7BYDthsIqb4nA8.html)
+**发布时间**: 2026-09-30 16:31
+
+#### [ĺŽžćľ‹ Qwen-3.8 ä¸Ž GLM-5.3 çš„ Flash ç‰ˆďźšč°čƒ˝čŽŠćˆ‘ćĺ‰ä¸‹ç­ĺŠĺ°ć—śďźŸ](https://www.leiphone.com/category/yanxishe/Dp2FW4Pb6iLUvdhf.html)
+**发布时间**: 2026-09-30 16:28
+
+#### [äťŽ Codex Harness ĺź€ćşďźŒçœ‹ AI ĺ…Źĺ¸çš„ćŠ¤ĺŸŽć˛łć˜Żäť€äšˆďźŸ](https://www.leiphone.com/category/yanxishe/HduKYmfhs2SeXQ39.html)
+**发布时间**: 2026-09-30 16:24
+
+#### [ĺ…¨ç˝‘ćœ€çĄŹć ¸ OpenClaw 2.0 ĺŽžćľ‹ďźšäťŽ ToC ĺˆ° ToB çš„čŻ•ćŽ˘ďźŒAgent ç˝‘ĺ…łčƒ˝é‡ĺĄ‘ĺˇĽä˝œćľčžšç•Œĺ—ďźŸ](https://www.leiphone.com/category/yanxishe/7bPyLlZDfncTOw5B.html)
+**发布时间**: 2026-09-30 16:22
+
+#### [5500é˘—ĺ…‰ĺź•ć“ŽĺŚ‚ä˝•ć’‘čľˇ4096ĺĄčś…čŠ‚ç‚šďźŸĺŽä¸şNPOçš„ć•…äş‹čż˜ć˛ĄčŽ˛ĺŽŒ](https://www.leiphone.com/category/chips/kgknicdWxIIoulL9.html)
+**发布时间**: 2026-09-30 16:19
+
+#### [ĺŻšćŻ” CodexďźŒĺ…č´šçš„ AgnesCode äšŸčƒ˝ĺœ¨ĺş•ĺą‚çŽ—ĺ­äź˜ĺŒ–äťťĺŠĄä¸­ć‰“ĺž—ćœ‰ćĽćœ‰ĺ›ž](https://www.leiphone.com/category/yanxishe/Du0MZiWR62J4pzzr.html)
+**发布时间**: 2026-09-30 16:13
+
+#### [äťŽćľˇć‹‰é˛ĺˆ°çŽ°ĺŽžä¸–ç•Œďźšč§†é˘‘ć¨Ąĺž‹ĺŚ‚ä˝•ç†č§Łă€Œĺ˜ĺŒ–ă€](https://www.leiphone.com/category/yanxishe/NGx4Ckx3MbUWlIs3.html)
+**发布时间**: 2026-09-30 16:09
+
+#### [ĺœ¨ä¸‰ĺź ĺœ†ć˜Žĺ›­éź éŚ–ç…§ç‰‡é‡ŒďźŒćˆ‘äťŹçœ‹ĺˆ°äş†3D AIçš„Harnessć—śĺˆť](https://www.leiphone.com/category/yanxishe/wEE4RarEXO2oNfrH.html)
+**发布时间**: 2026-09-30 15:57
+
+#### [ĺ…¨çƒĺź€ćşĺ‰äşŒďźŒé˜śčˇƒçťˆäşŽĺ›žćĽäş†](https://www.leiphone.com/category/yanxishe/LjT1ojuhnJ3pBvu4.html)
+**发布时间**: 2026-09-30 15:55
+
+#### [ä¸–ç•Œĺˆśé€ ä¸šĺ¤§äźšä¸¨ĺ›˝č˝ŠéŤ˜ç§‘é‡çŁ…ĺ‘ĺ¸ƒä˝ŽçŠşéŁžčĄŒéŤ˜ĺŠŸçŽ‡ç”ľćą ç­‰ä¸‰ĺ¤§ĺˆ›ć–°ćˆćžœ](https://www.leiphone.com/category/industrynews/DOdBNcP5frSITM4c.html)
+**发布时间**: 2026-09-30 15:53
+
+#### [čśŠĺ¤§čśŠĺźşďźŒä¸ĺ†ć˜Ż LLM çš„ä¸“ĺˆŠďźšPixVerse R2 ć”ťĺ…‹ĺŽžć—śä¸–ç•Œć¨Ąĺž‹ Scaling éšžé˘˜](https://www.leiphone.com/category/yanxishe/qrkgXZRZeLOX4viW.html)
+**发布时间**: 2026-09-30 15:53
+
+#### [GPT-6 Astra ä¸Šć‰‹ä˝“éŞŒďźščŠąäş†ä¸€ĺ‘¨ďźŒĺŽƒçœŸĺœ¨ç”ľč„‘é‡Œĺťşäş†ĺş§ć›źĺ“ˆéĄżďź](https://www.leiphone.com/category/yanxishe/dlrewTdG7xNo2gFo.html)
+**发布时间**: 2026-09-30 15:50
+
+#### [Kimi ĺ’Œ DeepSeekďźŒä¸şäť€äšˆĺ‡şçŽ°ĺœ¨ĺŒä¸€ĺź ć¨Ąĺž‹ćžśćž„ĺ›žé‡ŒďźŸ](https://www.leiphone.com/category/yanxishe/S39sSkqntdgkDuJu.html)
+**发布时间**: 2026-09-30 15:45
+
+#### [ćˆ‘äťŹčŽŠ GPTâ€‘6 Astraă€Fable 5.1 ĺ’Œ Sol ćŽ§ĺˆśĺŒä¸€ĺ°ćœşĺ™¨äşşďźšč°çœŸçš„ćŠŠć´ťĺš˛ĺŽŒäş†ďźŸ](https://www.leiphone.com/category/yanxishe/hfRMbwkVyjskWX3a.html)
+**发布时间**: 2026-09-30 15:38
+
+#### [ć‹†č§Ł WorkBuddyă€ĺƒé—ŽĺŠžĺ…Źĺ’Œčą†ĺŒ…ĺˇĽä˝œďźŒĺŽƒäťŹĺ…śĺŽžä¸ć˜ŻĺŒä¸€ç§äş§ĺ“](https://www.leiphone.com/category/yanxishe/d4mykzxmMYWWwHNk.html)
+**发布时间**: 2026-09-30 15:37
+
+#### [ĺŽžćľ‹ Seedance 2.5 vs ĺŻçľ 3.0ďźŒč°čƒ˝čŽŠćˆ‘äťŹć— ç—›ĺ˝“ä¸Šč§†é˘‘ĺŻźćź”ďźŸ](https://www.leiphone.com/category/academic/Fsil8u9HyNOPW4Du.html)
+**发布时间**: 2026-09-30 15:35
+
+#### [äťŽ Dreamore ĺˆ° CreaXeneďźšAI ç”ŸćˆĺˇĽĺ…ˇć­Łĺœ¨čľ°ĺ‘ĺˆ›ä˝œĺˇĽä˝œćľ](https://www.leiphone.com/category/industrynews/b7WL9zxqi4D4icMv.html)
+**发布时间**: 2026-09-30 14:56
+
+#### [ĺ…ˇčşŤć™şčƒ˝ä¸ĺŞĺœ¨ĺœ°ä¸Ščˇ‘ďźšçť™ć— äşşćœşčŁ…ä¸Šćœşć˘°č‡‚ďźŒĺŽƒäťŹčŚĺŽťĺ¤Šä¸Šă€Œć‹§čžşć “ă€äş† | IROS 2026](https://www.leiphone.com/category/academic/XSVcStujND4eWLFZ.html)
+**发布时间**: 2026-09-30 14:29
+
+#### [äťŽä¸‰çť´č§†č§‰ĺˆ°ä¸–ç•Œć¨Ąĺž‹ďźšçŠşé—´ć™şčƒ˝ä¸şä˝•ćˆä¸ş AI čľ°ĺ‘ç‰Šç†ä¸–ç•Œçš„ĺ…ąĺŒä¸ťçşżďźŸ| ECCV 2026ĺ¤ç›˜](https://www.leiphone.com/category/academic/hxpVB01n8UMq6NDS.html)
+**发布时间**: 2026-09-30 14:24
+
+#### [čŽĄçŽ—ćœşč§†č§‰çš„ä¸‹ä¸€ä¸Şĺĺš´ďźšäťŽă€Œçœ‹ć‡‚ä¸–ç•Œă€ĺˆ°ă€Œć•™äźšäşşçąťă€| ECCV 2026](https://www.leiphone.com/category/academic/EYTYKcfryCD1qv4O.html)
+**发布时间**: 2026-09-30 14:18
+
+#### [NVIDIA ćŽćŸäžďźšćœşĺ™¨äşşĺŞäźšă€Œçœ‹ă€čż˜ä¸ĺ¤ŸďźŒĺŽƒčż˜ĺž—ĺ­Śäźšă€ŒĺŹă€| ECCV 2026](https://www.leiphone.com/category/academic/QYtQQeHT53Dn0BWB.html)
+**发布时间**: 2026-09-30 14:12
+
+#### [ćşĺ‡ć™şčƒ˝ć¨ć€ćˆďźšĺ…ˇčşŤć¨Ąĺž‹čƒ˝ĺŠ›çŞç ´äš‹ĺ‰ďźŒçľĺˇ§ć‰‹čŚĺ…ˆĺˇć€§čƒ˝ď˝œç‰Šç†AI 50äşş](https://www.leiphone.com/category/robot/rhJu6CEW1OjHWAHH.html)
+**发布时间**: 2026-09-30 11:55
+
+#### [ĺ…ˇčşŤć™şčƒ˝çš„ć— ćœŹä˝“ć•°ćŽďźŒçťˆäşŽćœ‰äş†č‡Şĺˇąçš„ă€ŒäťŁčĄ¨ä˝œă€](https://www.leiphone.com/category/robot/S9YPlbN9tONrBqrI.html)
+**发布时间**: 2026-09-30 11:53
+
+#### [č˘Ťč´¨ç–‘ă€ŒĺŽšć˜“ĺ¤ĺˆśă€çš„č§†č§Śč§‰ďźŒĺˆ°ĺş•éšžĺœ¨ĺ“ŞďźŸ](https://www.leiphone.com/category/robot/JhZ6UpPE5DgSREvQ.html)
+**发布时间**: 2026-09-30 11:50
+
+#### [čą†ĺŒ…ć”ŻćŒĺ‡şčĄŒćœĺŠĄďźšä¸€ĺĽčŻčŽ˘ćœşçĽ¨ă€çŤč˝ŚçĽ¨ďźŒć‰“č˝ŚĺŻźčˆŞĺ…¨čŚ†ç›–](https://www.leiphone.com/category/industrynews/THHBFFfWaradAOlZ.html)
+**发布时间**: 2026-09-30 11:11
+
+#### [éŚ–ć‰šć­č˝˝çŹŹĺ…­äťŁéŞéž™ 8 čś…çş§č‡łĺ°Šç‰ˆďźŒiQOO16 äťŠć—Ľĺ‘ĺ¸ƒĺšśĺź€ĺ”Ž](https://www.leiphone.com/category/industrynews/f6VtGRkwFooHFN7M.html)
+**发布时间**: 时间未知
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast](https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/)
+**发布时间**: 2026-10-01 23:44
+
+#### [Fall Into 25 New Games on GeForce NOW This October](https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/)
+**发布时间**: 2026-10-01 13:00
+
+#### [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/)
+**发布时间**: 2026-10-01 13:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Serve live, governed data in AI-built apps with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/)
+**发布时间**: 2026-10-01 19:49
+
+#### [Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors](https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/)
+**发布时间**: 2026-10-01 17:34
+
+#### [Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS](https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws/)
+**发布时间**: 2026-10-01 16:51
+
+#### [Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows](https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows/)
+**发布时间**: 2026-10-01 16:40
+
+#### [Implementing Multi-Environment Access for Claude Platform on AWS](https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws/)
+**发布时间**: 2026-10-01 16:32
+
+#### [Simplify dashboard drill-down with the Amazon Quick Sight hierarchy filter](https://aws.amazon.com/blogs/machine-learning/simplify-dashboard-drill-down-with-the-amazon-quick-sight-hierarchy-filter/)
+**发布时间**: 2026-10-01 16:28
+
+#### [How uniopen customized Amazon Nova to their retail moderation policies for production deployment](https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment/)
+**发布时间**: 2026-10-01 15:33
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New tool lets users repair AI-generated 3D models, then fabricate them just the way they want](https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001)
+**发布时间**: 2026-10-01 18:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [何恺明团队新作：看猫片就能学会ARC挑战](https://www.qbitai.com/2026/10/499812.html)
+**发布时间**: 2026-10-01 15:06
+
+#### [谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让](https://www.qbitai.com/2026/10/499663.html)
+**发布时间**: 2026-10-01 15:02
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](https://huggingface.co/blog/allenai/olmocore3)
+**发布时间**: 2026-10-01 15:01
 
 ---
 
